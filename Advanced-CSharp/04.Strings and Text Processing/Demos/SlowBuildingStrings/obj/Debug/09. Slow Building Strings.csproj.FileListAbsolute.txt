@@ -1,5 +1,0 @@
-C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\SlowBuildingStrings\bin\Debug\SlowBuildingStrings.exe
-C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\SlowBuildingStrings\bin\Debug\SlowBuildingStrings.pdb
-C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\SlowBuildingStrings\obj\Debug\09. Slow Building Strings.csprojResolveAssemblyReference.cache
-C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.exe
-C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\SlowBuildingStrings\obj\Debug\SlowBuildingStrings.pdb
