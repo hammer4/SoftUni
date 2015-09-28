@@ -1,0 +1,6 @@
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\bin\Debug\01.exe.config
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\obj\Debug\01.exe
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\obj\Debug\01.pdb
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\bin\Debug\01.exe
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\bin\Debug\01.pdb
+D:\SoftUni\Advanced C#\01.Arrays, Lists, Stacks, Queues\Exercises\01.Sort Array of Numbers Using Bubble Sort\obj\Debug\01.Sort Array of Numbers Using Bubble Sort.csprojResolveAssemblyReference.cache
