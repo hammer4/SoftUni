@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\bin\Debug\HashSet.exe.config
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\bin\Debug\HashSet.exe
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\bin\Debug\HashSet.pdb
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\obj\Debug\6. HashSet.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\obj\Debug\HashSet.exe
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\HashSet\obj\Debug\HashSet.pdb

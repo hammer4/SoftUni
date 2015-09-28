@@ -1,0 +1,4 @@
+C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\StringBuilder-Demo\bin\Debug\StringBuilder-Demo.exe
+C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\StringBuilder-Demo\bin\Debug\StringBuilder-Demo.pdb
+C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\StringBuilder-Demo\obj\Debug\StringBuilder-Demo.exe
+C:\Users\Filip Kolev\Desktop\CSharp-Part-2\trunk\06. Strings and Text Processing\StringBuilder-Demo\obj\Debug\StringBuilder-Demo.pdb

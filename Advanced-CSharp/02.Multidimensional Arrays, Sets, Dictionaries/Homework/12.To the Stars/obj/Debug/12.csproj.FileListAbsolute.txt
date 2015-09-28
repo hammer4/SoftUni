@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\bin\Debug\12.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\bin\Debug\12.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\bin\Debug\12.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\obj\Debug\12.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\obj\Debug\12.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\12\obj\Debug\12.pdb

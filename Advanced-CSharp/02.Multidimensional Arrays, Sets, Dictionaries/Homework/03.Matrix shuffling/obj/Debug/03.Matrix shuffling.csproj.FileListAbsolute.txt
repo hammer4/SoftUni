@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\bin\Debug\03.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\bin\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\bin\Debug\03.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\obj\Debug\03.Matrix shuffling.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\obj\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\03\obj\Debug\03.pdb
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\03.Matrix shuffling\bin\Debug\03.exe.config
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\03.Matrix shuffling\obj\Debug\03.exe
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\03.Matrix shuffling\obj\Debug\03.pdb

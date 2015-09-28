@@ -1,0 +1,3 @@
+D:\SoftUni\Advanced C#\03.Methods\Exercises\01.Letter Creator\bin\Debug\01.exe.config
+D:\SoftUni\Advanced C#\03.Methods\Exercises\01.Letter Creator\obj\Debug\01.exe
+D:\SoftUni\Advanced C#\03.Methods\Exercises\01.Letter Creator\obj\Debug\01.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\01\bin\Debug\01.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\01\obj\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\01\obj\Debug\01.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\01\bin\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\01\bin\Debug\01.pdb
+D:\SoftUni\Advanced C#\03.Methods\Homework\01.Bigger Number\bin\Debug\01.exe.config
+D:\SoftUni\Advanced C#\03.Methods\Homework\01.Bigger Number\obj\Debug\01.exe
+D:\SoftUni\Advanced C#\03.Methods\Homework\01.Bigger Number\obj\Debug\01.pdb

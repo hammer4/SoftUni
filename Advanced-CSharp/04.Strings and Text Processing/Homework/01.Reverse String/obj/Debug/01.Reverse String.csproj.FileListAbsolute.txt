@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\01\bin\Debug\01.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\01\obj\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\01\obj\Debug\01.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\01\bin\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\01\bin\Debug\01.pdb
+D:\SoftUni\Advanced C#\04.Strings and Text Processing\Homework\01.Reverse String\bin\Debug\01.exe.config
+D:\SoftUni\Advanced C#\04.Strings and Text Processing\Homework\01.Reverse String\obj\Debug\01.exe
+D:\SoftUni\Advanced C#\04.Strings and Text Processing\Homework\01.Reverse String\obj\Debug\01.pdb

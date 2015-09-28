@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\11\bin\Debug\11.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\11\bin\Debug\11.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\11\bin\Debug\11.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\11\obj\Debug\11.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\11\obj\Debug\11.pdb
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\11.String Matrix Rotation\bin\Debug\11.exe.config
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\11.String Matrix Rotation\obj\Debug\11.exe
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\11.String Matrix Rotation\obj\Debug\11.pdb

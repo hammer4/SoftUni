@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\04\obj\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\03.H-Methods\04\bin\Debug\04.pdb

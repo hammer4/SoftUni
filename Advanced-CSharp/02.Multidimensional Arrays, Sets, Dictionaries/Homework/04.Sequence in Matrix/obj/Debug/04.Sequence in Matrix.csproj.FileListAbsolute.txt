@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\bin\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\obj\Debug\04.Sequence in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\02.H-MultiArrays,Sets,Dictionaries\04\obj\Debug\04.pdb
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\04.Sequence in Matrix\bin\Debug\04.exe.config
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\04.Sequence in Matrix\obj\Debug\04.exe
+D:\SoftUni\Advanced C#\02.Multidimensional Arrays, Sets, Dictionaries\Homework\04.Sequence in Matrix\obj\Debug\04.pdb

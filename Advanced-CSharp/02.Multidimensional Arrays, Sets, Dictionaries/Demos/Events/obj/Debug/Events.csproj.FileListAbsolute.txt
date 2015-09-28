@@ -1,0 +1,1 @@
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Events\bin\Debug\Events.exe.config

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\06\bin\Debug\06.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\06\obj\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\06\obj\Debug\06.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\06\bin\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Advanced C#\04.H-Strings and Text Processing\06\bin\Debug\06.pdb
