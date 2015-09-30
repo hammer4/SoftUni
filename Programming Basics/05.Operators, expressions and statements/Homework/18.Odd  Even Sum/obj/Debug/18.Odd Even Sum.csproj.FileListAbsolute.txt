@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\18\bin\Debug\18.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\18\obj\Debug\18.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\18\obj\Debug\18.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\18\bin\Debug\18.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\18\bin\Debug\18.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\18.Odd  Even Sum\bin\Debug\18.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\18.Odd  Even Sum\obj\Debug\18.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\18.Odd  Even Sum\obj\Debug\18.pdb

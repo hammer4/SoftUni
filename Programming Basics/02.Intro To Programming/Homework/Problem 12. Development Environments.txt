@@ -1,0 +1,43 @@
+1. CodeLite
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. CodeLite offers a variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+
+Languages Supported: C, C++
+
+2. Code::Blocks
+Code::Blocks, an extensible and fully configurable IDE designed to support its users most demanding needs, supports C, C++ and Fortran. It provides a consistent look, feel and operation across all platforms for seamless transitions between work spaces, and it’s built around a plug-in framework, providing a multitude of options for extension. It’s open-source and offers cross-platform functionality with no hidden costs.
+
+Languages Supported: C, C++, Fortran
+
+3. Eclipse
+Many development frameworks are built on Eclipse, a free, open-source editor that was initially a Java environment but a variety of plug-ins have extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for instance, includes the Eclipse Platform along with the tools required to debug it, plus Java and Plugin Development Tooling and Git and CVS support. If your requirements are different, you can choose from a variety of Eclipse Package Solutions, including tools for Java developers, Scout Developers, RCP and RAP Developers and more.
+
+Languages Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+4. NetBeans
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files, with GNU Debugger Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates or building from scratch on most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options that support several additional technologies, including Java, PHP, HTML5 and more.
+
+Languages Supported: C, C++, C++11, Fortan, Assembler
+
+5. Microsoft Visual Studio
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web, desktop, mobile, and even game consoles. With a plethora of testing and compatibility tools, you can test on virtual machines, tap into the functionality of BrowserStack to see what your app looks like across more than 300 browsers, run compatibility reports to identify patterns and issues between browsers and so much more.
+
+Languages Supported:
+
+Variety of languages supported across products
+Ajax, ASP.NET, XAML, JavaScript, dynamic HTML, DHTML, Visual Basic, Visual C#, Visual C++, Visual F#, JScript
+Several platforms support any programming language
+
+6. MonoDevelop
+MonoDevelop is a free GNOME IDE designed primarily for C# and other .NET languages, but it’s open to most any language and has some variation in supported languages across platforms. MonoDevelop enables the rapid development of  desktop and ASP.NET web applications for Windows, Linux and Mac platforms, with the option to port applications created with Visual Studio to Max and Linux platforms, allowing for a consistent code base across platforms.
+
+Languages Supported: C#, Visual Basic, Java (IKVM), C/C++, Python, Boo, Vala
+
+7. PhpStorm
+A PHP IDE that offers support for Drupal and PHP frameworks, PhpStorm includes all the functionality of WebStorm (HTML/CSS Editor, JavaScript Editor) along with full support for PHP and Databases/SQL.
+
+Languages Supported: PHP, HTML, CSS, JavaScript
+
+8. AppBuilder
+Telerik’s AppBuilder provides a single framework for developing apps compatible with iOS, Android and Windows Phone 8 platforms. AppBuilder relies on the web-standard technologies, including HTML, CSS and JavaScript, and you can build in your choice of five IDEs — all integrated with AppBuilder, or build within your web browser using all the features you’d expect from a desktop IDE.
+
+Languages Supported: HTML, CSS, JavaScript

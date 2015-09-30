@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\bin\Debug\07.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\bin\Debug\07.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\bin\Debug\07.pdb
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\obj\Debug\07.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\obj\Debug\07.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\07\obj\Debug\07.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\bin\Debug\07.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\obj\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\obj\Debug\07.pdb

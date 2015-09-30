@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Homework\05\bin\Debug\05.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Homework\05\bin\Debug\05.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\05\bin\Debug\05.pdb
+c:\users\user\documents\visual studio 2013\Projects\Homework\05\obj\Debug\05.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\05\obj\Debug\05.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\bin\Debug\05.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\obj\Debug\05.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\obj\Debug\05.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Exercises\01.Practice Integer Numbers\bin\Debug\01.Practice Integer Numbers.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Exercises\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Exercises\01.Practice Integer Numbers\obj\Debug\01.Practice Integer Numbers.pdb

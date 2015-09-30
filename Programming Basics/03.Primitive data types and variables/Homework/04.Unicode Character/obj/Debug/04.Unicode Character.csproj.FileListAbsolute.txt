@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\04\obj\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\04\bin\Debug\04.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\04.Unicode Character\bin\Debug\04.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\04.Unicode Character\obj\Debug\04.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\04.Unicode Character\obj\Debug\04.pdb

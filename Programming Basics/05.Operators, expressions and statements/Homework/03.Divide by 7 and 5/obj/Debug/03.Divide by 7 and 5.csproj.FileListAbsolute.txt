@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\03\bin\Debug\03.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\03\bin\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\03\bin\Debug\03.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\03\obj\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\03\obj\Debug\03.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\03.Divide by 7 and 5\bin\Debug\03.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\03.Divide by 7 and 5\obj\Debug\03.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\03.Divide by 7 and 5\obj\Debug\03.pdb

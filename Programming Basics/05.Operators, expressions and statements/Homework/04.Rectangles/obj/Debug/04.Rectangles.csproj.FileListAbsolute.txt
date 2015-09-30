@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\04\bin\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\04\obj\Debug\04.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\04.Rectangles\bin\Debug\04.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\04.Rectangles\obj\Debug\04.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\04.Rectangles\obj\Debug\04.pdb

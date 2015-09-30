@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\bin\Debug\05.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\obj\Debug\05.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\obj\Debug\05.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\bin\Debug\05.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\05\bin\Debug\05.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\05.Boolean Variable\bin\Debug\05.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\05.Boolean Variable\obj\Debug\05.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\05.Boolean Variable\obj\Debug\05.pdb

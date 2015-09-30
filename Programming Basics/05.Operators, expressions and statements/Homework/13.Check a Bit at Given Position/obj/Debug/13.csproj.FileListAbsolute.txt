@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\5.Homework - Operators and Expressions\13\bin\Debug\13.exe.config
+c:\users\user\documents\visual studio 2013\Projects\5.Homework - Operators and Expressions\13\bin\Debug\13.exe
+c:\users\user\documents\visual studio 2013\Projects\5.Homework - Operators and Expressions\13\bin\Debug\13.pdb
+c:\users\user\documents\visual studio 2013\Projects\5.Homework - Operators and Expressions\13\obj\Debug\13.exe
+c:\users\user\documents\visual studio 2013\Projects\5.Homework - Operators and Expressions\13\obj\Debug\13.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\bin\Debug\13.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\obj\Debug\13.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\obj\Debug\13.pdb

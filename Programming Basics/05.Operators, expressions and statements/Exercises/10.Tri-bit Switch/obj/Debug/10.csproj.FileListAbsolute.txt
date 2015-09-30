@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\5.Exercises Operators and Expressions\10\bin\Debug\10.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\5.Exercises Operators and Expressions\10\bin\Debug\10.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\5.Exercises Operators and Expressions\10\bin\Debug\10.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\5.Exercises Operators and Expressions\10\obj\Debug\10.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\5.Exercises Operators and Expressions\10\obj\Debug\10.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\10\bin\Debug\10.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\10\obj\Debug\10.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\10\obj\Debug\10.pdb

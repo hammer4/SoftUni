@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\bin\Debug\18.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\bin\Debug\18.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\bin\Debug\18.pdb
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\obj\Debug\18.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\obj\Debug\18.exe
+c:\users\user\documents\visual studio 2013\Projects\Homework\18\obj\Debug\18.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\18\bin\Debug\18.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\18\obj\Debug\18.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\18\obj\Debug\18.pdb

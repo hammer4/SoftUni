@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\16\bin\Debug\16.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\16\obj\Debug\16.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\16\obj\Debug\16.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\16\bin\Debug\16.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\16\bin\Debug\16.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\16.Half Sum\bin\Debug\16.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\16.Half Sum\obj\Debug\16.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\16.Half Sum\obj\Debug\16.pdb

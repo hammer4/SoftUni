@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\15\bin\Debug\15.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\15\obj\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\15\obj\Debug\15.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\15\bin\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\15\bin\Debug\15.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\15.Joro, the Football Player\bin\Debug\15.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\15.Joro, the Football Player\obj\Debug\15.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\15.Joro, the Football Player\obj\Debug\15.pdb

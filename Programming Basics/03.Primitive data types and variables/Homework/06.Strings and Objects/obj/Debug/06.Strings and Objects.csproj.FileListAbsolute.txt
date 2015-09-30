@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\bin\Debug\06.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\obj\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\obj\Debug\06.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\bin\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\bin\Debug\06.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\06\obj\Debug\06.Strings and Objects.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\06.Strings and Objects\bin\Debug\06.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\06.Strings and Objects\obj\Debug\06.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\06.Strings and Objects\obj\Debug\06.pdb

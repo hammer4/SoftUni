@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\07\bin\Debug\07.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\07\bin\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\07\bin\Debug\07.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\07\obj\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\07\obj\Debug\07.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\07.First Bit\bin\Debug\07.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\07.First Bit\obj\Debug\07.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\07.First Bit\obj\Debug\07.pdb

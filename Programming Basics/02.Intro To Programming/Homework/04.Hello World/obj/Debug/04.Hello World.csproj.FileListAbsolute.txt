@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\bin\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\obj\Debug\04.Hello World.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\2.Homework-Math for Developers\04\obj\Debug\04.pdb
+D:\SoftUni\Programming Basics\02.Intro To Programming\Homework\04.Hello World\bin\Debug\04.exe.config
+D:\SoftUni\Programming Basics\02.Intro To Programming\Homework\04.Hello World\obj\Debug\04.exe
+D:\SoftUni\Programming Basics\02.Intro To Programming\Homework\04.Hello World\obj\Debug\04.pdb

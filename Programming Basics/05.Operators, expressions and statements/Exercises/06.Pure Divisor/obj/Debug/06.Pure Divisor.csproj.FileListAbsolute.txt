@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\06\bin\Debug\06.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\06\bin\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\06\bin\Debug\06.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\06\obj\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\06\obj\Debug\06.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\06.Pure Divisor\bin\Debug\06.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\06.Pure Divisor\obj\Debug\06.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Exercises\06.Pure Divisor\obj\Debug\06.pdb

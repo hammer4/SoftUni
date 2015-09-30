@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\21\bin\Debug\21.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\21\bin\Debug\21.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\21\bin\Debug\21.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\21\obj\Debug\21.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\21\obj\Debug\21.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\21.Bit Sifting\bin\Debug\21.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\21.Bit Sifting\obj\Debug\21.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\21.Bit Sifting\obj\Debug\21.pdb

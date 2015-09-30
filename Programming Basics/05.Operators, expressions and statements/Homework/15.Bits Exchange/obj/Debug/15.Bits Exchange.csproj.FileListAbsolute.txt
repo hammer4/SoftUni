@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\15\bin\Debug\15.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\15\bin\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\15\bin\Debug\15.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\15\obj\Debug\15.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\15\obj\Debug\15.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\15.Bits Exchange\bin\Debug\15.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\15.Bits Exchange\obj\Debug\15.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\15.Bits Exchange\obj\Debug\15.pdb

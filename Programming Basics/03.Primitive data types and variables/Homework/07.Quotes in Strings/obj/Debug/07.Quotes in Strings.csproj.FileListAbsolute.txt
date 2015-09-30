@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\bin\Debug\07.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\obj\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\obj\Debug\07.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\bin\Debug\07.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\07\bin\Debug\07.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\07.Quotes in Strings\bin\Debug\07.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\07.Quotes in Strings\obj\Debug\07.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\07.Quotes in Strings\obj\Debug\07.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\17\bin\Debug\17.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\17\obj\Debug\17.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\17\obj\Debug\17.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\17\bin\Debug\17.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\17\bin\Debug\17.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\17.Sunglasses\bin\Debug\17.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\17.Sunglasses\obj\Debug\17.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\17.Sunglasses\obj\Debug\17.pdb

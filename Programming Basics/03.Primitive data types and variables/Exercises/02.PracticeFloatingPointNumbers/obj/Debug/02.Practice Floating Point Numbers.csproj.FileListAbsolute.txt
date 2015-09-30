@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.E-Primitive data types and var\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.pdb

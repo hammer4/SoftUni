@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\bin\Debug\01.exe.config
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\bin\Debug\01.exe
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\bin\Debug\01.pdb
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\obj\Debug\01.exe
+c:\users\user\documents\visual studio 2013\Projects\5.Exercises Operators and Expressions\01\obj\Debug\01.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\01\bin\Debug\01.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\01\obj\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Exercises - Operators and Expressions\01\obj\Debug\01.pdb

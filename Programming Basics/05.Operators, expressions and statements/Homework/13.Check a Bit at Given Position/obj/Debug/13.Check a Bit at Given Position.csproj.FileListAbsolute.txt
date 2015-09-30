@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\bin\Debug\13.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\bin\Debug\13.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\bin\Debug\13.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\obj\Debug\13.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\5.Homework - Operators, Expressions and Statements\13\obj\Debug\13.pdb
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\13.Check a Bit at Given Position\bin\Debug\13.exe.config
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\13.Check a Bit at Given Position\obj\Debug\13.exe
+D:\SoftUni\Programming Basics\05.Operators, expressions and statements\Homework\13.Check a Bit at Given Position\obj\Debug\13.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\3.Homework - Primitive data types and variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.pdb
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe.config
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\19.Bits Inverter\obj\Debug\19.Bits Inverter.exe
+D:\SoftUni\Programming Basics\03.Primitive data types and variables\Homework\19.Bits Inverter\obj\Debug\19.Bits Inverter.pdb
