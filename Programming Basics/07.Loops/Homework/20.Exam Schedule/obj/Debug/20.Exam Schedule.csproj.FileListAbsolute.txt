@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\20\bin\Debug\20.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\20\bin\Debug\20.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\20\bin\Debug\20.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\20\obj\Debug\20.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\20\obj\Debug\20.pdb
+D:\SoftUni\Programming Basics\07.Loops\Homework\20.Exam Schedule\bin\Debug\20.exe.config
+D:\SoftUni\Programming Basics\07.Loops\Homework\20.Exam Schedule\obj\Debug\20.exe
+D:\SoftUni\Programming Basics\07.Loops\Homework\20.Exam Schedule\obj\Debug\20.pdb

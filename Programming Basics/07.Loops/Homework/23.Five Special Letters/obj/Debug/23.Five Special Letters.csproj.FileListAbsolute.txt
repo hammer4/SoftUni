@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\23\bin\Debug\23.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\23\bin\Debug\23.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\23\bin\Debug\23.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\23\obj\Debug\23.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\23\obj\Debug\23.pdb
+D:\SoftUni\Programming Basics\07.Loops\Homework\23.Five Special Letters\bin\Debug\23.exe.config
+D:\SoftUni\Programming Basics\07.Loops\Homework\23.Five Special Letters\obj\Debug\23.exe
+D:\SoftUni\Programming Basics\07.Loops\Homework\23.Five Special Letters\obj\Debug\23.pdb

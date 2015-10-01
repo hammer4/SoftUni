@@ -1,0 +1,3 @@
+D:\SoftUni\Programming Basics\07.Loops\Homework\21.Odd  Even Elements\bin\Debug\21.exe.config
+D:\SoftUni\Programming Basics\07.Loops\Homework\21.Odd  Even Elements\obj\Debug\21.exe
+D:\SoftUni\Programming Basics\07.Loops\Homework\21.Odd  Even Elements\obj\Debug\21.pdb

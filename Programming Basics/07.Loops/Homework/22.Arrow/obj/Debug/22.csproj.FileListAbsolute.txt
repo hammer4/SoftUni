@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\22\bin\Debug\22.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\22\bin\Debug\22.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\22\bin\Debug\22.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\22\obj\Debug\22.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\22\obj\Debug\22.pdb

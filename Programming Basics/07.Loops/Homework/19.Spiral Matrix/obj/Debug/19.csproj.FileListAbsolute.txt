@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\bin\Debug\19.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\bin\Debug\19.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\bin\Debug\19.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\obj\Debug\19.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\obj\Debug\19.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\19\obj\Debug\19.pdb

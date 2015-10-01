@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\09\bin\Debug\09.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\09\bin\Debug\09.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\09\bin\Debug\09.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\09\obj\Debug\09.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\09\obj\Debug\09.pdb
+D:\SoftUni\Programming Basics\07.Loops\Homework\09.Matrix of Numbers\bin\Debug\09.exe.config
+D:\SoftUni\Programming Basics\07.Loops\Homework\09.Matrix of Numbers\obj\Debug\09.exe
+D:\SoftUni\Programming Basics\07.Loops\Homework\09.Matrix of Numbers\obj\Debug\09.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\03\bin\Debug\03.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\03\bin\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\03\bin\Debug\03.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\03\obj\Debug\03.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\7.Homework - Loops\03\obj\Debug\03.pdb
+D:\SoftUni\Programming Basics\07.Loops\Homework\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.exe.config
+D:\SoftUni\Programming Basics\07.Loops\Homework\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.exe
+D:\SoftUni\Programming Basics\07.Loops\Homework\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.pdb
