@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\02\bin\Debug\02.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\02\bin\Debug\02.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\02\bin\Debug\02.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\02\obj\Debug\02.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\02\obj\Debug\02.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\02.Bonus Score\bin\Debug\02.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\02.Bonus Score\obj\Debug\02.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\02.Bonus Score\obj\Debug\02.pdb

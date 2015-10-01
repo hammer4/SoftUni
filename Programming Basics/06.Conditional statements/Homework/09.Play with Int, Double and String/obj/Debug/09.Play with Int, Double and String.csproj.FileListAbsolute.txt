@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\09\bin\Debug\09.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\09\bin\Debug\09.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\09\bin\Debug\09.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\09\obj\Debug\09.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\09\obj\Debug\09.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\09.Play with Int, Double and String\bin\Debug\09.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\09.Play with Int, Double and String\obj\Debug\09.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\09.Play with Int, Double and String\obj\Debug\09.pdb

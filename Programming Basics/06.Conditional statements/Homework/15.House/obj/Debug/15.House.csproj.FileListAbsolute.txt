@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\bin\Debug\14.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\bin\Debug\14.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\bin\Debug\14.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\obj\Debug\15.House.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\obj\Debug\14.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\15.House\obj\Debug\14.pdb

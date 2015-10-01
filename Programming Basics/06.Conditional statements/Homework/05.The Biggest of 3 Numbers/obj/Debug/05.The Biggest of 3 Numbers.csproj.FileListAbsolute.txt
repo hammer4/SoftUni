@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\05\bin\Debug\05.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\05\bin\Debug\05.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\05\bin\Debug\05.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\05\obj\Debug\05.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\05\obj\Debug\05.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\05.The Biggest of 3 Numbers\bin\Debug\05.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\05.The Biggest of 3 Numbers\obj\Debug\05.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\05.The Biggest of 3 Numbers\obj\Debug\05.pdb

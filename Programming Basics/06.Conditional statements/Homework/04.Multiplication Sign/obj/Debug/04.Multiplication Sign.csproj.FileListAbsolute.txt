@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\04\bin\Debug\04.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\04\bin\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\04\bin\Debug\04.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\04\obj\Debug\04.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\04\obj\Debug\04.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\04.Multiplication Sign\bin\Debug\04.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\04.Multiplication Sign\obj\Debug\04.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\04.Multiplication Sign\obj\Debug\04.pdb

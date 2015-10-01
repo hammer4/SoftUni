@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\08\bin\Debug\08.exe.config
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\08\bin\Debug\08.exe
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\08\bin\Debug\08.pdb
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\08\obj\Debug\08.exe
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\08\obj\Debug\08.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\08\bin\Debug\08.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\08\obj\Debug\08.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\08\obj\Debug\08.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\bin\Debug\14.exe.config
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\obj\Debug\14.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\bin\Debug\14.exe
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\bin\Debug\14.pdb
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\obj\Debug\14.exe
+c:\users\user\documents\visual studio 2013\Projects\6.Homework - Conditional statements\14\obj\Debug\14.pdb

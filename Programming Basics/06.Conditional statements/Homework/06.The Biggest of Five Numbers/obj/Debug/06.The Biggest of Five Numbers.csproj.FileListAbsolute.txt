@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\06\bin\Debug\06.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\06\obj\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\06\obj\Debug\06.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\06\bin\Debug\06.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\06\bin\Debug\06.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\06.The Biggest of Five Numbers\bin\Debug\06.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\06.The Biggest of Five Numbers\obj\Debug\06.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\06.The Biggest of Five Numbers\obj\Debug\06.pdb

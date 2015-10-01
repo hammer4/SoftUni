@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\bin\Debug\01.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\bin\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\bin\Debug\01.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\obj\Debug\01.Exchange If Greater.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\obj\Debug\01.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\01\obj\Debug\01.pdb
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\01.Exchange If Greater\bin\Debug\01.exe.config
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\01.Exchange If Greater\obj\Debug\01.exe
+D:\SoftUni\Programming Basics\06.Conditional statements\Homework\01.Exchange If Greater\obj\Debug\01.pdb

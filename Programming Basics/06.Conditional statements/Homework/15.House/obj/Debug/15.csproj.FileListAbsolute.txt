@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\bin\Debug\14.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\obj\Debug\14.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\obj\Debug\14.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\bin\Debug\14.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\bin\Debug\14.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\6.Homework - Conditional statements\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\bin\Debug\14.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\obj\Debug\14.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\obj\Debug\14.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\bin\Debug\14.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\bin\Debug\14.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SuftUni\Programming Basics\6.Homework - Conditional statements\15\obj\Debug\15.csprojResolveAssemblyReference.cache
