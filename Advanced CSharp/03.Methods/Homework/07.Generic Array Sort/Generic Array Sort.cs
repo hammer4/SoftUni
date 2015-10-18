@@ -158,6 +158,10 @@ class GenericArraySort
                             }
                         }
                     }
+                    else
+                    {
+                        break;
+                    }
                 }
             }
             if (arrayIsSorted)
