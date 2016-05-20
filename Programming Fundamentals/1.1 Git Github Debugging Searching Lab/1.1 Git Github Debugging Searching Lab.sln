@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Non-Working Days between Two Dates", "01. Debug the Code - Non-Working Days between Two Dates\01. Non-Working Days between Two Dates.csproj", "{106ED8FA-154E-4520-905F-039F23D65022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Double Palindromes", "02. Double Palindromes\02. Double Palindromes.csproj", "{AABE85A2-5B3E-40A4-9829-A16F06B80727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106ED8FA-154E-4520-905F-039F23D65022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106ED8FA-154E-4520-905F-039F23D65022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106ED8FA-154E-4520-905F-039F23D65022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106ED8FA-154E-4520-905F-039F23D65022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABE85A2-5B3E-40A4-9829-A16F06B80727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABE85A2-5B3E-40A4-9829-A16F06B80727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABE85A2-5B3E-40A4-9829-A16F06B80727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABE85A2-5B3E-40A4-9829-A16F06B80727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

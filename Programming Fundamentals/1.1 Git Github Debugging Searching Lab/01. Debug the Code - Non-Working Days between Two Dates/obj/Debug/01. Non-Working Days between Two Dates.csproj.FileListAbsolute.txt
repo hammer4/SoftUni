@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.1 Git Github Debugging Searching Lab\01. Debug the Code - Non-Working Days between Two Dates\bin\Debug\_01._6.Debug_the_Code__.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.1 Git Github Debugging Searching Lab\01. Debug the Code - Non-Working Days between Two Dates\bin\Debug\_01._6.Debug_the_Code__.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.1 Git Github Debugging Searching Lab\01. Debug the Code - Non-Working Days between Two Dates\bin\Debug\_01._6.Debug_the_Code__.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.1 Git Github Debugging Searching Lab\01. Debug the Code - Non-Working Days between Two Dates\obj\Debug\_01._6.Debug_the_Code__.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.1 Git Github Debugging Searching Lab\01. Debug the Code - Non-Working Days between Two Dates\obj\Debug\_01._6.Debug_the_Code__.pdb
