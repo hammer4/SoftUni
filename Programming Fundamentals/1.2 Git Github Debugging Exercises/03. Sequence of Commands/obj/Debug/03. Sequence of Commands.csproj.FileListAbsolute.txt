@@ -1,0 +1,3 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\03. Sequence of Commands\bin\Debug\_03.Array_Test.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\03. Sequence of Commands\obj\Debug\_03.Array_Test.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\03. Sequence of Commands\obj\Debug\_03.Array_Test.pdb

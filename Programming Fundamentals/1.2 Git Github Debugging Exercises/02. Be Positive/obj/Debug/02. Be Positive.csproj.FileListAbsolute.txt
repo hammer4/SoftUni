@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\bin\Debug\_02.Be_Positive.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\obj\Debug\02. Be Positive.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\obj\Debug\_02.Be_Positive.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\1.2 Git Github Debugging Exercises\02. Be Positive\obj\Debug\_02.Be_Positive.pdb
