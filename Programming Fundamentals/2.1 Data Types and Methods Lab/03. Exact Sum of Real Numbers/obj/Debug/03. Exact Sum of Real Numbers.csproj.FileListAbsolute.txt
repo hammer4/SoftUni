@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

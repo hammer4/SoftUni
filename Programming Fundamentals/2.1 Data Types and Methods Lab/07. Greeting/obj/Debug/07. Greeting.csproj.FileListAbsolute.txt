@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

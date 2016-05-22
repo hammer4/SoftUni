@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.pdb

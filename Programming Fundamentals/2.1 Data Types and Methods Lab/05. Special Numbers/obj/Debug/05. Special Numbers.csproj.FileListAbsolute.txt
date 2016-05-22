@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

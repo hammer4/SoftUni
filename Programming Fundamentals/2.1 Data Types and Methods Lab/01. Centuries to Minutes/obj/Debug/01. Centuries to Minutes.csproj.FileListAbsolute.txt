@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.1 Data Types and Methods Lab\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
