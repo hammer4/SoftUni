@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\bin\Debug\_09.Reverse_Characters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\obj\Debug\09. Reverse Characters.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\obj\Debug\_09.Reverse_Characters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\09. Reverse Characters\obj\Debug\_09.Reverse_Characters.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\bin\Debug\_24.Primes_in_Given_Range.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\obj\Debug\24. Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\obj\Debug\_24.Primes_in_Given_Range.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\24. Primes in Given Range\obj\Debug\_24.Primes_in_Given_Range.pdb

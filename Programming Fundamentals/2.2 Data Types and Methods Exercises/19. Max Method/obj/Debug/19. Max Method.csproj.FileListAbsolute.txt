@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\19. Max Method\bin\Debug\_19.Max_Method.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\19. Max Method\bin\Debug\_19.Max_Method.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\19. Max Method\bin\Debug\_19.Max_Method.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\19. Max Method\obj\Debug\_19.Max_Method.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\19. Max Method\obj\Debug\_19.Max_Method.pdb

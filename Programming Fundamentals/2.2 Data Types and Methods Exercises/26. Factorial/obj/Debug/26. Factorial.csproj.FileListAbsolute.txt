@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\bin\Debug\_26.Factorial.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\bin\Debug\_26.Factorial.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\bin\Debug\_26.Factorial.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\obj\Debug\26. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\obj\Debug\_26.Factorial.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\26. Factorial\obj\Debug\_26.Factorial.pdb

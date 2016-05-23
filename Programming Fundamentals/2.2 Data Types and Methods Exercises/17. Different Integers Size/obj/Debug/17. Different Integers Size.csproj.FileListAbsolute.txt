@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\obj\Debug\17. Different Integers Size.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.pdb

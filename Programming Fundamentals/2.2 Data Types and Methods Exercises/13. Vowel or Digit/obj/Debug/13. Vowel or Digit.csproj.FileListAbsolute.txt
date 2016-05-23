@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

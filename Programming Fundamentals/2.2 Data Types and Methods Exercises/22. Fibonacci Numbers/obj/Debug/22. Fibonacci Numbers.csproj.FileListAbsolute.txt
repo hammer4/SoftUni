@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\obj\Debug\22. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.pdb

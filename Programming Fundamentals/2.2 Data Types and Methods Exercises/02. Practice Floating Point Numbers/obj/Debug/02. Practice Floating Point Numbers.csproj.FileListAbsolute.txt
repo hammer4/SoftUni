@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\obj\Debug\02. Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\16. Print Part of the ASCII Table\bin\Debug\_16.Print_Part_of_the_ASCII.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\16. Print Part of the ASCII Table\obj\Debug\_16.Print_Part_of_the_ASCII.pdb

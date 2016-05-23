@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

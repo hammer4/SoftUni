@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\15. Comparing Floats\obj\Debug\_15.Comparing_Floats.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\2.2 Data Types and Methods Exercises\15. Comparing Floats\obj\Debug\_15.Comparing_Floats.pdb
