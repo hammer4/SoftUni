@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

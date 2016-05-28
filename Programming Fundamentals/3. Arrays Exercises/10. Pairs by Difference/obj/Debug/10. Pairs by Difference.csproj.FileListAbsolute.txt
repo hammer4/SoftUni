@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

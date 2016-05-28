@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.pdb

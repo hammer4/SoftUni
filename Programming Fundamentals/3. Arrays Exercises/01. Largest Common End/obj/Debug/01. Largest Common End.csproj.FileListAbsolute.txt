@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\bin\Debug\_01.Largest_Common_End.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\obj\Debug\01. Largest Common End.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\obj\Debug\_01.Largest_Common_End.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Exercises\01. Largest Common End\obj\Debug\_01.Largest_Common_End.pdb
