@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\bin\Debug\_04.Last_K_Numbers_Sums_Sequence.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\bin\Debug\_04.Last_K_Numbers_Sums_Sequence.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\bin\Debug\_04.Last_K_Numbers_Sums_Sequence.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\obj\Debug\04. Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\obj\Debug\_04.Last_K_Numbers_Sums_Sequence.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\04. Last K Numbers Sums Sequence\obj\Debug\_04.Last_K_Numbers_Sums_Sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\bin\Debug\_03.Sum__Min__Max__First__Last__Average.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\bin\Debug\_03.Sum__Min__Max__First__Last__Average.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\bin\Debug\_03.Sum__Min__Max__First__Last__Average.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\obj\Debug\03. Sum, Min, Max, First, Last, Average.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\obj\Debug\_03.Sum__Min__Max__First__Last__Average.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\03. Sum, Min, Max, First, Last, Average\obj\Debug\_03.Sum__Min__Max__First__Last__Average.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\05. Triple Sum\bin\Debug\_05.Triple_Sum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\05. Triple Sum\bin\Debug\_05.Triple_Sum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\05. Triple Sum\bin\Debug\_05.Triple_Sum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\05. Triple Sum\obj\Debug\_05.Triple_Sum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\05. Triple Sum\obj\Debug\_05.Triple_Sum.pdb

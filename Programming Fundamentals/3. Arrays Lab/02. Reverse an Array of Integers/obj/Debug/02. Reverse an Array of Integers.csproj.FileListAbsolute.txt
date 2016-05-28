@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\02. Reverse an Array of Integers\bin\Debug\_02.Reverse_an_Array_of_Integers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\02. Reverse an Array of Integers\bin\Debug\_02.Reverse_an_Array_of_Integers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\02. Reverse an Array of Integers\bin\Debug\_02.Reverse_an_Array_of_Integers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\02. Reverse an Array of Integers\obj\Debug\_02.Reverse_an_Array_of_Integers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\02. Reverse an Array of Integers\obj\Debug\_02.Reverse_an_Array_of_Integers.pdb

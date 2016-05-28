@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\bin\Debug\_08.Sum_Arrays.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\bin\Debug\_08.Sum_Arrays.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\bin\Debug\_08.Sum_Arrays.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\obj\Debug\08. Sum Arrays.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\obj\Debug\_08.Sum_Arrays.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\3. Arrays Lab\08. Sum Arrays\obj\Debug\_08.Sum_Arrays.pdb
