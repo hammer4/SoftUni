@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\bin\Debug\_09.Rotate_a_Matrix.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\bin\Debug\_09.Rotate_a_Matrix.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\bin\Debug\_09.Rotate_a_Matrix.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\obj\Debug\09. Rotate a Matrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\obj\Debug\_09.Rotate_a_Matrix.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\09. Rotate a Matrix\obj\Debug\_09.Rotate_a_Matrix.pdb

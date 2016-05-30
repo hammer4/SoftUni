@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\08. Build a Matrix of Letters\bin\Debug\_08.Build_a_Matrix_of_Letters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\08. Build a Matrix of Letters\bin\Debug\_08.Build_a_Matrix_of_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\08. Build a Matrix of Letters\bin\Debug\_08.Build_a_Matrix_of_Letters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\08. Build a Matrix of Letters\obj\Debug\_08.Build_a_Matrix_of_Letters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\08. Build a Matrix of Letters\obj\Debug\_08.Build_a_Matrix_of_Letters.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb
