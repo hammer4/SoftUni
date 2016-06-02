@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.pdb

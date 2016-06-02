@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\obj\Debug\09. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\obj\Debug\_09.Short_Words_Sorted.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\09. Short Words Sorted\obj\Debug\_09.Short_Words_Sorted.pdb

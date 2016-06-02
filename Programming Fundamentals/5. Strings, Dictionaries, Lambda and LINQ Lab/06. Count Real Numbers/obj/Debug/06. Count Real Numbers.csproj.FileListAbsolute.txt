@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\06. Count Real Numbers\bin\Debug\_06.Count_Real_Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\06. Count Real Numbers\bin\Debug\_06.Count_Real_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\06. Count Real Numbers\bin\Debug\_06.Count_Real_Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\06. Count Real Numbers\obj\Debug\_06.Count_Real_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\06. Count Real Numbers\obj\Debug\_06.Count_Real_Numbers.pdb

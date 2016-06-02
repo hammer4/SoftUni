@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\bin\Debug\_02.Count_Letters_in.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\bin\Debug\_02.Count_Letters_in.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\bin\Debug\_02.Count_Letters_in.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\obj\Debug\02. Count Letters in String.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\obj\Debug\_02.Count_Letters_in.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Lab\02. Count Letters in String\obj\Debug\_02.Count_Letters_in.pdb
