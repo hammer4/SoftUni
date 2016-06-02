@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\bin\Debug\_06.Hourglass_Sum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\obj\Debug\06. Hourglass Sum.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\obj\Debug\_06.Hourglass_Sum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\06. Hourglass Sum\obj\Debug\_06.Hourglass_Sum.pdb

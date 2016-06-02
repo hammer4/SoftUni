@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\bin\Debug\_12.Bomb_Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\obj\Debug\12. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\obj\Debug\_12.Bomb_Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\12. Bomb Numbers\obj\Debug\_12.Bomb_Numbers.pdb

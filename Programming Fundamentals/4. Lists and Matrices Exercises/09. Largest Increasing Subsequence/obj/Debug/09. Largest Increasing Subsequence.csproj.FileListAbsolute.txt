@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\bin\Debug\_9.Largest_Increasing_Sub.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\bin\Debug\_9.Largest_Increasing_Sub.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\bin\Debug\_9.Largest_Increasing_Sub.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\obj\Debug\09. Largest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\obj\Debug\_9.Largest_Increasing_Sub.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\09. Largest Increasing Subsequence\obj\Debug\_9.Largest_Increasing_Sub.pdb

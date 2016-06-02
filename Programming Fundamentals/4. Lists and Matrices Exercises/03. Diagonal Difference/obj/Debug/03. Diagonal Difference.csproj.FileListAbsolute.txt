@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\03. Diagonal Difference\bin\Debug\_03.Diagonal_Difference.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\03. Diagonal Difference\bin\Debug\_03.Diagonal_Difference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\03. Diagonal Difference\bin\Debug\_03.Diagonal_Difference.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\03. Diagonal Difference\obj\Debug\_03.Diagonal_Difference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\03. Diagonal Difference\obj\Debug\_03.Diagonal_Difference.pdb

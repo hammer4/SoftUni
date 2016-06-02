@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\bin\Debug\_01.Max_Sequence_of_Equal.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\obj\Debug\01. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\obj\Debug\_01.Max_Sequence_of_Equal.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\01. Max Sequence of Equal Elements\obj\Debug\_01.Max_Sequence_of_Equal.pdb

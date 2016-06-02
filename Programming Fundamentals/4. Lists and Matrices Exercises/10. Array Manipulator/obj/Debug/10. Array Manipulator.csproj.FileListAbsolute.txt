@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\bin\Debug\_10.Array_Manipulator.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\bin\Debug\_10.Array_Manipulator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\bin\Debug\_10.Array_Manipulator.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\obj\Debug\10. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\obj\Debug\_10.Array_Manipulator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\4. Lists and Matrices Exercises\10. Array Manipulator\obj\Debug\_10.Array_Manipulator.pdb
