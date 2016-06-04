@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\09. Capitalization\bin\Debug\_09.Capitalization.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\09. Capitalization\bin\Debug\_09.Capitalization.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\09. Capitalization\bin\Debug\_09.Capitalization.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\09. Capitalization\obj\Debug\_09.Capitalization.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\09. Capitalization\obj\Debug\_09.Capitalization.pdb

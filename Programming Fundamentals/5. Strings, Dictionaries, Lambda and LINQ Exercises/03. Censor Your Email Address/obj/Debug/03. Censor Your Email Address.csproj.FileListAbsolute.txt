@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your Email Address\bin\Debug\_03.Censor_Your.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your Email Address\bin\Debug\_03.Censor_Your.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your Email Address\bin\Debug\_03.Censor_Your.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your Email Address\obj\Debug\_03.Censor_Your.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your Email Address\obj\Debug\_03.Censor_Your.pdb

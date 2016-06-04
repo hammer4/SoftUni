@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\12. Phonebook Upgrad\bin\Debug\_12.Phonebook_Upgrad.exe.config

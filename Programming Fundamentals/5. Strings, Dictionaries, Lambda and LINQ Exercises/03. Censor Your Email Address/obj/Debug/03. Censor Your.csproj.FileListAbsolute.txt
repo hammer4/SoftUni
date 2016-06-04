@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\03. Censor Your\bin\Debug\_03.Censor_Your.exe.config

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\13. Phonebook Upgrade\bin\Debug\_12.Phonebook_Upgrad.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\13. Phonebook Upgrade\bin\Debug\_12.Phonebook_Upgrad.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\13. Phonebook Upgrade\bin\Debug\_12.Phonebook_Upgrad.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\13. Phonebook Upgrade\obj\Debug\_12.Phonebook_Upgrad.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\5. Strings, Dictionaries, Lambda and LINQ Exercises\13. Phonebook Upgrade\obj\Debug\_12.Phonebook_Upgrad.pdb
