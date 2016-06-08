@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

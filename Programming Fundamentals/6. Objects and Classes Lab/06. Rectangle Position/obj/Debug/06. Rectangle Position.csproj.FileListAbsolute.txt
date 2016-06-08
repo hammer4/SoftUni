@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\obj\Debug\06. Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

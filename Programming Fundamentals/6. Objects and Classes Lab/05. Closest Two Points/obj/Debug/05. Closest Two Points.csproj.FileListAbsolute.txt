@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\obj\Debug\03. Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\obj\Debug\_03.Big_Factorial.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Lab\03. Big Factorial\obj\Debug\_03.Big_Factorial.pdb
