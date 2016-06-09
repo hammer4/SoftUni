@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

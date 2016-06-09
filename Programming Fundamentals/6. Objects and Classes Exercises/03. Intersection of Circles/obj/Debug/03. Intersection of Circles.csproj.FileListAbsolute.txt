@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\03. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\_03.Intersection_of_Circles.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\_03.Intersection_of_Circles.pdb

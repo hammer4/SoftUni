@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\obj\Debug\_05.Book_Library.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\05. Book Library\obj\Debug\_05.Book_Library.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\6. Objects and Classes Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.pdb
