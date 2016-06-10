@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\bin\Debug\_01.Sweet_Dessert.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\bin\Debug\_01.Sweet_Dessert.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\bin\Debug\_01.Sweet_Dessert.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\obj\Debug\01. Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\obj\Debug\_01.Sweet_Dessert.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam I - June 2016\01. Sweet Dessert\obj\Debug\_01.Sweet_Dessert.pdb
