@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\bin\Debug\_03.Matrix_Operator.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\bin\Debug\_03.Matrix_Operator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\bin\Debug\_03.Matrix_Operator.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\obj\Debug\03. Matrix Operator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\obj\Debug\_03.Matrix_Operator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\03. Matrix Operator\obj\Debug\_03.Matrix_Operator.pdb

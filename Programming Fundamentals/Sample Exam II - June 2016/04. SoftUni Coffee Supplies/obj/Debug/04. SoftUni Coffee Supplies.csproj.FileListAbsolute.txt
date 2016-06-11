@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\04. SoftUni Coffee Supplies.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\_04.SoftUni_Coffee_Supplies.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Sample Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\_04.SoftUni_Coffee_Supplies.pdb
