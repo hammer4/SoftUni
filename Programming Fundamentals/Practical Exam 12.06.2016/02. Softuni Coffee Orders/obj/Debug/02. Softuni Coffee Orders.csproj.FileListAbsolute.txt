@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\02. Softuni Coffee Orders\obj\Debug\_02.Softuni_Coffee_Orders.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\02. Softuni Coffee Orders\obj\Debug\_02.Softuni_Coffee_Orders.pdb

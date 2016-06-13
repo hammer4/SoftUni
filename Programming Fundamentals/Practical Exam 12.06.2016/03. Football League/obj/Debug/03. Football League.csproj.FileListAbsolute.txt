@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\bin\Debug\_03.Football_League.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\bin\Debug\_03.Football_League.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\bin\Debug\_03.Football_League.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\obj\Debug\_03.Football_League.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\03. Football League\obj\Debug\_03.Football_League.pdb

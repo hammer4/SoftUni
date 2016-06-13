@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\bin\Debug\_01.Numbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\bin\Debug\_01.Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\bin\Debug\_01.Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\obj\Debug\01. Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\obj\Debug\_01.Numbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\01. Numbers\obj\Debug\_01.Numbers.pdb

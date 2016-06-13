@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\bin\Debug\_04.Trifon_s_Quest.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\bin\Debug\_04.Trifon_s_Quest.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\bin\Debug\_04.Trifon_s_Quest.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\obj\Debug\04. Trifon's Quest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\obj\Debug\_04.Trifon_s_Quest.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\Programming Fundamentals\Practical Exam 12.06.2016\04. Trifon's Quest\obj\Debug\_04.Trifon_s_Quest.pdb
