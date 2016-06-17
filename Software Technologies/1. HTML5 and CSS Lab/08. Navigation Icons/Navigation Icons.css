@@ -1,0 +1,28 @@
+﻿.icons {
+    background: #333;
+    text-align: center;
+    padding: 30px;
+    width: 440px;
+    border-radius: 10px;
+}
+
+.icons li {
+    display: inline-block;
+}
+
+.icons li a {
+    display: block;
+    width: 120px;
+    padding: 20px 5px;
+    border-radius: 10px;
+    text-decoration: none;
+    font: bold 12pt Arial;
+    color: white;
+}
+
+.icons li a:hover {
+    background: #594932;
+    color: #F0E0C9;
+    border: 2px solid #866129;
+    margin: -2px;
+}

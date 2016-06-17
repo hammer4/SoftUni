@@ -1,0 +1,58 @@
+﻿body {
+    font-family: Tahoma;
+}
+
+header {
+    background-color: rgb(245, 245, 220);
+    font-weight: 600;
+    text-align: center;
+    font-size: 2.5em;
+    padding: 10px 0;
+    margin: 20px;
+}
+
+aside {
+    display: inline-block;
+    width: 150px;
+    background-color: rgb(245, 245, 220);
+    margin: 0 20px;
+    padding: 15px 5px;
+    vertical-align: top;
+}
+
+aside ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 0 0px 20px 0;
+    background-color: rgb(245, 245, 245);
+    width: 1125px;
+    display: inline-block;
+}
+aside ul li {
+    padding: 0 10px;
+}
+
+aside ul li a {
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(165, 42, 42);
+    font-size: 1.2em;
+    display: block;
+}
+
+aside ul li a:hover {
+    background-color: rgb(222, 184, 135);
+    border-radius: 5px;
+}
+
+footer {
+    background-color: rgb(245, 245, 220);
+    padding: 15px 0;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 0 20px;
+}

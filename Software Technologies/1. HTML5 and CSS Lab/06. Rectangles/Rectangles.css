@@ -1,0 +1,22 @@
+﻿body {
+}
+
+body > div {
+    padding: 20px;
+    border: 3px dotted blue;
+    border-radius: 15px;
+}
+
+body > div > div {
+    padding: 20px;
+    border: 2px dashed red;
+    border-radius: 8px;
+}
+
+body > div > div > div {
+    font-size: 30px;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 2px;
+    text-align: center;
+}
