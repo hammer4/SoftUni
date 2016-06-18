@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>New Post</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/form-style.css" rel="stylesheet" />
+    <link href="styles/new-post-style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div class="wrapper">
+        <aside class="sidebar">
+            <div class="logo">
+                <img src="images/logo_sidebar.png" alt="logo" />
+            </div>
+            <hr />
+            <nav>
+                <ul>
+                    <a href="index.html" class="single-menu-element-link">
+                        <li class="single-menu-element">Home</li>
+                    </a>
+                    <a href="new-post.html" class="single-menu-element-link">
+                        <li class="single-menu-element">Create Post</li>
+                    </a>
+                    <a href="index.html" class="single-menu-element-link">
+                        <li class="single-menu-element">Logout</li>
+                    </a>
+                </ul>
+                <hr />
+                <h2 class="recent-posts-title">Recent Posts</h2>
+                <hr />
+                <ul>
+                    <a href="#" class="single-menu-element-link">
+                        <li class="single-recent-post">Example 1</li>
+                    </a>
+                    <a href="#" class="single-menu-element-link">
+                        <li class="single-recent-post">Example 2</li>
+                    </a>
+                    <a href="#" class="single-menu-element-link">
+                        <li class="single-recent-post">Example 3</li>
+                    </a>
+                    <a href="#" class="single-menu-element-link">
+                        <li class="single-recent-post">Example 4</li>
+                    </a>
+                    <a href="#" class="single-menu-element-link">
+                        <li class="single-recent-post">Example 5</li>
+                    </a>
+                </ul>
+            </nav>
+        </aside>
+        <main>
+            <header class="blog-title new-post-title">
+                New Post
+            </header>
+            <div class="new-post-block">
+                <h2 id="editor-title">Create new post</h2>
+                <form id="post-form">
+                    <ul class="title-author">
+                        <li class="single-element-form">
+                            <h1 class="title-form">Blog Post Title:</h1>
+                            <input type="text" value="" placeholder="Title" id="title" />
+                        </li>
+                        <li class="single-element-form">
+                            <h1 class="title-form">Author:</h1>
+                            <input type="text" value="" placeholder="Author" id="author" />
+                        </li>
+                    </ul>
+                    <h1 class="title-form">Content:</h1>
+                    <textarea class="content-field" type="text" value="" placeholder="Content" id="content"></textarea>
+                    <br />
+                    <button id="create-request-new-post">Publish</button>
+                </form>
+            </div>
+            <footer>
+                <p class="footer-text">
+                    &copy; Software University Foundation, No Rights Reserved
+                </p>
+            </footer>
+        </main>
+    </div>
+</body>
+</html>

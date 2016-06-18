@@ -1,0 +1,35 @@
+Home
+Login
+Register
+
+Recent Posts
+
+Example 1
+Example 2
+Example 3
+Example 4
+Example 5
+
+Home
+
+&nbsp;
+Work Begins on HTML5.1
+Posted on 22-May-2016 by Svetlin Nakov
+The World Wide Web Consortium (W3C) has begun work on HTML5.1, and this time it is handling the creation of the standard a little differently. The specification has its own GitHub project where anyone can see what is happening and propose changes. The organization says the goal for the new specification is "to match reality better, to make the specification as clear as possible to readers, and of course to make it possible for all stakeholders to propose improvements, and understand what makes changes to HTML successful." Creating HTML5 took years, but W3C hopes using GitHub will speed up the process this time around. It plans to release a candidate recommendation for HTML5.1 by June and a full recommendation in September.
+
+&nbsp;
+Windows 10 Preview with Bash Support Now Available
+Posted on 20-May-2016 by Vikash Jain
+Microsoft has released a new Windows 10 Insider Preview that includes native support for Bash running on Ubuntu Linux. The company first announced the new feature at last week's Build development conference, and it was one of the biggest stories of the event. The current process for installing Bash is a little complication, but Microsoft has aВ blog postВ that explains how the process works. The preview build also includes Cortana upgrades, extensions support, the new Skype Universal Windows Platform app and some interface improvements.
+
+&nbsp;
+Work Begins on HTML5.1
+Posted on 22-May-2016 by Svetlin Nakov
+The World Wide Web Consortium (W3C) has begun work on HTML5.1, and this time it is handling the creation of the standard a little differently. The specification has its own GitHub project where anyone can see what is happening and propose changes. The organization says the goal for the new specification is "to match reality better, to make the specification as clear as possible to readers, and of course to make it possible for all stakeholders to propose improvements, and understand what makes changes to HTML successful." Creating HTML5 took years, but W3C hopes using GitHub will speed up the process this time around. It plans to release a candidate recommendation for HTML5.1 by June and a full recommendation in September.
+
+&nbsp;
+Windows 10 Preview with Bash Support Now Available
+Posted on 20-May-2016 by Vikash Jain
+Microsoft has released a new Windows 10 Insider Preview that includes native support for Bash running on Ubuntu Linux. The company first announced the new feature at last week's Build development conference, and it was one of the biggest stories of the event. The current process for installing Bash is a little complication, but Microsoft has aВ blog postВ that explains how the process works. The preview build also includes Cortana upgrades, extensions support, the new Skype Universal Windows Platform app and some interface improvements.
+
+&copy; Software University Foundation, No Rights Reserved
