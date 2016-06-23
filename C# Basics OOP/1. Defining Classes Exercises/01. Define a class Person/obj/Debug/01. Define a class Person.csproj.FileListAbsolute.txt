@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\bin\Debug\_01.Define_a_class_Person.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\obj\Debug\01. Define a class Person.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\obj\Debug\_01.Define_a_class_Person.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\01. Define a class Person\obj\Debug\_01.Define_a_class_Person.pdb

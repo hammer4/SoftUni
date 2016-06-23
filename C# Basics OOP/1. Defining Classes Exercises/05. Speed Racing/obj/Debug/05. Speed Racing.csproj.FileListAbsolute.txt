@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\bin\Debug\_05.Speed_Racing.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\bin\Debug\_05.Speed_Racing.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\bin\Debug\_05.Speed_Racing.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\obj\Debug\05. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\obj\Debug\_05.Speed_Racing.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\05. Speed Racing\obj\Debug\_05.Speed_Racing.pdb

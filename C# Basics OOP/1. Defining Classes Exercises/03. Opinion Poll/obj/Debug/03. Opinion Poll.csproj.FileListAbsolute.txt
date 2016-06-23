@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.pdb

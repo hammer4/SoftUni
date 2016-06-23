@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\bin\Debug\_08.Pokemon_Trainer.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\bin\Debug\_08.Pokemon_Trainer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\bin\Debug\_08.Pokemon_Trainer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\obj\Debug\08. Pokemon Trainer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\obj\Debug\_08.Pokemon_Trainer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\08. Pokemon Trainer\obj\Debug\_08.Pokemon_Trainer.pdb

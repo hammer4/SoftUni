@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\bin\Debug\_04.Company_Roster.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\bin\Debug\_04.Company_Roster.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\bin\Debug\_04.Company_Roster.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\obj\Debug\04. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\obj\Debug\_04.Company_Roster.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\1. Defining Classes Exercises\04. Company Roster\obj\Debug\_04.Company_Roster.pdb
