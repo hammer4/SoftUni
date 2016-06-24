@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add/Delete Items</title>
+    <script src="../jquery-3.0.0.min.js"></script>
+    <style>
+        li a {
+            display: none;
+        }
+
+        li:hover a {
+            display: inline;
+        }
+    </style>
+</head>
+<body>
+<h1>List of Items</h1>
+<ul id="items"></ul>
+<input type="text" id="newItemText" />
+<input type="button" onclick="addItem()" value="Add"/>
+<script>
+    function addItemToList(text) {
+        let li = $('<li>')
+                .append($("<span>").text(text))
+                .append(" ")
+                .append($("<a href='#' onclick='deleteItem(this)'>[Delete]</a>"));
+        $('#items').append(li);
+    }
+
+    function addItem() {
+        let text = $('#newItemText').val();
+        addItemToList(text);
+        $('#newItemText').val('');
+    }
+    
+    function deleteItem(link) {
+        $(link).parent().remove();
+    }
+
+    $(function () {
+        $('#newItemText').keypress(function (e){
+            if(e.keyCode == 13) {
+                $('#newItemText + input[type = "button"]').click();
+            }
+        })
+    });
+</script>
+</body>
+</html>
