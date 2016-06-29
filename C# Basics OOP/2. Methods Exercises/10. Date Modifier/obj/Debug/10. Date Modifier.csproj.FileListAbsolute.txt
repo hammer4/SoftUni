@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\bin\Debug\_10.Date_Modifier.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\bin\Debug\_10.Date_Modifier.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\bin\Debug\_10.Date_Modifier.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\obj\Debug\_10.Date_Modifier.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\obj\Debug\_10.Date_Modifier.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\10. Date Modifier\obj\Debug\10. Date Modifier.csprojResolveAssemblyReference.cache

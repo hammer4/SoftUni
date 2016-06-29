@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\07. ImmutableList\bin\Debug\_07.ImmutableList.exe.config

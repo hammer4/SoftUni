@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\bin\Debug\_01.Method_Says_Hello_.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\bin\Debug\_01.Method_Says_Hello_.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\bin\Debug\_01.Method_Says_Hello_.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\obj\Debug\01. Method Says Hello!.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\obj\Debug\_01.Method_Says_Hello_.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\01. Method Says Hello!\obj\Debug\_01.Method_Says_Hello_.pdb

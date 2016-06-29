@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\bin\Debug\_12.Print_People.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\bin\Debug\_12.Print_People.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\bin\Debug\_12.Print_People.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\obj\Debug\12. Print People.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\obj\Debug\_12.Print_People.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\12. Print People\obj\Debug\_12.Print_People.pdb

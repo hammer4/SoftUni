@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\04. Number in Reversed Order\bin\Debug\_04.Number_in_Reversed_Order.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\04. Number in Reversed Order\bin\Debug\_04.Number_in_Reversed_Order.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\04. Number in Reversed Order\bin\Debug\_04.Number_in_Reversed_Order.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\04. Number in Reversed Order\obj\Debug\_04.Number_in_Reversed_Order.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\2. Methods Exercises\04. Number in Reversed Order\obj\Debug\_04.Number_in_Reversed_Order.pdb
