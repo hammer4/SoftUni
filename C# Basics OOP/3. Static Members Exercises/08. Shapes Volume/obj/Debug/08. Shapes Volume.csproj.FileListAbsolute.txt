@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\bin\Debug\_08.Shapes_Volume.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\bin\Debug\_08.Shapes_Volume.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\bin\Debug\_08.Shapes_Volume.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\obj\Debug\08. Shapes Volume.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\obj\Debug\_08.Shapes_Volume.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\08. Shapes Volume\obj\Debug\_08.Shapes_Volume.pdb

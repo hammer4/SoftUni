@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\bin\Debug\_03.Temperature_Converter.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\bin\Debug\_03.Temperature_Converter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\bin\Debug\_03.Temperature_Converter.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\obj\Debug\03. Temperature Converter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\obj\Debug\_03.Temperature_Converter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\03. Temperature Converter\obj\Debug\_03.Temperature_Converter.pdb

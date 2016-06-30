@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\bin\Debug\_05.Animal_Clinic.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\bin\Debug\_05.Animal_Clinic.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\bin\Debug\_05.Animal_Clinic.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\obj\Debug\05. Animal Clinic.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\obj\Debug\_05.Animal_Clinic.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\05. Animal Clinic\obj\Debug\_05.Animal_Clinic.pdb

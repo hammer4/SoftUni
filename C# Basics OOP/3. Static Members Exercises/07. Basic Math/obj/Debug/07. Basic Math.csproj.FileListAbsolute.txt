@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\bin\Debug\_07.Basic_Math.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\bin\Debug\_07.Basic_Math.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\bin\Debug\_07.Basic_Math.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\obj\Debug\07. Basic Math.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\obj\Debug\_07.Basic_Math.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\07. Basic Math\obj\Debug\_07.Basic_Math.pdb

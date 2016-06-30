@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\bin\Debug\_04.Beer_Counter.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\bin\Debug\_04.Beer_Counter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\bin\Debug\_04.Beer_Counter.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\obj\Debug\04. Beer Counter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\obj\Debug\_04.Beer_Counter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\04. Beer Counter\obj\Debug\_04.Beer_Counter.pdb

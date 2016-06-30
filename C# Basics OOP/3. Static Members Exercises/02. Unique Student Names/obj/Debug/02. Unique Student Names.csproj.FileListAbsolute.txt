@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\bin\Debug\_02.Unique_Student_Names.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\bin\Debug\_02.Unique_Student_Names.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\bin\Debug\_02.Unique_Student_Names.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\obj\Debug\02. Unique Student Names.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\obj\Debug\_02.Unique_Student_Names.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\02. Unique Student Names\obj\Debug\_02.Unique_Student_Names.pdb

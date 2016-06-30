@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\06. Planck Constant\bin\Debug\_06.Planck_Constant.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\06. Planck Constant\bin\Debug\_06.Planck_Constant.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\06. Planck Constant\bin\Debug\_06.Planck_Constant.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\06. Planck Constant\obj\Debug\_06.Planck_Constant.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\3. Static Members Exercises\06. Planck Constant\obj\Debug\_06.Planck_Constant.pdb
