@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\obj\Debug\01. Class Box.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\obj\Debug\_01.Class_Box.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\01. Class Box\obj\Debug\_01.Class_Box.pdb

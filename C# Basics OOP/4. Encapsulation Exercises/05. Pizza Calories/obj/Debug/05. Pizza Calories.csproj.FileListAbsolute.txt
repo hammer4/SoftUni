@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\bin\Debug\_05.Pizza_Calories.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\obj\Debug\05. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\05. Pizza Calories\obj\Debug\_05.Pizza_Calories.pdb

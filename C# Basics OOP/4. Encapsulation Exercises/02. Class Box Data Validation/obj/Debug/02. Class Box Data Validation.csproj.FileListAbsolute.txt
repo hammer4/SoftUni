@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\4. Encapsulation Exercises\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.pdb
