@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\bin\Debug\_03.Mankind.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\bin\Debug\_03.Mankind.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\bin\Debug\_03.Mankind.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\obj\Debug\03. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\obj\Debug\_03.Mankind.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\5. Inheritance Exercises\03. Mankind\obj\Debug\_03.Mankind.pdb

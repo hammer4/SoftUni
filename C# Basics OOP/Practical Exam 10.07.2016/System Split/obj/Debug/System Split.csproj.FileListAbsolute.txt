@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Softuni\C# Basics OOP\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.pdb
