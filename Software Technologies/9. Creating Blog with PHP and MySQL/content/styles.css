@@ -1,0 +1,81 @@
+body>header {
+    background: #eee;
+    padding: 5px;
+}
+
+body>header>a>img, body>header a  {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px 5px;
+    font-size: 1.2em;
+}
+
+body>footer {
+    background: #eee;
+    padding: 5px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+table th, table td {
+    background: #DDD;
+    padding: 5px;
+}
+
+ul#messages li {
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ul#messages li.info {
+    background: #7f7;
+}
+
+ul#messages li.error {
+    background: #d00;
+    color: white;
+}
+
+.validation-error {
+    vertical-align: top;
+    margin-left: 10px;
+    color: red;
+}
+
+#logged-in-info {
+    float: right;
+    margin-top: 18px;
+}
+
+#logged-in-info form {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+body>aside {
+    float: right;
+    width: 200px;
+    background: #CCC;
+    padding: 15px;
+    margin-left: 20px;
+}
+
+body>aside h2 {
+    margin: 5px 0px 15px 0px;
+}
+
+body>aside a {
+    display: block;
+    margin: 5px 0px;
+    text-decoration: none;
+}
+
+body>main:after {
+    content: '';
+    display: block;
+    clear: both;
+}
