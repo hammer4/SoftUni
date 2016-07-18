@@ -1,0 +1,57 @@
+SELECT * FROM [Blog].[dbo].[Posts]
+
+SELECT * FROM [Blog].[dbo].[Users]
+
+SELECT title, body FROM [Blog].[dbo].[Posts]
+
+SELECT username, fullname FROM [Blog].[dbo].[Users] ORDER BY username ASC
+
+SELECT username, fullname FROM [Blog].[dbo].[Users] ORDER BY fullname DESC , username DESC
+
+SELECT * FROM [Blog].[dbo].[Users] WHERE id IN (SELECT AuthorID FROM [Blog].[dbo].[Posts])
+
+SELECT [Blog].[dbo].[Users].UserName, [Blog].[dbo].[Posts].Title
+FROM [Blog].[dbo].[Users] JOIN [Blog].[dbo].[Posts]
+ON [Blog].[dbo].[Users].Id = [Blog].[dbo].[Posts].AuthorId
+
+SELECT UserName, FullName FROM [Blog].[dbo].[Users] WHERE id IN
+(SELECT AuthorID FROM [Blog].[dbo].[Posts] Where Id = 4)
+
+SELECT UserName, FullName FROM [Blog].[dbo].[Users] WHERE id IN
+(SELECT AuthorID FROM [Blog].[dbo].[Posts]) ORDER BY id DESC
+
+INSERT INTO [Blog].[dbo].[Posts] ([AuthorId], [Title], [Body], [Date])
+VALUES (2, 'Random Title', 'Random Content', CAST('2016-07-13T11:30:00' AS DateTime))
+
+UPDATE [Blog].[dbo].[Posts] SET Title = 'New Title' WHERE id = 33
+
+DELETE FROM [Blog].[dbo].[Posts] WHERE id = 33
+
+SELECT COUNT(*) AS Posts_Count from [Blog].[dbo].[Posts]
+
+SELECT COUNT(*) AS Posts_Count from [Blog].[dbo].[Posts] WHERE AuthorId = 2
+
+SELECT MIN(AuthorID) as Min_Value from [Blog].[dbo].[Posts]
+
+SELECT MIN(Date) as Min_Value from [Blog].[dbo].[Posts]
+
+SELECT MAX(AuthorId) as Max_Value from [Blog].[dbo].[Posts]
+
+SELECT MAX(Id) as Max_Value from [Blog].[dbo].[Tags]
+
+SELECT SUM(Id) as Sum_Ids from [Blog].[dbo].[Tags]
+
+SELECT SUM(Id) as Sum_Users_With_Posts_Ids from [Blog].[dbo].[Users]
+WHERE id IN (SELECT AuthorID FROM [Blog].[dbo].[Posts])
+
+SELECT COUNT(*) as Users_Count FROM [Blog].[dbo].[Users] WHERE Id in
+(SELECT AuthorID FROM [Blog].[dbo].[Posts]  WHERE Cast(Date as date) = '2016-06-14')
+
+SELECT * FROM [Blog].[dbo].[Posts] WHERE Cast(Date as date) = '2016-06-14'
+ORDER BY AuthorId 
+
+SELECT * FROM [Blog].[dbo].[Posts] Where Date = (SELECT MIN(Date) 
+FROM [Blog].[dbo].[Posts] WHERE AuthorId IN (SELECT id FROM [Blog].[dbo].[Users]))
+
+SELECT * FROM [Blog].[dbo].[Comments] WHERE PostId IN
+(SELECT Id FROM [Blog].[dbo].[Posts]) ORDER BY AuthorName , Id DESC
