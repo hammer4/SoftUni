@@ -1,0 +1,9 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    @Html.Partial("UserLayout")
+}
+else
+{
+    @Html.Partial("GuestLayout")
+}

@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "To Do List";
+}
+
+<h3>TODO Items</h3>
+<ul>
+    @model List<string>
+    @for(int index = 0; index < Model.Count; index++)
+    {
+        <li>
+            @Model[index]
+            @Html.ActionLink("[Delete]", "RemoveItem", new { index })
+        </li>
+    }
+</ul>
+
+<form action="/Home/AddItem" method="post">
+    <div>Add TODO item:</div>
+    <input type="text" autofocus name="newItem" />
+    <input type="submit" />
+</form>
