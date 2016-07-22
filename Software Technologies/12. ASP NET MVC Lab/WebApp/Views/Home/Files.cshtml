@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Files";
+}
+
+<h2>Listing files in C:\</h2>
+@model List<string>
+    @foreach(var file in Model)
+    {
+        <div>
+            @file
+        </div>
+    }
