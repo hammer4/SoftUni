@@ -1,0 +1,117 @@
+.new-post-blog {
+background: rgba(0, 0, 0, 0.5);
+width: 60%;
+margin: 0 auto;
+padding: 20px;
+border-radius: 20px;
+}
+.add-comment {
+    color: deepskyblue;
+    font-weight: bold;
+    font: 24px Lato-Black;
+    text-align: center;
+	margin: 20px;
+}
+#editor-title{
+color: white;
+font-weight: bold;
+font: 24px Lato-Black;
+text-align: center;
+}
+#post-form{
+background: #f2f2f2;
+border-radius: 20px;
+margin: 10px;
+}
+.single-element-form{
+display: inline-block;
+width: 40%;
+padding-top: 10px;
+}
+.content-field{
+resize:none;
+border: 3px solid #f2f2f2;
+outline: none;
+width: 550px;
+height: 300px;
+border-radius: 15px;
+text-algin: left;
+font: 12px Lato-Light;
+padding: 10px;
+}
+
+.content-field:focus{
+font: 12px Lato;
+font-weight:100;
+border: 3px solid rgba(255, 180, 0, 1);
+}
+
+.comment-field{
+    resize:none;
+    border: 3px solid #f2f2f2;
+    outline: none;
+    width: 300px;
+    height: 30px;
+    text-algin: left;
+    font: 12px Lato-Light;
+    padding: 10px;
+    margin: 0px 0px 0px 20px;
+}
+.comment-field:focus {
+    font: 12px Lato;
+    font-weight: 100;
+    border: 3px solid rgba(255, 180, 0, 1);
+}
+
+.comment-author-field{
+    resize:none;
+    border: 3px solid #f2f2f2;
+    outline: none;
+    width: 200px;
+    height: 30px;
+    text-algin: left;
+    font: 12px Lato-Light;
+    margin: 0px 0px 20px 20px;
+}
+
+.comment-author-field:focus {
+    font: 12px Lato;
+    font-weight: 100;
+    border: 3px solid rgba(255, 180, 0, 1);
+}
+.button-add-comment{
+    font: 16px Lato;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 180, 0, 1);
+    width: 200px;
+    height: 30px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin: 0px 0px 20px 20px;
+}
+.edit-post-title{
+    resize:none;
+    border: 3px solid #f2f2f2;
+    outline: none;
+    width: 200px;
+    height: 30px;
+    text-algin: left;
+    font: 20px Oswald;
+    margin: 20px 20px 20px 20px;
+}
+.edit-post-text{
+    resize:none;
+    border: 3px solid #f2f2f2;
+    outline: none;
+    width: 93%;
+    height: 300px;
+    border-radius: 15px;
+    text-algin: left;
+    font: 16px Lato;
+    padding: 10px;
+    margin: 20px 0px 20px 20px;
+
+
+}

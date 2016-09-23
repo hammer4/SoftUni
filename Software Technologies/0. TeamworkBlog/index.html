@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SoftUni Blog</title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <link type="text/css" rel="stylesheet" href="styles/main-styles.css"/>
+	<link type="text/css" rel="stylesheet" href="styles/form-style.css"/>
+	<link type="text/css" rel="stylesheet" href="styles/new-post-style.css"/>
+    <script src="scripts/jquery-3.0.0.min.js"></script>
+    <script src="scripts/VeiwFunctions.js"></script>
+	<script src="scripts/moment.js"></script>
+    <script src="scripts/blog.js"></script>
+	<script src="ckeditor/ckeditor.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <!------------------------------------ Navigation bar------------------------------------>
+        <aside class="sidebar">
+            <div class="logo">
+                <img src="images/logo_blog2.png" alt="logo" height="150" width="150">
+            </div>
+            <hr>
+            <nav id="nav">
+                <ul>
+                    <a href="#" id="linkHome" class="single-menu-element-link">
+                        <li class="single-menu-element">Home</li>
+                    </a>
+                    <a href="#" id="linkLogin" class="single-menu-element-link">
+                        <li class="single-menu-element">Login</li>
+                    </a>
+                    <a href="#" id="linkRegister" class="single-menu-element-link">
+                        <li class="single-menu-element">Register</li>
+                    </a>
+					<a href="#" id="linkNewPost" class="single-menu-element-link">
+                    <li class="single-menu-element">Create post</li>
+					</a>
+					<a href="#" id="linkLogout" class="single-menu-element-link">
+                    <li class="single-menu-element">Logout</li>
+					</a>
+                </ul>
+                <hr>
+                <h2 class="recent-posts-title">Recent Posts</h2>
+                <hr>
+                <ul id="recent-posts">
+                </ul>
+            </nav>
+        </aside>
+        <main>
+			<section id="infoBox" onclick='$(this).fadeOut()'>Info</section>
+			<section id="errorBox" onclick='$(this).fadeOut()'>Error</section>
+			<!------------------------------------ Home------------------------------------>
+			<section id="veiwHome" >
+                <header class="blog-title"><h3>Home</h3></header>
+                <ul id="posts" class="post-ul">
+                </ul>
+			</section>
+			
+			
+			<!------------------------------------ Login------------------------------------>
+			<section id="veiwLogin" >
+			 <header class="blog-title">Login</header>
+			 <div class="user-login-blog">
+            <form id="formLogin">
+                <h1 class="title-form">Username:</h1>
+                <input type="text" value="" placeholder="Enter Username" id="loginUser">
+                <h1 class="title-form">Password:</h1>
+                <input type="password" value="" placeholder="Enter password" id="loginPass">
+                <br>
+                <button id="login-request-button" type="submit">Login</button>
+            </form>
+            <a  id="linkRegister2" class="form-link" href="#">Register here</a>
+            </div>
+			</section>
+			
+			
+			<!------------------------------------ Register------------------------------------>
+			<section id="veiwRegister" >
+				<header class="register-title">Register</header>
+			<div class="user-login-blog">
+				<form id="formRegister">
+					<h1 class="title-form">Username:</h1>
+					<input type="text" value="" placeholder="Enter Username" id="registerUser">
+					<h1 class="title-form">Full name:</h1>
+					<input type="text" value="" placeholder="Enter Username" id="fullName">
+					<h1 class="title-form">Password:</h1>
+					<input type="password" value="" placeholder="Enter password" id="registerPass">
+					<h1 class="title-form">Confirm password:</h1>
+					<input type="password" value="" placeholder="Enter password" id="confirmPassword">
+					<br>
+					<button id="register-request-button" type="submit">Register</button>
+					<br>
+					<a  id="linkLogin2" class="form-link" href="#">Login here</a>
+				</form>
+			</div>
+			</section>
+			
+			
+			
+			<!------------------------------------ NewPost------------------------------------>
+			<section id="veiwNewPost" >
+					<header class="new-post-title">New Post</header>
+				
+				<div class="new-post-blog">
+				<h2 id="editor-title">Create new post</h2>
+					<form id="formCreatePost">
+				<ul class="title-author">
+					<li class="single-element-form">
+						<h1 class="title-form">Blog post title:</h1>
+						<input type="text" value="" placeholder="Title" id="title"/>
+					</li>
+					<li class="single-element-form">
+						<h1 class="title-form">Author:</h1>
+						<input type="text" value="admin" id="author" disabled/>
+				</ul>
+				<h1 class="title-form">Content:</h1>
+				<textarea class="content-field" type="text" value="" placeholder="Content" id="content"></textarea>
+				<br>
+				<button id="create-request-new-post" type="submit">Publish</button>
+
+			        </form>
+                </div>
+            </section>
+		
+            
+           
+            <!------------------------------------ Footer------------------------------------>
+        
+			<footer>
+            <p class="footer-text">
+                &copy; Software University Fondation, No Right Reserved
+            </p>
+			</footer>
+		</main>
+    </div>
+	<script>
+		// Replace the <textarea id="editor1"> with a CKEditor
+		// instance, using default configuration.
+		CKEDITOR.replace( 'content' );
+		var instance = CKEDITOR.instances.content;
+		instance.updateElement();
+	</script>
+</body>
+</html>

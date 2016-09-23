@@ -1,0 +1,193 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700,900);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+
+
+
+
+
+
+
+body{
+    line-height: 1;
+    font: 16px Lato;
+    color: #565656;
+}
+.wrapper{
+    overflow: hidden;
+    margin: 0 auto;
+    min-height: 900px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+}
+hr{
+    color: rgba(255, 255, 255, 0.5);
+    margin: 15px auto;
+    border: none;
+    border-bottom: 1px solid white;
+    width: 60%;
+}
+main {
+    margin: 0 auto;
+    min-height: inherit;
+    width: 80%;
+    position: relative;
+    float: right;
+}
+header {
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+.blog-title {
+    width: 160px;
+    font: 54px Arial;
+    font-weight: 600;
+    margin: 0 auto 50px;
+    color: #565656;
+    text-align: center;
+    border-bottom: 8px solid rgba(255, 180, 0, 1);
+}
+.register-title {
+    width:220px;
+    font: 54px Arial;
+    font-weight: 600;
+    margin: 0 auto 50px;
+    color: #565656;
+    text-align: center;
+    border-bottom: 8px solid rgba(255, 180, 0, 1)
+}
+.new-post-title {
+    width:260px;
+    font: 54px Arial;
+    font-weight: 600;
+    margin: 0 auto 50px;
+    color: #565656;
+    text-align: center;
+    border-bottom: 8px solid rgba(255, 180, 0, 1)
+}
+
+.sidebar {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: rgba(255, 180, 0, 1);
+    color: white;
+    font: 32px Lato;
+    font-weight: 300;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+}
+.logo{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.single-menu-element-link{
+    color: white;
+    text-decoration: none;
+    -moz-transition-property: font-weight;
+    -moz-transition-duration:  0.2s;
+    -moz-transition-timing-function: linear;
+    -moz-transition-delay: 0.1s;
+    -webkit-transition-property: font-weight;
+    -webkit-transition-duration:  0.2s;
+    -webkit-transition-timing-function: linear;
+    -webkit-transition-delay: 0.1s;
+    font-weight: 400;
+
+}
+.single-menu-element-link:hover {
+    font-weight: 900;
+    transition: background 0.2s ease, padding 0.5s linear;
+}
+.single-menu-element:hover{
+    background-color: rgba(246, 173, 0, 1);
+    height: 40px;
+    line-height: 32px;
+    transition: background 1s ease, padding 1s linear;
+}
+.single-menu-element{
+    padding: 10px;
+}
+.recent-posts-title{
+    font: 32px Oswald;
+    font-weight: 600;
+}
+.single-recent-post{
+    padding: 10px;
+    font-size: 18px;
+}
+#infoBox, #errorBox{
+    display: none;
+    width: 80%;
+    margin: 10px auto;
+    color: white;
+    text-align: center;
+    padding: 5px;
+	border-radius: 8px;
+    position: fixed;
+    z-index: 800;
+
+}
+#infoBox{
+	background: #393;
+}
+#errorBox{
+	background: #F50;
+}
+
