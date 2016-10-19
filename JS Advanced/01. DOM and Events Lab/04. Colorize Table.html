@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Colorize Table</title>
+</head>
+<body>
+<table>
+    <tr><th>Name</th><th>Town</th></tr>
+    <tr><td>Eve</td><td>Sofia</td></tr>
+    <tr><td>Nick</td><td>Varna</td></tr>
+    <tr><td>Didi</td><td>Ruse</td></tr>
+    <tr><td>Tedy</td><td>Varna</td></tr>
+</table>
+<button onclick="colorize()">Colorize</button>
+<script>
+    function colorize() {
+        let tableRows = document.querySelectorAll("table tr");
+        let index = 1;
+        for(let row of tableRows){
+            if(index % 2 == 0){
+                row.style.background = "Teal";
+            }
+            index++;
+        }
+    }
+</script>
+</body>
+</html>
