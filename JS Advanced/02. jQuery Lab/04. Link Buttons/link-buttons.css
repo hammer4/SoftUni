@@ -1,0 +1,25 @@
+a.button {
+    border: 1px solid #CCC;
+    background: #EEE;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #333;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+a.button.selected {
+    color: #111;
+    font-weight: bold;
+    border: 1px solid #AAA;
+    background: #BBB;
+}
+
+a.button.selected::before {
+    content: "\2713\20\20";
+}
+
+a:hover {
+    cursor: pointer;
+}
