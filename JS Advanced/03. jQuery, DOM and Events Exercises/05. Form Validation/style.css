@@ -1,0 +1,46 @@
+#wrapper{
+    margin:auto;
+    width: 410px;
+}
+
+form{
+    box-sizing: border-box;
+    background-image: url("images/background3.jpg");
+    width: 420px;
+    padding: 5px;
+}
+
+.pairContainer{
+    width: 95%;
+    display: table;
+    margin: 10px 0;
+}
+
+input{
+    float:right;
+    width: 60%;
+}
+
+label, legend{
+    color: darkblue;
+    font-weight: bold;
+}
+
+#submit{
+    box-sizing: border-box;
+    font-weight: bold;
+    color:white;
+    margin: 5px auto;
+    width: 95%;
+    background-color: blue;
+    display: block;
+}
+
+#valid{
+    box-sizing: border-box;
+    width: 420px;
+    padding: 5px;
+    color: lime;
+    border: 2px solid lime;
+    text-align: center;
+}

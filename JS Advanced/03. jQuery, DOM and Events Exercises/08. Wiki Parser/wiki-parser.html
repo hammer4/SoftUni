@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wiki Parser</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div>
+    <p id="wiki">
+        =Document title=
+        ==First segment==
+        '''bold 1''' word ''italics 1'' '''bold2'''
+        [[hyper first]] '''Bold three''' ''italics2'''
+        word [[hyper2]] [[hyperlink2|with Label]]
+        ==Second segment==
+        ===Third segment===
+        word '''word'''[[pipe|bomb]]
+    </p>
+</div>
+<script src="wiki-parser.js"></script>
+<script>
+    window.onload = function(){
+        wikiParser('#wiki');
+    }
+</script>
+</body>
+</html>
