@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bug Tracker</title>
+    <style>
+        #wrapper {
+            width: 800px;
+            border: 1px solid black;
+        }
+        #titlebar {
+            background-color: beige;
+            font-size: 2em;
+            padding: 0.5em;
+        }
+        .report {
+            margin: 1em;
+            border:1px solid black;
+            width: 400px;
+        }
+        .report .title {
+            background-color: cornflowerblue;
+            color: white;
+            padding: 0.25em;
+            position: relative;
+        }
+        .report .body p {
+            margin: 0.5em;
+        }
+        .report .title .status {
+            display: inline-block;
+            right: 0px;
+            position: absolute;
+            margin-right: 0.5em;
+        }
+    </style>
+    <script src="jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <div id="titlebar">Bug tracker</div>
+    <div id="content">
+        <div class="report">
+            <div class="body">
+                <p>Description</p>
+            </div>
+            <div class="title"><span class="author">Submitted by: Author</span><span class="status">Open | 5</span></div>
+        </div>
+        <div class="report">
+            <div class="body">
+                <p>Description</p>
+            </div>
+            <div class="title"><span class="author">Submitted by: Author</span><span class="status">Open | 5</span></div>
+        </div>
+        <div class="report">
+            <div class="body">
+                <p>Description</p>
+            </div>
+            <div class="title"><span class="author">Submitted by: Author</span><span class="status">Open | 5</span></div>
+        </div>
+    </div>
+</div>
+<script src="bug-tracker.js"></script>
+<script>
+    let tracker = bugTracker();
+
+    tracker.output('#content');
+    tracker.report('guy', 'report content', true, 5);
+    tracker.report('second guy', 'report content 2', true, 3);
+    tracker.report('abv', 'report content three', true, 4);
+
+    tracker.remove(1);
+</script>
+</body>
+</html>
