@@ -19,5 +19,7 @@ class Rat{
         for (let rat of this.unitedRats){
             string += `##${rat.name}\n`;
         }
+
+        return string;
     }
 }
