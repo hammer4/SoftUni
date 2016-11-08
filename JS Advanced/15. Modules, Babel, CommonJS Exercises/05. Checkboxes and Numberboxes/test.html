@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Checkbox</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <input id="married" type="checkbox"/>
+    <input id="age" type="number"/>
+</div>
+<script src="../node_modules/systemjs/dist/system.js"></script>
+<script>
+    System.config({ meta: { format: 'cjs' } });
+    System.import('./app.js');
+</script>
+<script src="app.js"></script>
+</body>
+</html>

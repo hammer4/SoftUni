@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modular DOM</title>
+    <style>
+        #wrapper {
+            width: 800px;
+        }
+
+        .header {
+            background-color: #ff9999;
+            color: white;
+        }
+
+        .title {
+            left: 80px;
+            font-size: 24px;
+            font-family: "Helvetica", sans-serif;
+            line-height: 40px;
+            margin-left: 24px;
+        }
+
+        .menu-link {
+            color: black;
+            font-family: "Helvetica", sans-serif;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+            padding: 2px 6px 2px 6px;
+            margin: 2px 6px 2px 6px;
+        }
+
+        .menu-link:hover {
+            color: #ff9999;
+            background-color: white;
+        }
+
+        .post {
+            margin: 48px;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #ff9999;
+            color: white;
+            height: 40px;
+        }
+
+        .article {
+            border: 1px solid black;
+            margin: 36px;
+        }
+
+        .article-title {
+            background-color: #ff9999;
+            padding: 6px 0 6px 24px;
+            font-family: "Helvetica", sans-serif;
+            font-size: 18px;
+        }
+
+        .article p {
+            margin: 24px;
+            text-align: justify;
+        }
+
+        .image {
+            margin: 24px;
+            text-align: center;
+        }
+
+        table {
+            margin: auto;
+            margin-bottom: 24px;
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+
+        th {
+            text-align: center;
+        }
+
+        tr, td, th {
+            padding: 2px 4px 2px 4px;
+            margin: 0;
+            border: 1px solid black;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <div id="head">
+    </div>
+    <main id="content">
+    </main>
+</div>
+<script src="../node_modules/systemjs/dist/system.js"></script>
+<script>
+    System.config({ meta: { format: 'cjs' } });
+    System.import('./app.js');
+</script>
+<script src="app.js"></script>
+</body>
+</html>

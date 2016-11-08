@@ -20,7 +20,7 @@ class NinjaTurtle extends Turtle{
                 output += `\n${this.name.substr(0, 3)} wears a ${this.maskColor} mask, and is an apprentice with the ${this.weapon}.`;
                 break;
             case this.level >= 25 && this.level < 100:
-                output += `\n${this.name.substr(0, 3)} wears a ${this.maskColor} mask, and is smoking strong with the ${this.weapon}.`;
+                output += `\n${this.name.substr(0, 3)} wears a ${this.maskColor} mask, and is smokin strong with the ${this.weapon}.`;
                 break;
             case this.level >= 100:
                 output += `\n${this.name.substr(0, 3)} wears a ${this.maskColor} mask, and is BEYOND GODLIKE with the ${this.weapon}.`;
