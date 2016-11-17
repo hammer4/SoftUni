@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phonebook in Firebase</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<h1>Phonebook</h1>
+<ul id="phonebook"></ul>
+<button id="btnLoad">Load</button>
+
+<h2>Create Contact</h2>
+Person:
+<input type="text" id="person" />
+<br>
+Phone:
+<input type="text" id="phone" />
+<br>
+<button id="btnCreate">Create</button>
+<script>
+    $(function () {
+        $('#btnLoad').click(loadContacts);
+        $('#btnCreate').click(createContact);
+
+        let baseServiceUrl = "https://phonebook-173c1.firebaseio.com/phonebook";
+        
+        function loadContacts() {
+            $('#phonebook').empty();
+            $.get(baseServiceUrl + ".json")
+                    .then(displayContacts)
+                    .catch(displayError);
+        }
+        
+        function displayContacts(contacts) {
+            for(let key in contacts){
+                let person = contacts[key]['person'];
+                let phone = contacts[key]['phone'];
+
+                $('#phonebook')
+                        .append($('<li>').text(person + ': ' + phone + ' ')
+                                .append($('<a>').attr('href', '#').text('[Delete]').click(function () {
+                                    deleteContact(key)
+                                })));
+            }
+        }
+
+        function displayError(err) {
+            $('#phonebook').append($('<li>').text("Error"));
+        }
+
+        function createContact() {
+            let newContactJSON = JSON.stringify({
+                person: $('#person').val(),
+                phone: $('#phone').val()
+            });
+
+            $.post(baseServiceUrl + '.json', newContactJSON)
+                    .then(loadContacts)
+                    .catch(displayError);
+
+            $('#person').val('');
+            $('#phone').val('');
+        }
+        
+        function deleteContact(key) {
+            let request = {
+                method: 'DELETE',
+                url: baseServiceUrl + '/' + key + '.json'
+            };
+
+            $.ajax(request)
+                    .then(loadContacts)
+                    .catch(displayError);
+        }
+    })
+</script>
+</body>
+</html>
