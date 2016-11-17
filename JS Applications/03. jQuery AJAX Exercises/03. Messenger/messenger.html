@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Messenger</title>
+    <style>
+        label { display: inline-block; width: 5em; }
+        #author, #content { width: 30em; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main">
+    <textarea id="messages" cols="80" rows="12" disabled="true"></textarea>
+    <div id="controls">
+        <label for="author">Name: </label><input id="author" type="text"><br>
+        <label for="content">Message: </label><input id="content" type="text">
+        <input id="submit" type="button" value="Send">
+        <input id="refresh" type="button" value="Refresh">
+    </div>
+</div>
+<script src="messenger.js"></script>
+<script>
+    attachEvents();
+</script>
+</body>
+</html>
