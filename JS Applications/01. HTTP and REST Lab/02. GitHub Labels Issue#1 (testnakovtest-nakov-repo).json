@@ -1,0 +1,23 @@
+[
+  {
+    "id": 479839740,
+    "url": "https://api.github.com/repos/testnakov/test-nakov-repo/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true
+  },
+  {
+    "id": 479891966,
+    "url": "https://api.github.com/repos/testnakov/test-nakov-repo/labels/sofia",
+    "name": "sofia",
+    "color": "fbca04",
+    "default": false
+  },
+  {
+    "id": 479892079,
+    "url": "https://api.github.com/repos/testnakov/test-nakov-repo/labels/varna",
+    "name": "varna",
+    "color": "1d76db",
+    "default": false
+  }
+]

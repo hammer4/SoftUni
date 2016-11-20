@@ -1,0 +1,13 @@
+{
+  "books": [
+    null,
+    {
+      "author": "Ivan Vazov",
+      "title": "Under the yoke"
+    },
+    {
+      "author": "Svetlin Nakov & Co.",
+      "title": "C# Fundamentals"
+    }
+  ]
+}

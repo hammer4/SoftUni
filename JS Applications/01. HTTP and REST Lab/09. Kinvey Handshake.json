@@ -1,0 +1,6 @@
+{
+  "version": "3.9.14-1",
+  "kinvey": "hello MyTestApp",
+  "appName": "MyTestApp",
+  "environmentName": "Development"
+}
