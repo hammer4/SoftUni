@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forecatser</title>
+    <style>
+        #content { width: 400px; }
+        #request { text-align: center; }
+        .bl { width: 300px; }
+        #current { text-align: center; font-size: 2em; }
+        #upcoming { text-align: center; }
+        .condition { text-align: left; display: inline-block; }
+        .symbol { font-size: 4em; display: inline-block; }
+        .forecast-data { display: block; }
+        .upcoming { display: inline-block; margin: 1.5em; }
+        .label { margin-top: 1em; font-size: 1.5em; background-color: aquamarine; font-weight: 400; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="content">
+    <div id="request">
+        <input id="location" class='bl' type="text">
+        <input id="submit" class="bl" type="button" value="Get Weather">
+    </div>
+    <div id="forecast" style="display:none">
+        <div id="current">
+            <div class="label">Current conditions</div>
+        </div>
+        <div id="upcoming">
+            <div class="label">Three-day forecast</div>
+        </div>
+    </div>
+</div>
+<script src="forecaster.js"></script>
+<script>
+    attachEvents();
+</script>
+</body>
+</html>
