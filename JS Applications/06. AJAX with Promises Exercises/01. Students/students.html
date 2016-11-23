@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Students</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        #results {
+            background-color: #FFFFFF;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        #results tr {
+            background-color: #AAAAAA;
+            padding: 5vh;
+            font-size: 1.5vw;
+        }
+
+        #results tr:nth-child(odd) {
+            background-color: #808080;
+        }
+
+        #results tr:first-child {
+            background-color: #000000;
+            color: #FFFFFF;
+            font-weight: bold;
+            font-size: 2vw;
+        }
+
+        #results tr th {
+            padding: 1vw;
+        }
+
+        #results tr td {
+            padding: 1vw;
+            transition: font-size 0.2s;
+        }
+
+        #results tr:not(:first-child):hover {
+            background-color: #F0F8FF;
+            color: #000000;
+            font-size: 2.25vw;
+        }
+
+        input {
+            display: block;
+        }
+
+    </style>
+</head>
+<body>
+<table id="results">
+    <tr>
+        <th>ID</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Faculty Number</th>
+        <th>Grade</th>
+    </tr>
+</table>
+<form id="newStudentForm">
+    <label for="ID">ID:</label>
+    <input type="number" id="ID" min="1"/>
+    <label for="FirstName">First Name:</label>
+    <input type="text" id="FirstName" />
+    <label for="LastName">Last Name:</label>
+    <input type="text" id="LastName" />
+    <label for="FacultyNumber">Faculty Number:</label>
+    <input type="number" id="FacultyNumber" min="1"/>
+    <label for="Grade">Grade:</label>
+    <input type="number" id="Grade" step="0.01" min="2" max="6"/>
+    <button type="submit" id="addStudent">Add Student</button>
+</form>
+<script src="students.js"></script>
+<script>students()</script>
+</body>
+</html>

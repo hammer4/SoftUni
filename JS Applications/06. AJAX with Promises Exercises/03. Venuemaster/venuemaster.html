@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Venue Master</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        #content { width: 800px; }
+        .venue { border: 1px solid black; margin: 0.5em; }
+        .venue-name { background-color: beige; padding: 0.1em; display: block; font-size: 2em; padding-left: 1em; }
+        .venue-name input { margin-right: 1em; }
+        .head { background-color: beige; padding: 0.1em; padding-left: 1.5em; display: block; font-size: 1.5em; }
+        .description { margin: 2em; }
+        table { text-align: center; margin: 2em; }
+        td, th { width: 100px; }
+        .purchase-info span { display: inline-block; width: 100px; margin-left: 2em; margin-right: 2em; }
+        .ticket { border: 1px solid black; text-align: center; overflow: hidden; }
+        .bl { display: inline-block; font-size: 1.5em; margin: 1em 3em 1em 3em; }
+        .left { width: 600px; float:left; }
+        .right { float:right; }
+    </style>
+</head>
+<body>
+<div id="content">
+    <div id="date-control">
+        <input type="text" id="venueDate" placeholder="Enter date">
+        <input type="button" id="getVenues" value="List Venues">
+    </div>
+    <div id="venue-info">
+    </div>
+</div>
+<script src="venuemaster.js"></script>
+<script>
+    attachEvents();
+</script>
+</body>
+</html>

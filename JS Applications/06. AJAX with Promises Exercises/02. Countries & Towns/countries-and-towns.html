@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries & Towns</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        .half {
+            width: 25%;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        .add {
+            margin-top: 30px;
+        }
+
+        .half > .title {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .half .controls {
+            text-align: center;
+        }
+
+        select {
+            width: 100%;
+            font-size: 15px;
+            text-align: center;
+        }
+
+        #editCountry, #editTown, .add{
+            display: none;
+        }
+
+        #errorDiv {
+            background-color: red;
+            display: none;
+            height: 30px;
+            color: white;
+            width: 50%;
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+<div id="errorDiv">
+</div>
+<div class="half">
+    <div class="title">Countries</div>
+    <select id="countries" size="10">
+    </select>
+
+    <div class="controls">
+        <button id="addCountry">Add</button>
+        <button id="btnDeleteCountry">Delete</button>
+        <button id="btnEditCountry">Edit</button>
+        <button id="btnListTowns">List Towns</button>
+    </div>
+</div>
+<div class="half">
+    <div class="title">Towns</div>
+    <select id="towns" size="10">
+    </select>
+
+    <div class="controls">
+        <button id="addTown">Add</button>
+        <button id="btnDeleteTown">Delete</button>
+        <button id="btnEditTown">Edit</button>
+    </div>
+</div>
+<div id="editCountry">
+    <label for="inputEditCountry">New name:</label>
+    <input type="text" id="inputEditCountry" />
+    <button id="editCoun">Edit now</button>
+</div>
+<div id="editTown">
+    <label for="inputEditTownName">New name:</label>
+    <input type="text" id="inputEditTownName" />
+    <label for="inputEditTownCountry">New country:</label>
+    <input type="text" id="inputEditTownCountry" />
+    <button id="editTownn">Edit now</button>
+</div>
+<div class="add">
+    <label for="newCountry">Name:</label>
+    <input type="text" id="newCountry" />
+    <button id="btnAddCountry">Add Country</button>
+</div>
+<div class="add">
+    <label for="newTown">Name:</label>
+    <input type="text" id="newTown" />
+    <label for="newTownCountry">Country:</label>
+    <input type="text" id="newTownCountry" />
+    <button id="btnAddTown">Add Town</button>
+</div>
+<script src="countries-and-towns.js"></script>
+<script>countriesAndTowns()</script>
+</body>
+</html>
