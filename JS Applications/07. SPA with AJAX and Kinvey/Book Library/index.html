@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Library</title>
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/book-library.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/book-library.css" />
+</head>
+<body onload="startApp()">
+<header id="menu">
+    <a href="#" id="linkHome">Home</a>
+    <a href="#" id="linkLogin">Login</a>
+    <a href="#" id="linkRegister">Register</a>
+    <a href="#" id="linkListBooks">List Books</a>
+    <a href="#" id="linkCreateBook">Create Book</a>
+    <a href="#" id="linkLogout">Logout</a>
+    <span id="loggedInUser"></span>
+</header>
+<main>
+    <section id="loadingBox">Loading...</section>
+    <section id="infoBox">Info</section>
+    <section id="errorBox">Error</section>
+
+    <section id="viewHome">
+        <h1>Welcome</h1>
+        Welcome to our library.
+    </section>
+
+    <section id="viewLogin">
+        <h1>Please login</h1>
+        <form id="formLogin">
+            <div>Username:</div>
+            <div><input type="text" name="username" required /></div>
+            <div>Password:</div>
+            <div><input type="password" name="passwd" required></div>
+            <div><input type="button" id="buttonLoginUser" value="Login"></div>
+        </form>
+    </section>
+
+    <section id="viewRegister">
+        <h1>Please register here</h1>
+        <form id="formRegister">
+            <div>Username:</div>
+            <div><input type="text" name="username" required /></div>
+            <div>Password:</div>
+            <div><input type="password" name="passwd" required></div>
+            <div><input type="button" id="buttonRegisterUser" value="Register" /></div>
+        </form>
+    </section>
+
+    <section id="viewBooks">
+        <h1>Books</h1>
+        <div id="books">
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <section id="viewCreateBook">
+        <h1>Create new book</h1>
+        <form id="formCreateBook">
+            <div>Title:</div>
+            <div><input type="text" name="title" required /></div>
+            <div>Author:</div>
+            <div><input type="text" name="author" required /></div>
+            <div>Description:</div>
+            <div><textarea name="descr" rows="10" required></textarea></div>
+            <div><input type="button" id="buttonCreateBook" value="Create" /></div>
+        </form>
+    </section>
+
+    <section id="viewEditBook">
+        <h1>Edit existing book:</h1>
+        <form id="formEditBook">
+            <div><input type="hidden" name="id" required /></div>
+            <div>Title:</div>
+            <div><input type="text" name="title" required /></div>
+            <div>Author:</div>
+            <div><input type="text" name="author" required /></div>
+            <div>Description:</div>
+            <div><textarea name="descr" rows="10" required></textarea></div>
+            <div><input type="button" id="buttonEditBook" value="Edit" /></div>
+        </form>
+    </section>
+
+</main>
+<footer>Book Library - Simple SPA Application</footer>
+</body>
+</html>
