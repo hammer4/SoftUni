@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    height: 100%;
+}
+
+.menu {
+    font-family: 'Lato', sans-serif;
+    background: #333333;
+    text-align: center;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+#menu a {
+    display: none;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.menu-item {
+    display: none;
+    text-decoration: none;
+    padding: 5px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    max-width: 160px;
+    position: relative;
+    text-transform: uppercase;
+    transition: ease-in .3s;
+}
+
+.menu-item:hover{
+    color: #00bbbb;
+}
+
+
+main > section {
+    display: none;
+    padding: 20px 5px;
+}
+
+
+.title{
+    text-align: center;
+    font-size: 62px;
+}
+
+.body-text{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.titleForm{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding: 10px;
+}
+
+.form{
+    margin: 0 auto;
+    background: #333333;
+    text-align: center;
+    width: 25%;
+    padding: 20px;
+    color: white;
+}
+
+input{
+    border: none;
+    box-shadow: none;
+    background: none;
+    outline: none;
+    color:white;
+    padding: 5px;
+    margin: 20px;
+    font: 16px 'Open Sans', sans-serif;
+    border-bottom: 1px solid white;
+    transition: .5s ease-in;
+}
+
+#infoBox, #errorBox, #loadingBox {
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    transition: .5s ease-in;
+}
+
+input[type=text]{
+    color: white;
+    font: 16px 'Open Sans', sans-serif;
+}
+
+input:focus{
+    border-color: #00bbbb;
+}
+
+input[type=button]{
+    border: 1px solid white;
+    padding: 10px 25px;
+    transition: all .2s ease-in-out;
+}
+
+input[type=button]:hover{
+    background: #00bbbb;
+    border-color: #00bbbb;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+#loadingBox {
+    background: #7CB3E9;
+}
+#infoBox {
+    background: #393;
+}
+#errorBox {
+    background: #F50;
+}
+
+table{
+    margin: 0 auto;
+    padding: 10px;
+}
+
+table th {
+    background: #DDD;
+    padding: 10px;
+}
+
+table td {
+    padding: 5px 10px;
+    background: #EEE;
+}
+
+.secondaryButton{
+    text-decoration: none;
+    color: #333333;
+    padding: 5px 10px;
+    transition: all .2s ease-in-out;
+}
+
+.secondaryButton:hover{
+    cursor: pointer;
+}
+
+footer {
+    background: #333333;
+    color: white;
+    padding: 15px 10px;
+    font-size: 0.8em;
+    text-align: center;
+
+}
