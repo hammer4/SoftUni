@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Component Holding a State and Events</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+</head>
+<body>
+<div id="app"></div>
+<script type="text/babel">
+    let Counter = React.createClass({
+        getInitialState: function () {
+            return { count: Number(this.props.start) }
+        },
+        incrementCount: function () {
+            this.changeCount(+1);
+        },
+        decrementCount: function () {
+            this.changeCount(-1);
+        },
+        changeCount: function (delta) {
+            this.setState({
+                count: this.state.count + delta
+            });
+        },
+        render: function () {
+            return <div>
+            Count: {this.state.count}
+            <button type="button" onClick={this.incrementCount}>+</button>
+            <button type="button" onClick={this.decrementCount}>-</button>
+                </div>
+        }
+    });
+
+
+    let counter = <Counter start="5" />;
+    ReactDOM.render(counter, document.getElementById('app'));
+</script>
+</body>
+</html>

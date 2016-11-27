@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rendering a List of Items</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+</head>
+<body>
+<div id="app"></div>
+<script type="text/babel">
+    let List = React.createClass({
+        render: function () {
+            let items = this.props.items.map(function (item, i) {
+                return <li key={i}>{item}</li>;
+            });
+
+            return <ul>{items}</ul>;
+        }
+    });
+
+    let list = <List items={["Sofia", "Varna", "Plovdiv"]} />;
+    ReactDOM.render(list, document.getElementById('app'));
+</script>
+</body>
+</html>

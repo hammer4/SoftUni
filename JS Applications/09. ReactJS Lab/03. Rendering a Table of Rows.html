@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rendering a Table of Rows</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+</head>
+<body>
+<div id="app"></div>
+<script type="text/babel">
+    let Table = React.createClass({
+        render: function () {
+            let titles = this.props.columns.map(function (column, i) {
+                return <th key={i}>{column}</th>;
+            });
+            let rows = this.props.rows.map(function (row, r) {
+                return <tr key={r}>{row.map(function (col, c) {
+                    return <td key={c}>{col}</td>;
+                })}</tr>;
+            });
+
+            return <table>
+                <thead><tr>{titles}</tr></thead>
+                <tbody>{rows}</tbody>
+                </table>
+        }
+    });
+
+    let books = [["JS Programming Basics", "Bay Ivan"], ["PHP", "Dedo Mraz"], ["React.js", "Kaka Mara"]];
+    ReactDOM.render(<Table columns={["Title", "Author"]} rows={books} />, document.getElementById('app'));
+</script>
+</body>
+</html>
