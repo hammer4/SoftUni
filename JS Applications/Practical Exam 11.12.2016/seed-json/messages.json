@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "58482b678694e65d3559512f",
+    "sender_username": "peter",
+    "sender_name": "Peter",
+    "recipient_username": "nakov",
+    "text": "hey man",
+    "_acl": {
+      "creator": "58482ad801bde1035e9548d8"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:31:50.971Z",
+      "ect": "2016-12-07T15:31:50.971Z"
+    }
+  },
+  {
+    "_id": "58482b87d23505ed75df8276",
+    "sender_username": "nakov",
+    "sender_name": "Nakov",
+    "recipient_username": "peter",
+    "text": "not much",
+    "_acl": {
+      "creator": "58482aa8a82816222b9b3109"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:32:23.808Z",
+      "ect": "2016-12-07T15:32:23.808Z"
+    }
+  },
+  {
+    "_id": "58482b93d5ee86507aaed26a",
+    "sender_username": "nakov",
+    "sender_name": "Nakov",
+    "recipient_username": "maria",
+    "text": "asl pls",
+    "_acl": {
+      "creator": "58482aa8a82816222b9b3109"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:32:35.475Z",
+      "ect": "2016-12-07T15:32:35.475Z"
+    }
+  },
+  {
+    "_id": "58482d3a01bde1035e9564ad",
+    "sender_username": "peter",
+    "sender_name": "Peter",
+    "recipient_username": "nakov",
+    "text": "about that beer I owed ya",
+    "_acl": {
+      "creator": "58482ad801bde1035e9548d8"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:39:38.391Z",
+      "ect": "2016-12-07T15:39:38.391Z"
+    }
+  },
+  {
+    "_id": "58482d551d8c514a346c9eef",
+    "sender_username": "peter",
+    "sender_name": "Peter",
+    "recipient_username": "maria",
+    "text": "fancy a drink?",
+    "_acl": {
+      "creator": "58482ad801bde1035e9548d8"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:40:05.661Z",
+      "ect": "2016-12-07T15:40:05.661Z"
+    }
+  },
+  {
+    "_id": "58482d8247e319040b615bdb",
+    "sender_username": "maria",
+    "sender_name": "Maria",
+    "recipient_username": "nakov",
+    "text": "18/f/pld",
+    "_acl": {
+      "creator": "58482acac077970e38c6eb54"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:40:50.277Z",
+      "ect": "2016-12-07T15:40:50.277Z"
+    }
+  },
+  {
+    "_id": "58482db4c077970e38c7133c",
+    "sender_username": "nakov",
+    "sender_name": "Nakov",
+    "recipient_username": "maria",
+    "text": "let's go camping",
+    "_acl": {
+      "creator": "58482aa8a82816222b9b3109"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:41:40.937Z",
+      "ect": "2016-12-07T15:41:40.937Z"
+    }
+  },
+  {
+    "_id": "58482dc71d8c514a346ca2e6",
+    "sender_username": "peter",
+    "sender_name": "Peter",
+    "recipient_username": "peter",
+    "text": "test message to myself",
+    "_acl": {
+      "creator": "58482ad801bde1035e9548d8"
+    },
+    "_kmd": {
+      "lmt": "2016-12-07T15:41:59.491Z",
+      "ect": "2016-12-07T15:41:59.491Z"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "58482aa8a82816222b9b3109",
+    "username": "nakov",
+    "name": "Svetlin Nakov",
+    "_kmd": {
+      "lmt": "2016-12-07T15:28:40.461Z",
+      "ect": "2016-12-07T15:28:40.461Z"
+    },
+    "_acl": {
+      "creator": "58482aa8a82816222b9b3109"
+    }
+  },
+  {
+    "_id": "58482acac077970e38c6eb54",
+    "username": "maria",
+    "name": "Just Maria",
+    "_kmd": {
+      "lmt": "2016-12-07T15:29:14.358Z",
+      "ect": "2016-12-07T15:29:14.358Z"
+    },
+    "_acl": {
+      "creator": "58482acac077970e38c6eb54"
+    }
+  },
+  {
+    "_id": "58482ad801bde1035e9548d8",
+    "username": "peter",
+    "name": "Peter Demeter",
+    "_kmd": {
+      "lmt": "2016-12-07T15:29:28.938Z",
+      "ect": "2016-12-07T15:29:28.938Z"
+    },
+    "_acl": {
+      "creator": "58482ad801bde1035e9548d8"
+    }
+  }
+]
