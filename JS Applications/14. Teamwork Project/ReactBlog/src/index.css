@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  background-image: url("../public/blog.png");
+  background-size: 100%;
+}

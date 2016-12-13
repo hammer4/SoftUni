@@ -1,0 +1,20 @@
+.post {
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.title {
+    font-size:1.5em;
+    font-style: normal;
+    margin: 1em;
+}
+
+.post p {
+    display: inline-block;
+    font-style: italic;
+    margin: 2em 2em 0em 2em;
+}
+.post-box {
+    display: inline;
+    align-items: flex-end;
+}

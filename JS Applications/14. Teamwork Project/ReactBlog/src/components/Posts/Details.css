@@ -1,0 +1,81 @@
+.details-box p {
+    padding: 1em;
+}
+
+.comment {
+    background-color: lightgray;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.comment p {
+    margin: 0.5em;
+    padding: 0.5em;
+    display: inline-block;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.comment span {
+    padding: 0.5em;
+    display: inline-block;
+    font-style: italic;
+}
+
+.member {
+    font-size: 1.5em;
+    margin: 0.25em;
+    margin-left: 1em;
+    list-style-type: none;
+    display: block;
+}
+
+.titlebar {
+    display: block;
+    font-size: 2em;
+    padding: 0.25em;
+    padding-left: 0.75em;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+.spanner {
+    display: block;
+    padding: 0.25em;
+    padding-left: 1.5em;
+    background-color: antiquewhite;
+    font-weight: 600;
+}
+
+.form-group {
+    padding-top: 1em;
+}
+
+.form-group label {
+    padding-right:1em;
+    display: inline-block;
+}
+
+.form-group textarea {
+    display: inline-block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.author-info {
+    padding: 1em;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+
+.author-info label {
+    width:5em;
+}
+.author-data {
+    padding: 1em;
+    margin: 1em;
+    background-color: white;
+    border-radius: 5px;
+    display: inline-block;
+    width: 97%;
+}
