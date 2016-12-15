@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List Town</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="root"></div>
+</body>
+<script type="text/babel">
+    function listTowns(selector) {
+        let Form = React.createClass({
+            handleFormSubmit(event) {
+                event.preventDefault();
+                this.props.onsubmit();
+            },
+            render: function () {
+                return <form onSubmit={this.handleFormSubmit}>
+                    <input type="text" />
+                    <input type="submit" value="Submit" />
+                    </form>
+            }
+        });
+
+        let List = React.createClass({
+            render: function () {
+                if(! this.props.towns){
+                    return false;
+                }
+                let towns = this.props.towns.map(function (town, i) {
+                    return <li key={i}>{town}</li>
+                });
+
+                return <ul>{towns}</ul>;
+            }
+        });
+
+        let App = React.createClass({
+            getInitialState: function () {
+                return {
+                    towns: ""
+                }
+            },
+            updateTowns: function () {
+                this.setState({towns: $('form').children()[0].value.split(", ")})
+            },
+            render: function () {
+                return <div>
+                    <Form onsubmit={this.updateTowns} />
+                    <List towns={this.state.towns} />
+                </div>
+            }
+        });
+
+        ReactDOM.render(
+                <App />,
+                document.getElementById(selector)
+        );
+    }
+    listTowns("root");
+</script>
+</html>

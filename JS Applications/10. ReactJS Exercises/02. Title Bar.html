@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Titlebar</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        .header { background-color: #5555ff; color: white; height: 60px; position: relative; left: 0; top: 0; }
+        .button { cursor: pointer; display: block; width: 50px; height: 50px; margin: 4px; position: absolute; text-align: center; line-height: 50px; font-size: 24px; }
+        .title { display: block; position: absolute; left: 80px; font-size: 32px; font-family: "Helvetica", sans-serif; line-height: 60px; }
+        .drawer { left:0; top:55px; float:left; position: absolute; background-color: #eeeeff; width: 180px; display: none; }
+        .menu-link { color: black; font-family: "Helvetica", sans-serif; text-decoration: none; font-weight: 600; display: block; padding: 4px; padding-left: 12px; }
+        .menu-link:hover { : white; background-color: #5555ff; }
+        .post { margin: 48px; }
+    </style>
+</head>
+<body>
+<div id="container">
+    <div id="head"></div>
+    <div id="content">
+        <article class="post"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></article>
+    </div>
+</div>
+</body>
+<script type="text/babel">
+    class TitleBar extends React.Component {
+        render(){
+            let links = this.props.links.map(function (l, i) {
+                return <a key={i} className="menu-link" href={l[0]}>{l[1]}</a>
+            });
+
+            return <header className="header">
+                <div className="header-row">
+                    <a className="button" onClick={ function() {$('.drawer').toggle()}}>&#9776;</a>
+                    <span className="title">{this.props.title}</span>
+                </div>
+                <div className="drawer">
+                    <nav className="menu">
+                        {links}
+                    </nav>
+                </div>
+            </header>
+        }
+    }
+
+    let links = [
+        ['/', 'Home'],
+        ['about', 'About'],
+        ['results', 'Results'],
+        ['faq', 'FAQ']];
+
+    ReactDOM.render(
+            <TitleBar title="Title Bar Problem" links={links} />,
+            document.getElementById('head')
+    );
+</script>
+</html>
