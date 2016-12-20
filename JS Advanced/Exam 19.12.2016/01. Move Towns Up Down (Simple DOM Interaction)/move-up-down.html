@@ -1,0 +1,30 @@
+<!-- JS Advanced Exam @ SoftUni - 19-Dec-2016 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Move Up / Down</title>
+    <style>
+        select { width: 70px }
+        .block { display: inline-block; vertical-align: top }
+        #btnUp { display: block; margin-top: 18px }
+        #btnDown { display: block; margin-top: 10px }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div class="block">
+    <select id="towns" size="5">
+        <option>Sofia</option>
+        <option>Varna</option>
+        <option>Plovdiv</option>
+        <option>Ruse</option>
+    </select>
+</div>
+<div class="block">
+    <button id="btnUp" onclick="move(-1)">&uparrow;</button>
+    <button id="btnDown" onclick="move(+1)">&downarrow;</button>
+</div>
+<script src="move-up-down.js"></script>
+</body>
+</html>
