@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "5858699d4ad56c1314c48e96",
+    "name": "Apple",
+    "description": "An apple a day keeps the doctor away.",
+    "price": 0.5,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-19T23:13:33.195Z",
+      "ect": "2016-12-19T23:13:33.195Z"
+    }
+  },
+  {
+    "_id": "585876b24ad56c1314c50eef",
+    "name": "Kroasan",
+    "description": "Chichipipikakao",
+    "price": 1.1,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:09:22.624Z",
+      "ect": "2016-12-20T00:09:22.624Z"
+    }
+  },
+  {
+    "_id": "585876e5b91c66ad2607e865",
+    "name": "Toilet Paper",
+    "description": "IsSoft",
+    "price": 4.1,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:10:13.102Z",
+      "ect": "2016-12-20T00:10:13.102Z"
+    }
+  },
+  {
+    "_id": "5858772debc2bef771301ce9",
+    "name": "Hammer",
+    "description": "Mjolnir - a perfect fusion between Pikachu and Nokia.",
+    "price": 10000,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:11:25.348Z",
+      "ect": "2016-12-20T00:11:25.348Z"
+    }
+  },
+  {
+    "_id": "5858774eb3d2e6ba3f8c51d5",
+    "name": "Candle",
+    "description": "Smells like the Spring Winds",
+    "price": 1,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:11:58.523Z",
+      "ect": "2016-12-20T00:11:58.523Z"
+    }
+  },
+  {
+    "_id": "5858776e308a60e352675af7",
+    "name": "Telling Lies",
+    "description": "One of the best books ever.",
+    "price": 19.9,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:12:30.555Z",
+      "ect": "2016-12-20T00:12:30.555Z"
+    }
+  },
+  {
+    "_id": "5858778eb91c66ad2607eb18",
+    "name": "'Distrubed' T-Shirt",
+    "description": "Best band ever!!!",
+    "price": 39,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:13:02.027Z",
+      "ect": "2016-12-20T00:13:02.027Z"
+    }
+  },
+  {
+    "_id": "585877cdb91c66ad2607eb65",
+    "name": "Marbleadable",
+    "description": "Dunno what is this...",
+    "price": 55.1,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:14:05.033Z",
+      "ect": "2016-12-20T00:14:05.033Z"
+    }
+  },
+  {
+    "_id": "5858781ed6aa6240652c1f87",
+    "name": "Precursor Gun",
+    "description": "Some spoilers here.",
+    "price": 1500,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:15:26.700Z",
+      "ect": "2016-12-20T00:15:26.700Z"
+    }
+  },
+  {
+    "_id": "58587831ebc2bef771302932",
+    "name": "Melolemonmelon",
+    "description": "Ivo's Magical Ninja Fruit.",
+    "price": 99999,
+    "_acl": {
+      "creator": "kid_S1Oq7JU4g"
+    },
+    "_kmd": {
+      "lmt": "2016-12-20T00:15:45.089Z",
+      "ect": "2016-12-20T00:15:45.089Z"
+    }
+  }
+]

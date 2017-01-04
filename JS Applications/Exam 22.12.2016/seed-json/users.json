@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "5859109df159d19c4d3823c4",
+    "username": "pesho",
+    "password": "pesho",
+    "name": "Pesho Kelesho",
+    "cart": {
+      "5858699d4ad56c1314c48e96": {
+        "quantity": "1",
+        "product": {
+          "name": "Apple",
+          "description": "An apple a day keeps the doctor away.",
+          "price": "0.5"
+        }
+      },
+      "585876b24ad56c1314c50eef": {
+        "quantity": "2",
+        "product": {
+          "name": "Kroasan",
+          "description": "Chichipipikakao",
+          "price": "1.1"
+        }
+      }
+    },
+    "_acl": {
+      "creator": "5859109df159d19c4d3823c4"
+    },
+    "_kmd": {
+      "lmt": "2016-12-22T06:48:18.612Z",
+      "ect": "2016-12-20T11:06:05.272Z"
+    }
+  },
+  {
+    "_id": "5858679fe12ae039723fb628",
+    "username": "gosho",
+    "password": "gosho",
+    "name": "Gosho Galosho",
+    "cart": {
+      "5858781ed6aa6240652c1f87": {
+        "quantity": "3",
+        "product": {
+          "name": "Precursor Gun",
+          "description": "Some spoilers here.",
+          "price": "1500"
+        }
+      },
+      "5858772debc2bef771301ce9": {
+        "quantity": "1",
+        "product": {
+          "name": "Hammer",
+          "description": "Mjolnir - a perfect fusion between Pikachu and Nokia.",
+          "price": "10000"
+        }
+      },
+      "585877cdb91c66ad2607eb65": {
+        "quantity": "1",
+        "product": {
+          "name": "Marbleadable",
+          "description": "Dunno what is this...",
+          "price": "55.1"
+        }
+      }
+    },
+    "_acl": {
+      "creator": "5858679fe12ae039723fb628"
+    },
+    "_kmd": {
+      "lmt": "2016-12-22T06:50:23.208Z",
+      "ect": "2016-12-19T23:05:03.691Z"
+    }
+  }
+]

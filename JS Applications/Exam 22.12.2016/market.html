@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Market</title>
+    <link rel="stylesheet" type="text/css" href="market.css" />
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/market.js"></script>
+</head>
+
+<body onload="startApp()">
+
+<div id="app">
+    <header id="menu">
+        <a href="#" class="anonymous" id="linkMenuAppHome">Home</a>
+        <a href="#" class="anonymous" id="linkMenuLogin">Login</a>
+        <a href="#" class="anonymous" id="linkMenuRegister">Register</a>
+
+        <a href="#" class="useronly" id="linkMenuUserHome">Home</a>
+        <a href="#" class="useronly" id="linkMenuShop">Shop</a>
+        <a href="#" class="useronly" id="linkMenuCart">Cart</a>
+        <a href="#" class="useronly" id="linkMenuLogout">Logout</a>
+
+        <span class="useronly" id="spanMenuLoggedInUser">Welcome, {user}!</span>
+    </header>
+
+    <main>
+        <div id="loadingBox">Loading ...</div>
+
+        <div id="infoBox">Info</div>
+
+        <div id="errorBox">Error</div>
+
+        <section id="viewAppHome">
+            <h1>Welcome</h1>
+            Welcome to our shopping system.
+        </section>
+
+        <section id="viewLogin">
+            <h1>Please login</h1>
+            <form id="formLogin">
+                <label>
+                    <div>Username:</div>
+                    <input type="text" name="username" id="loginUsername" required />
+                </label>
+                <label>
+                    <div>Password:</div>
+                    <input type="password" name="password" id="loginPasswd" required />
+                </label>
+                <div>
+                    <input type="submit" value="Login" />
+                </div>
+            </form>
+        </section>
+
+        <section id="viewRegister">
+            <h1>Please register here</h1>
+            <form id="formRegister">
+                <label>
+                    <div>Username:</div>
+                    <input type="text" name="username" id="registerUsername" required />
+                </label>
+                <label>
+                    <div>Password:</div>
+                    <input type="password" name="password" id="registerPasswd" required />
+                </label>
+                <label>
+                    <div>Name:</div>
+                    <input type="name" name="name" id="registerName" />
+                </label>
+                <div>
+                    <input type="submit" value="Register" />
+                </div>
+            </form>
+        </section>
+
+        <section id="viewUserHome">
+            <h1 id="viewUserHomeHeading">Welcome, {user}!</h1>
+            <a href="#" id="linkUserHomeShop">Shop</a>
+            <a href="#" id="linkUserHomeCart">Cart</a>
+        </section>
+
+        <section id="viewShop">
+            <h1>Products</h1>
+            <div class="products" id="shopProducts">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- TODO: more messages will come here -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section id="viewCart">
+            <h1>My Cart</h1>
+            <div class="products" id="cartProducts">
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Description</th>
+                        <th>Quantity</th>
+                        <th>Total Price</th>
+                        <th>Actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <!-- TODO: more messages will come here -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>Shopping System - Simple SPA Application</footer>
+</div>
+
+</body>
+
+</html>
