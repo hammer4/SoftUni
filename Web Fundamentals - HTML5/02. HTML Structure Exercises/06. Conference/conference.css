@@ -82,6 +82,11 @@ header div a {
     border-radius: 5px;
 }
 
+header div a:hover {
+    background-color: #ffffff;
+    color: #293F50;
+}
+
 main {
     padding: 50px;
     text-align: center;
