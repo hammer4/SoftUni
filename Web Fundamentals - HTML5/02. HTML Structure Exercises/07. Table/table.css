@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Lato;
+    src: url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+}
+
+body {
+    font-family: Lato, sans-serif;
+}
+
+table {
+    color: #333333;
+    border-spacing: 0;
+    margin: 0 auto;
+}
+
+thead th {
+    background-color: #90b4d6;
+    color: #ffffff;
+    letter-spacing: 2px;
+    padding: 5px 30px 5px 10px;
+}
+
+tbody th {
+    padding: 5px 30px 5px 10px;
+    font-size: 18px;
+    margin: 0;
+    text-align: left;
+    background-color: #84b3ad;
+}
+
+td {
+    padding: 5px 30px 5px 10px;
+    font-size: 18px;
+    margin: 0;
+    background-color: #84b3ad;
+    width: 150px;
+}
+
+tr:nth-child(even) th, tr:nth-child(even) td {
+    background-color: #689ad8;
+}

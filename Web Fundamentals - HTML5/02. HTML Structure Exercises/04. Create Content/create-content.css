@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Lato;
+    src: url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato, sans-serif;
+}
+
+main {
+    margin: 50px auto;
+    max-width: 1060px;
+    padding: 0 10px;
+}
+
+img {
+    float: left;
+    width: 180px;
+    height: 100px;
+    margin: 10px 50px 0 0;
+}
+
+h2 {
+    color: #234465;
+    margin: 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 5px;
+    letter-spacing: 0;
+    width: 800px;
+}
+

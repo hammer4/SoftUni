@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Lato;
+    src: url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    color: #ffffff;
+}
+
+header {
+    background: url(images/background-image.jpg) no-repeat center center;
+    margin: 0 auto;
+    padding: 0 10px;
+    height: 800px;
+    text-align: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 80px;
+    padding: 80px 0;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 27px;
+    font-weight: 100;
+    margin: 20px;
+}
+
+.btn {
+    color: #ffffff;
+    background: none;
+    border: 5px solid #ffffff;
+    border-radius: 15px;
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background: #000;
+    border-color: #000;
+    cursor: pointer;
+}

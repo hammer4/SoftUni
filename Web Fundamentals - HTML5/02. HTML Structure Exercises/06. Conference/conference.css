@@ -1,0 +1,139 @@
+@font-face {
+    font-family: Lato;
+    src: url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 300 16px/22px "Lato", sans-serif;
+}
+
+header {
+    background-color: #293F50;
+    padding-bottom: 70px;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 12px;
+    font-size: 11px;
+}
+
+header ul {
+    padding-left: 15px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #447E80;
+    font-weight: 500;
+}
+
+header p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+header p span {
+    color: #447E80;
+    font-size: 11px;
+    font-weight: 500;
+    text-align: right;
+    display: block;
+    padding-right: 15px;
+}
+
+header h1 {
+    color: #ffffff;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 42px;
+    padding: 60px;
+}
+
+header h2 {
+    color: #447E80;
+    text-align: center;
+    font-weight: 300;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+header div {
+    text-align: center;
+    margin-top: 30px;
+}
+
+header div a {
+    color: #ffffff;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    padding: 15px 25px ;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 5px;
+}
+
+main {
+    padding: 50px;
+    text-align: center;
+}
+
+section {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    vertical-align: top;
+    margin: 15px;
+    color: #A9B2B9;
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+section h5 {
+    font-size: 11px;
+    margin-bottom: 20px;
+}
+
+section h4 {
+    font-size: 18px;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+section p {
+    font-size: 14px;
+}
+
+footer {
+    background-color: #293F50;
+    padding: 60px 70px 30px;
+    color: #ffffff;
+    font-weight: lighter;
+}
+
+footer nav ul li{
+    display: inline-block;
+}
+
+footer nav {
+    float: right;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 12px;
+}
