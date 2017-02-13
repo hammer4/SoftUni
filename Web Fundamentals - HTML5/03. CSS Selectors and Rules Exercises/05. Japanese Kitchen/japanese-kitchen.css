@@ -1,0 +1,196 @@
+@import url('https://fonts.google.com/selection?selection.family=Lato');
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    font: 14px 'Lato', sans-serif;
+    background: url("images/dark-wood.jpg");
+    color: #4D494E;
+}
+
+header{
+    background: url("images/header-page.jpg") no-repeat;
+    height: 130px;
+    width: 940px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 3.5em;
+    color: #000000;
+    font-weight: bold;
+    text-align: right;
+    font-family: "Times New Roman", serif;
+    padding: 25px 10px 0 0;
+}
+
+nav {
+    width: 940px;
+    margin: 2px auto;
+    background: url("images/header-page.jpg") no-repeat;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 5px 25px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3em;
+}
+
+nav li:first-of-type a, nav li a:hover {
+    color: #000000;
+}
+
+main {
+    background-color: #ffffff;
+    width: 890px;
+    padding: 0 25px 0;
+    margin: 0 auto;
+}
+
+.courses {
+    padding-top: 25px;
+    width: 70%;
+    display: inline-block;
+    border-right: 1px solid #DDD;
+}
+
+aside {
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    padding-top: 55px;
+    color: #D9527A;
+}
+
+figure {
+    border: 1px solid #DDDDDD;
+    padding: 5px;
+    float: left;
+    margin-right: 20px;
+}
+
+figcaption {
+    color: #84818B;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+article div {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 25px;
+}
+
+div h2 {
+    font-size: 2.2em;
+    font-weight: bold;
+}
+
+div h3 {
+    color: #E8CE85;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+article p {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #92979C;
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+aside a {
+    color: #D9527A;
+    text-decoration: none;
+    font-size: 1.4em;
+    display: block;
+    padding: 11px 7px;
+}
+
+aside h2 {
+    font-weight: bold;
+    font-size: 2.2em;
+    line-height: 1em;
+}
+
+aside ul {
+    padding: 10px;
+}
+
+aside li {
+    border-bottom: 1px solid #DDD;
+}
+
+aside li a:hover {
+    background-color: rgba(200, 200, 200, 0.3);
+    color: #A78185;
+}
+
+footer {
+    background-color: #AEACA8;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}

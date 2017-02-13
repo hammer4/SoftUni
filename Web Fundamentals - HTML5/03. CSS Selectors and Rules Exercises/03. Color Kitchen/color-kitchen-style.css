@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+
+body {
+    background-image: url("images/bg.jpg");
+    font-family: 'Sansita';
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 20px;
+}
+
+aside, article {
+    background-color: rgba(245, 230, 254, 0.9);
+}
+
+body > header {
+    background: -webkit-linear-gradient(left, red, red 33% ,green 33%,green, green 67%, blue 33%, blue);
+    font-size: 2em;
+    padding: 4px 0 12px;
+    color: yellow;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+aside {
+    width: 13%;
+    margin-left: 10px;
+    border-radius: 15px;
+    padding: 10px 0 20px 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+nav header {
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    width: 85%;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+ul li a::before {
+    content: url("images/a.png");
+    vertical-align: middle;
+    padding-right: 3px;
+}
+
+ul li:first-of-type:hover {
+    background-color: red;
+}
+
+ul li:nth-of-type(2):hover{
+    background-color: orange;
+}
+
+ul li:nth-of-type(3):hover{
+    background-color: yellow;
+}
+
+ul li:nth-of-type(4):hover{
+    background-color: green;
+}
+
+ul li:nth-of-type(5):hover{
+    background-color: blue;
+}
+
+ul li:last-of-type:hover {
+    background-color: purple;
+}
+
+main {
+    width: 60%;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+article {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px 1px 10px 10px;
+}
+
+article header {
+    padding: 10px 5px;
+    color: white;
+    border-radius: 10px;
+}
+
+article:first-of-type header {
+    background-color: red;
+}
+
+article:nth-of-type(2) header {
+    background-color: green;
+}
+
+article:last-of-type header {
+    background-color: purple;
+}
+
+article p {
+    font-size: 0.8rem;
+    padding-right: 25px;
+    margin-bottom: 0;
+}
+
+article p:first-line {
+    font-style: italic;
+}
+
+article p:first-letter{
+    font-size: 3rem;
+}
+
+footer a {
+    color: #777777;
+    font-size: 0.7em;
+}
