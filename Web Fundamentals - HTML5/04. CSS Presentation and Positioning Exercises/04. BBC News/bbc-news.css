@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Calibri Light", Verdana, sans-serif;
+}
+
+#wrapper {
+    width: 890px;
+    margin: 30px auto;
+    border: 1px solid #a5b2b3;
+}
+
+article {
+    width: 203px;
+    margin: 0 8px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}

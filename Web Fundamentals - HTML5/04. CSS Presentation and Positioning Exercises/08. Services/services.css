@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Open Sans Extra bold';
+    src: url('fonts/OpenSans-ExtraBold.ttf');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans Extra bold';
+    font-size: 16px;
+    text-align: center;
+    background-color: #F0F0E8;
+    color: #838180;
+}
+
+h1 {
+    color: #009288;
+    font-size: 56px;
+}
+
+article {
+    width: 220px;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 35px 15px 25px 20px;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+article:hover {
+    background-color: #F6F6F6;
+    padding-left: 12px;
+    border-left: 8px solid #009288;
+    cursor: pointer;
+}

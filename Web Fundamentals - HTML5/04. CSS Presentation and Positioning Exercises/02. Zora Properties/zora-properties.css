@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+aside {
+    width: 15%;
+    float: left;
+    height: 100%;
+}
+
+main h2 {
+    margin: 0;
+}
+
+aside img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+aside figure {
+    text-align: center;
+}
+
+aside h1 {
+    font-family: Comfortaa;
+    font-size: 2rem;
+    text-align: center;
+    padding: 20px 0;
+}
+
+aside figcaption, nav li a {
+    font-family: 'Open Sans', sans-serif;
+    font-variant: small-caps;
+    color: #C0C7C9;
+    font-size: 1.2rem;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li a {
+    font-size: 0.7rem;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-variant: normal;
+}
+
+nav li {
+    padding: 8px 0 8px 20px ;
+}
+
+nav li:hover {
+    padding-left: 18px;
+    border-left: 2px solid #FF7739;
+}
+
+nav li:hover a {
+    color: #3F4744;
+}
+
+main {
+    background-color: #F4F5F7;
+    margin-left: 15%;
+    padding-left: 40px;
+}
+
+main div {
+    padding: 50px 80px 70px 0;
+}
+
+div h2 {
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 2rem;
+    color: #3F4744;
+}
+
+div span {
+    color: #94A4AC;
+}
+
+div button {
+    float: right;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #FF7739;
+    background-color: #FF7739;
+    padding: 8px 18px;
+    border-radius: 20px;
+    color: #F4F5F7;
+}
+
+div button:hover {
+    background: none;
+    cursor: pointer;
+    color: #FF7739;
+}
+
+.name {
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #3F4744;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.address {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin-bottom: 30px;
+}
+
+section {
+    background-color: #ffffff;
+    width: 28%;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 40px 0 0;
+    margin-bottom: 40px;
+    box-shadow: 8px 6px 17px -1px rgba(0,0,0,0.26);
+}
+
+section img {
+    width: 100%;
+}
+
+section p {
+    padding-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+    color: #3F4744;
+}
+
+section button {
+    width: 90px;
+    height: 30px;
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    position: relative;
+    top: 50px;
+    left: -15px;
+}
+
+main section:first-of-type {
+    opacity: 0.6;
+}
+
+.rented, .draft {
+    background-color: #91A5AE;
+}
+
+.listed {
+    background-color: #68BB69;
+}
