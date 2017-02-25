@@ -1,0 +1,349 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,900');
+
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0, 0.6)), url('img/header-bg.png') no-repeat center;
+    background-size: cover;
+    background-position: top;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 30px 20px 0;
+}
+
+header > p {
+    text-transform: uppercase;
+    font-weight: bold;
+    float: left;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #fa692e;
+}
+
+header h1::before {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+header div h1 {
+    display: inline-block;
+    width: 70%;
+    font-weight: 100;
+    padding-right: 90px;
+}
+
+header div {
+    margin: 200px auto 50px;
+    width: 60%;
+}
+
+header div h1 span {
+    font-weight: normal;
+}
+
+header div i:hover {
+    color: #fa692e;
+    cursor: pointer;
+}
+
+header article {
+    width: 23%;
+    display: inline-block;
+    padding-top: 50px;
+    vertical-align: top;
+    border-bottom: 10px solid transparent;
+    margin-right: 15px;
+    height: 200px;
+}
+
+header article p {
+    margin-top: 70px;
+}
+
+header article:hover {
+    border-bottom-color: #fa692e;
+    cursor: pointer;
+}
+
+#words {
+    margin-top: 700px;
+    text-align: right;
+    color: #3c3f49;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#words #description {
+    width: 35%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    padding: 0 35px;
+}
+
+#words #quote {
+    width: 28%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 30px;
+}
+
+#description p {
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 35px;
+}
+
+#description h3 {
+    margin: 35px 0;
+    font-weight: bolder;
+}
+
+#quote p {
+    margin-top: 50px;
+    text-transform: capitalize;
+}
+
+#quote::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 50px;
+    background: #fa692e;
+    opacity: 0.7;
+    width: 32%;
+    height: 450px;
+}
+
+#schedule {
+    position: relative;
+    color: white;
+    padding: 40px 0;
+}
+
+#schedule::after {
+    content: '';
+    position: absolute;
+    left: -12.5%;
+    right: -12.5%;
+    top: 0;
+    bottom: 0;
+    background-color: #3c3f49;
+    z-index: -1;
+}
+
+#schedule h2 {
+    width: 400px;
+    margin-bottom: 100px;
+}
+
+#schedule ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+#schedule li {
+    margin-bottom: 60px;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+
+#schedule i {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fa692e;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+#schedule strong {
+    margin-right: 30px;
+}
+
+#speakers div{
+    padding-left: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+#speakers h5 {
+    font-size: 0.7em;
+    width: 60%;
+    line-height: 50px;
+    font-weight: normal;
+}
+
+#speakers ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+
+#speakers li {
+    margin-right: 25px;
+    background-color: #FAFAFA;
+    margin-bottom: 25px;
+    box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.25);
+}
+
+#speakers p {
+    text-transform: capitalize;
+    padding-left: 25px;
+    font-weight: 900;
+}
+
+#speakers a {
+    color: black;
+}
+
+#speakers a:hover {
+    color: #fa692e;
+}
+
+#speakers h6 {
+    color: #fa692e;
+    text-transform: uppercase;
+    padding-left: 25px;
+    font-weight: 100;
+    font-size: 0.9em;
+}
+
+#speakers img {
+    width: 240px;
+}
+
+#speakers {
+    padding: 50px 0;
+}
+
+#events {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 70px 0;
+}
+
+#events::after {
+    content: '';
+    position: absolute;
+    left: -12.5%;
+    right: -12.5%;
+    top: 0;
+    bottom: 0;
+    background-color: #3C3E4A;
+    z-index: -1;
+}
+
+#events form {
+    border: 1px solid #cccccc;
+    width: 80%;
+    margin: 0 auto;
+}
+
+form h2 {
+    text-transform: uppercase;
+    font-size: 2.5em;
+    margin: 60px 0 40px;
+}
+
+form p {
+    width: 50%;
+    margin: 0 auto;
+    font-weight: 100;
+}
+
+#events div {
+    margin: 50px 0;
+}
+
+form input {
+    border: none;
+    background: none;
+    border-bottom: 3px solid #fa692e;
+}
+
+::-webkit-input-placeholder {
+    color: #eeeeee;
+    font-size: 1.2em;
+}
+
+form button {
+    border: none;
+    padding: 10px 25px;
+    background-color: #fa692e;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 18px;
+    margin-left: 40px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    background-color: #292A2F;
+    width: 100%;
+    color: white;
+    height: 60px;
+}
+
+footer span {
+    float: left;
+    padding-left: 15px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 60px;
+}
+
+footer p {
+    color: #ccccff;
+    text-transform: uppercase;
+    float: right;
+    padding-right: 20px;
+    width: 220px;
+}
