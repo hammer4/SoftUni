@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    margin: 50px auto;
+    max-width: 500px;
+    background: #F7F7F7;
+    padding: 0 15px 25px 10px;
+    font-size: 12px;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border: 1px solid #E4E4E4;
+}
+
+h1 {
+    font-size: 25px;
+    padding: 0 0 10px 40px;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+h1 span {
+    display: block;
+    font-size: 11px;
+}
+
+label {
+    display: block;
+    margin: 0;
+}
+
+label span {
+    float: left;
+    width: 86px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+input[type="text"],
+#email,
+textarea,
+select {
+    border: 1px solid #DADADA;
+    height: 30px;
+    color: #888888;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 323px;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+textarea {
+    resize: none;
+    padding: 5px 3px 3px 5px;
+    height: 100px;
+}
+
+select {
+    height: 35px;
+}
+
+.button {
+    background: #E27575;
+    border: none;
+    padding: 10px 25px;
+    color: white;
+    box-shadow: 1px 1px 5px #B6B6B6;
+    text-shadow: 1px 1px 1px #9E3F3F;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 0 87px;
+    width: 200px;
+}

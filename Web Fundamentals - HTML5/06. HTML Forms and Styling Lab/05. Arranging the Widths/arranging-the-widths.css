@@ -1,0 +1,24 @@
+form {
+    width: 300px;
+}
+
+form,
+input,
+textarea {
+    box-sizing: border-box;
+}
+
+label,
+input,
+select,
+textarea {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+label {
+    color: #2D2D2D;
+    font-size: 15px;
+    word-wrap: break-word;
+}

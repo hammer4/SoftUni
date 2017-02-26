@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    background: #927057;
+    font-family: Oxygen, sans-serif;
+    color: #ffffff;
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image-container > img {
+    border: 5px solid #d5c395;
+    height: 123px;
+}
+
+form {
+    position: relative;
+    width: 470px;
+    margin: 50px auto 0;
+    padding: 50px 60px 70px;
+    background: #d5c395;
+}
+
+footer {
+    font-size: 1em;
+    color: #EFE1C4;
+    text-align: center;
+}
+
+form::before {
+    content: '';
+    position: absolute;
+    top: -30px;
+    left: 259px;
+    height: 35px;
+    width: 68px;
+    background: url("img/3.png") no-repeat 0 0;
+}
+
+.name, .pass {
+    outline: none;
+    border: none;
+    background: #efe1c4;
+    padding: 10px 10px 10px 60px;
+    width: 85%;
+    font-size: 1.1em;
+    color: #927057;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.submit {
+    outline: none;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    max-width: 500px;
+    background: #927057;
+    color: #d5c395;
+    font-size: 1.5em;
+    font-weight: 900;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.submit:hover {
+    color: #fae7b0;
+    box-shadow: 0 0 3px #fff;
+}
+
+.form-field {
+    position: relative;
+}
+
+.fa-user {
+    font-size: 30px;
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    color: #927057;
+}
+
+.fa-unlock-alt {
+    font-size: 30px;
+    position: absolute;
+    top: 7px;
+    left: 15px;
+    color: #927057;
+}
