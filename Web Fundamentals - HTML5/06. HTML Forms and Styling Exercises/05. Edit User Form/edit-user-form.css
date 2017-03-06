@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+body {
+    color: #1E1917;
+    background-color: #EEEEEE;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
+
+#wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+    color: #324E5A;
+    font-weight: bold;
+    padding: 30px;
+    background-color: white;
+    border-top: 7px solid #324E5A;
+    border-right: 7px solid #324E5A;
+    margin-bottom: 40px;
+}
+
+label[for=deactivate] {
+    float: right;
+    margin-top: 20px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 10px;
+}
+
+form {
+    padding-left: 30px;
+}
+
+input[type=text],
+input[type=password],
+input[type=email],
+input[type=tel] {
+    width: 75%;
+    box-sizing: border-box;
+    height: 30px;
+    border-top: 4px solid #324E5A;
+    border-left: 4px solid #324E5A;
+    margin-bottom: 10px;
+}
+
+label[for=broadband],
+label[for=radio] {
+    display: inline;
+}
+
+input[id=radio] {
+    margin-left: 25%;
+}
+
+input[id=broadband] {
+    margin-bottom: 15px;
+}
+
+#groups {
+    width: 75%;
+    border-top: 4px solid #324E5A;
+    border-left: 4px solid #324E5A;
+    background-color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #136F63;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    background: none;
+}
+
+button:first-of-type {
+    margin-left: 60px;
+    color: #FF5428;
+    border-bottom: 3px solid #FF5428;
+    border-right: 3px solid #FF5428;
+}
+
+button:first-of-type:hover {
+    background-color: #FF5428;
+    cursor: pointer;
+    color: white;
+}
+
+button:last-of-type {
+    margin-left: 30px;
+    color: #136F64;
+    border-bottom: 3px solid #136F64;
+    border-right: 3px solid #136F64;
+}
+
+button:last-of-type:hover {
+    background-color: #136F64;
+    cursor: pointer;
+    color: white;
+}

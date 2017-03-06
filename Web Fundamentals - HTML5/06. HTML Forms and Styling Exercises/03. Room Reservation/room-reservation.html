@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Room Reservation</title>
+    <link rel="stylesheet" href="room-reservation.css">
+</head>
+<body>
+<form>
+    <h1>Room Reservation</h1>
+    <div id="info">
+        <h3>Basic Information</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nibh varius odio sollicitudin
+            blandit nec eu elit. Suspendisse ac risus nunc, quis elementum lorem. Pellentesque vehicula egestas eros
+            nec commodo.</p>
+        <label for="search">
+            Search
+            <input type="text" id="search">
+            <i class="fa fa-search" aria-hidden="true"></i>
+        </label>
+    </div>
+    <div id="form">
+        <div id="details">
+            <h3>Personal Details</h3>
+            <input type="text" id="first-name" name="first-name" placeholder="First Name">
+            <input type="text" id="last-name" name="last-name" placeholder="Last Name">
+            <input type="email" id="email" name="email" placeholder="Enter email">
+        </div>
+        <div id="reservation">
+            <h3>Request a reservation</h3>
+            <label for="room">
+                Select a Room
+                <select id="room" name="room">
+                    <option value="1">Room 1</option>
+                    <option value="2">Room 2</option>
+                    <option value="3" selected="selected">Room 3</option>
+                    <option value="4">Room 4</option>
+                </select>
+            </label>
+            <label for="number">
+                Number of Rooms
+                <input type="number" id="number" name="number" value="1">
+            </label>
+            <label for="check-in">
+                Check-In:
+                <input type="date" id="check-in" name="chek-in">
+            </label>
+            <label for="check-out">
+                Check-Out:
+                <input type="date" id="check-out" name="chek-out">
+            </label>
+        </div>
+    </div>
+    <button type="submit">Book Now</button>
+</form>
+</body>
+</html>

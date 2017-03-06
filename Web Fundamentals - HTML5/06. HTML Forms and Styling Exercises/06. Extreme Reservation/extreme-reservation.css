@@ -1,0 +1,161 @@
+body {
+	background-image: url("images/background.jpg");
+	background-size: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: rgb(37, 115, 179);
+}
+
+form {
+	width: 700px;
+	height: 500px;
+	padding: 20px 50px;
+	margin: 0 auto;
+	background-color: rgba(255, 255, 255, 0.2);
+	border-radius: 50px;
+}
+
+nav ul {
+	padding: 0;
+	list-style: none;
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	width: 23%;
+	font-weight: bold;
+	border-radius: 10px;
+	padding: 4px;
+}
+
+nav ul li.active {
+	background-color: rgba(37, 115, 179, 0.5);
+}
+
+nav ul li img {
+	vertical-align: middle;
+}
+
+nav ul li:hover {
+	background-color: rgba(37, 115, 179, 0.5);
+	cursor: pointer;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: rgb(37, 115, 179);
+}
+
+fieldset {
+	display: inline-block;
+	width: 44%;
+	vertical-align: top;
+	border: 2px solid rgb(37, 115, 179);
+	border-radius: 20px;
+	text-align: center;
+}
+
+input, select {
+	background-color: rgba(255, 255, 255, 0.5);
+	height: 35px;
+	width: 80%;
+	padding: 0 30px;
+	border: 1px solid rgb(37, 115, 179);
+	margin-bottom: 25px;
+	border-radius: 18px;
+	text-align: center;
+	font-size: 22px;
+	color: rgb(37, 115, 179);
+}
+
+input:focus, select:focus {
+	outline: none;
+}
+
+*::-webkit-input-placeholder {
+	color: rgb(122, 156, 194);
+}
+
+#left {
+	padding-top: 70px;
+	height: 280px;
+}
+
+input[name="full-name"] {
+	background: url(images/user1.png) no-repeat scroll 7px 7px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+input[name="email"] {
+	background: url(images/email.png) no-repeat scroll 7px 7px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+input[name="phone"] {
+	background: url(images/phone.png) no-repeat scroll 7px 7px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+#right {
+	padding-top: 60px;
+	height: 290px;
+}
+
+input[type="radio"] {
+	width: 15px;
+	height: 15px;
+	margin-bottom: 10px;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+select {
+	padding-left: 5px;
+	width: 100%;
+	height: 45px;
+	margin-bottom: 10px;
+}
+
+option, optgroup {
+	font-size: 14px;
+	background-color: rgb(191, 225, 234);
+}
+
+input[type="reset"], input[type="submit"] {
+	width: 100px;
+	height: 50px;
+	padding: 0;
+	font-size: 24px;
+	font-weight: bold;
+	float: right;
+	margin-top: 10px;
+	background: none;
+	margin-left: 5px;
+}
+
+input[type="reset"] {
+	color: rgb(230, 0, 2);
+	border-color: rgb(230, 0, 2);
+}
+
+input[type="reset"]:hover {
+	background-color: rgb(230, 0, 2);
+	color: white;
+	cursor: pointer;
+}
+
+input[type="submit"] {
+	color: rgb(8, 251, 9);
+	border-color: rgb(8, 251, 9);
+}
+
+input[type="submit"]:hover {
+	background-color: rgb(8, 251, 9);
+	color: white;
+	cursor: pointer;
+}

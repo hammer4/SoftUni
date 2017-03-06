@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Extreme Sports</title>
+		<link rel="stylesheet" href="extreme-reservation.css" />
+	<head>
+	<body>
+		<form method="get" action="" >
+			<header>
+				<nav>
+					<ul>
+						<li class="active"><a href="#"><img src="images/paraglider-icon.png" />Paragliding</a></li>
+						<li><a href="#"><img src="images/sky-diver.png" />Skydiving</a></li>
+						<li><a href="#"><img src="images/climbing.png" />Climbing</a></li>
+						<li><a href="#"><img src="images/about-us.png" />About Us</a></li>
+					</ul>
+				</nav>
+			</header>
+			<fieldset id="left">
+				<legend>Personal Info</legend>
+				<input type="text" name="full-name" placeholder="Enter your full name"/>
+				<input type="email" name="email" placeholder="Enter a valid e-mail"/>
+				<input type="text" name="phone" placeholder="Enter a phone number"/>
+			</fieldset>
+			<fieldset id="right">
+				<legend>Flight Info</legend>
+				<label for="first-time">Are flying for first time?</label>
+				<input type="radio" name="first-time" value="yes" id="first-time" /> Yes
+				<input type="radio" name="first-time" value="no" /> No
+				<label for="destination">Choose Destination</label>
+				<select name="destination" id="destination">
+					<optgroup label="Bulgaria">
+						<option value="dobrostan">Dobrostan</option>
+						<option value="sopot">Sopot</option>
+						<option value="sofia">Sofia</option>
+						<option value="bourgas">Bourgas</option>
+					</optgroup>
+					<optgroup label="Rest of the world">
+						<option value="nepal">Nepal</option>
+						<option value="turkey">Turkey</option>
+						<option value="france">France</option>
+					</optgroup>
+				</select>
+				<label for="date">Choose Date</label>
+				<input type="date" name="date" id="date"/>
+			</fieldset>
+			<input type="submit" value="Send" />
+			<input type="reset" value="Clear" />
+		</form>
+	</body>
+</html>

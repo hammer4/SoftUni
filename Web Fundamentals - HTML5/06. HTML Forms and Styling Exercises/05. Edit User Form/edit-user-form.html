@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit User Form</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="edit-user-form.css">
+</head>
+<body>
+<div id="wrapper">
+    <h1>EDIT USER</h1>
+    <form>
+        <label for="deactivate">
+            <input type="checkbox" name="deactivate" id="deactivate">
+            Deactivate
+        </label>
+        <label for="username">Username </label>
+        <input type="text" id="username" name="username">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <label for="phone">Phone number</label>
+        <input type="tel" id="phone" name="phone">
+        <label>User type</label>
+        <input type="radio" name="type" id="broadband">
+        <label for="broadband">Broadband</label>
+        <input type="radio" name="type" id="radio">
+        <label for="radio">Radio</label>
+        <label for="password">Change Password</label>
+        <input type="password" name="password" id="password">
+        <label>Groups</label>
+        <div id="groups">
+            <label for="all-groups">
+                <input type="checkbox" name="all-groups" id="all-groups">
+                All groups
+            </label>
+            <label for="group-1">
+                <input type="checkbox" name="group-1" id="group-1">
+                Group 1
+            </label>
+            <label for="group-2">
+                <input type="checkbox" name="group-2" id="group-2">
+                Group 2
+            </label>
+            <label for="group-3">
+                <input type="checkbox" name="group-3" id="group-3">
+                Group 3
+            </label>
+            <label for="group-4">
+                <input type="checkbox" name="group-4" id="group-4">
+                Group 4
+            </label>
+        </div>
+        <label>Contacts</label>
+        <a href="#">See Contacts list</a>
+        <button>CANCEL</button>
+        <button type="submit">SAVE</button>
+    </form>
+</div>
+</body>
+</html>

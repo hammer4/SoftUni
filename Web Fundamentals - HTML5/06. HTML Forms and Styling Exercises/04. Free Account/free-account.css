@@ -1,0 +1,115 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background-color: #EEEEEE;
+    font-size: 14px;
+}
+
+#wrapper {
+    width: 800px;
+    padding: 30px 30px 30px 50px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+form {
+    width: 43%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 3%;
+}
+
+input:not([type='checkbox']) {
+    width: 100%;
+    box-sizing: border-box;
+    height: 35px;
+    padding-left: 10px;
+    border-radius: 3px;
+    border: 1px solid #CCCCCC;
+    margin: 7px 0;
+    padding-right: 40px;
+}
+
+input[type=checkbox] {
+    margin-left: 0;
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+}
+
+.label {
+    display: inline-block;
+    width: 90%;
+    color: #999999;
+    font-size: 12px;
+}
+
+button {
+    background-color: #F0F0F0;
+    color: #222;
+    font-weight: bolder;
+    display: block;
+    padding: 8px 25px;
+    border:  1px solid #CCCCCC;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: #AFDF67;
+    cursor: pointer;
+}
+
+a {
+    color: #C48988;
+    text-decoration: none;
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.tick,
+.cross{
+    position: relative;
+}
+
+.tick::after,
+.cross::after {
+    font-family: FontAwesome;
+    font-size: 20px;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    color: white;
+    padding: 3px;
+}
+
+.cross::after {
+    content: '\f00d';
+    background-color: #FD0400;
+}
+
+.tick::after {
+    content: '\f00c';
+    background-color: #00FF01;
+}

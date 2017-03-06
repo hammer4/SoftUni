@@ -1,0 +1,131 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    background-color: #EBEBEB;
+    font: 13px Tahoma, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    color: #73A7DA;
+    font-weight: normal;
+    background-color: #F1F1F1;
+    margin: 0;
+    padding: 15px 10px;
+    border-bottom: 1px dashed #DDDDDD;
+}
+
+h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+#info p{
+    width: 80%;
+    display: inline-block;
+    margin-right: 30px;
+    float: left;
+}
+
+input,
+select {
+    box-sizing: border-box;
+    height: 25px;
+    padding: 0 5px;
+    margin: 5px 0;
+    border-radius: 3px;
+    border: 1px solid #DDDDDD;
+}
+
+label[for=search] {
+    width: 130px;
+    float: left;
+    vertical-align: bottom;
+    font-weight: bold;
+    position: relative;
+}
+
+label[for=search] input {
+    width: 100%;
+    padding-right: 20px;
+}
+
+i {
+    position: absolute;
+    right: 5px;
+    bottom: 11px;
+}
+
+#info::after {
+    clear: left;
+    display: block;
+    content: '';
+}
+
+#info {
+    border-bottom: 1px dashed #DDDDDD;
+}
+
+#details, #reservation {
+    width: 49.5%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#details input {
+    display: block;
+}
+
+#reservation label {
+    display: inline-block;
+}
+
+#reservation input,
+#reservation select {
+    height: 22px;
+}
+
+#reservation label[for=room] {
+    width: 60%;
+}
+
+#reservation label input,
+#reservation label select{
+    width: 100%;
+}
+
+#reservation label[for=number] {
+    width: 38%;
+}
+
+#reservation label[for=check-in],
+#reservation label[for=check-out] {
+    width: 49%;
+}
+
+#form {
+    border-bottom: 1px dashed #DDDDDD;
+}
+
+button {
+    float: right;
+    margin-top: 20px;
+    background-color: #32A2E4;
+    border-radius: 5px;
+    padding: 6px 25px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+button:hover {
+    background-color: #3BBC96;
+    cursor: pointer;
+}
