@@ -1,0 +1,161 @@
+@import url('https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #e5e5e5;
+}
+
+h1, h2, h3 {
+    color: #000000;
+    padding: 20px;
+    text-shadow: 1px 0 #000000;
+}
+
+i.fa-bars {
+    display: none;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    min-width: 100px;
+}
+
+nav {
+    background: #ffffff;;
+}
+article {
+    width: calc(100% - 20px)
+}
+article p {
+    max-width: 60%;
+}
+
+main h2 {
+    text-align: center;
+}
+
+.hr-solution {
+    display: flex;
+    flex-direction: column;
+    background: url("img/shv_sunrise_preview.jpg") center center no-repeat;
+    background-size: cover;
+    height: 600px;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    height: 50px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.logo {
+    text-align: center;
+}
+
+.learn-more {
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, .7);
+    font-weight: bold;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, .7);
+}
+
+.subscribe-now {
+    width: 100px;
+    height: 25px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    background: #a0ce4e;
+    color: rgba(255, 255, 255, .9);
+}
+
+nav {
+    padding: 20px;
+}
+
+#menu-icon {
+    display: none;
+    width: 40px;
+    height: 40px;
+    background: #4C8FEC url(img/menu-icon.png) center;
+
+}
+
+a:hover#menu-icon {
+    background-color: #444;
+    border-radius: 4px 4px 0 0;
+}
+
+.business {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+@media all and (max-width: 880px) {
+    .business {
+        display: block;
+    }
+
+    .learn-more {
+        display: block;
+        margin-bottom: 25px;
+    }
+
+    .business article {
+        text-align: center;
+    }
+
+    article p {
+        max-width: 100%;
+    }
+
+    main h2 {
+        font-size: 1.4em;
+    }
+
+    .top-list {
+        display: none;
+        height: auto;
+    }
+
+    #menu-icon {
+        display: inline-block;
+    }
+
+    nav li {
+        text-align: center;
+        width: 100%;
+        padding: 10px 0;
+        margin: 0;
+        background: #f6f6f6;
+    }
+
+    nav:hover ul.top-list {
+        display: block;
+    }
+}

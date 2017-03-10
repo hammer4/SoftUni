@@ -1,0 +1,139 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: auto;
+    background: #eaeaea;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.info p {
+    text-align:center;
+    color: #999;
+    text-transform:none;
+    font-weight:600;
+    font-size:15px;
+    margin-top:2px
+}
+
+form {
+    border-radius: 5px;
+    width:700px;
+    margin: 10px auto;
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+}
+
+p span {
+    color: #F00;
+}
+
+p {
+    margin: 0;
+    font-weight: 500;
+    line-height: 2;
+    color:#333;
+}
+
+h1 {
+    text-align:center;
+    color: #666;
+    text-shadow: 1px 1px 0 #FFF;
+    margin: 20px 0 0 0
+}
+
+input, textarea {
+    border-radius: 0 5px 5px 0;
+    border: 1px solid #eee;
+    padding: 5px 8px;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+    font-size: 1.1em;
+}
+
+input {
+    margin-bottom: 15px;
+    height: 40px;
+}
+
+textarea {
+    margin: 0;
+    height: 127px;
+}
+
+.icon-case {
+    width: 35px;
+    float: left;
+    border-radius: 5px 0 0 5px;
+    background: #eeeeee;
+    height: 40px;
+    text-align: center;
+    line-height:40px;
+}
+
+i {
+    color:#555;
+}
+
+.button-contact{
+    background-color: #81BDA4;
+    color: #FFF;
+    text-align: center;
+    width: 100%;
+    border:0;
+    padding: 17px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-shadow: 0 0 1px black;
+}
+
+.button-contact:hover {
+    font-weight: bold;
+    box-shadow: 0 0 5px black;
+}
+
+.left-contact, .right-contact {
+    width:50%;
+    float:left;
+    box-sizing: border-box;
+    padding: 0 15px 0 0;
+}
+
+.right-contact {
+    float:right;
+    padding: 0 0 0 15px;
+    border-right: none;
+}
+
+
+
+
+@media all and (max-width: 800px) {
+    form {
+        max-width: calc(100% - 40px);
+    }
+}
+
+@media all and (max-width: 660px) {
+    .left-contact, .right-contact {
+        width: 100%;
+        padding: 0;
+    }
+
+    .right-contact input {
+        width: calc(100% - 70px);
+    }
+
+    textarea {
+        width: calc(100% - 70px);
+    }
+
+    .button-contact {
+        width: calc(100% - 35px);
+    }
+}

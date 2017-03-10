@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="contact-form.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<h1>Contact Form</h1>
+
+<form method="post" enctype="multipart/form-data">
+        <div class="left-contact">
+            <div class="form-group">
+
+                <p>Surname<span>*</span></p>
+                <label class="icon-case" for="surname"><i class="fa fa-male"></i></label>
+                <input type="text" name="surname" id="surname" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Name <span>*</span></p>
+                <label class="icon-case" for="name"><i class="fa fa-user"></i></label>
+                <input type="text" name="name" id="name" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>E-mail <span>*</span></p>
+                <label class="icon-case" for="email"><i class="fa fa-envelope-o"></i></label>
+                <input type="email" name="email" id="email" required />
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Company <span>*</span></p>
+                <label class="icon-case" for="society"><i class="fa fa-home"></i></label>
+                <input type="text" name="society" id="society" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Company Address <span>*</span></p>
+                <label class="icon-case" for="address"><i class="fa fa-location-arrow"></i></label>
+                <input type="text" name="address" id="address" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Postcode <span>*</span></p>
+                <label class="icon-case" for="postal"><i class="fa fa-map-marker"></i></label>
+                <input type="text" name="postal" id="postal" required/>
+
+            </div>
+        </div>
+
+        <div class="right-contact">
+
+            <div class="form-group">
+
+                <p>City <span>*</span></p>
+                <label class="icon-case" for="city"><i class="fa fa-building-o"></i></label>
+                <input type="text" name="city" id="city" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Phone number <span>*</span></p>
+                <label class="icon-case" for="phone"><i class="fa fa-phone"></i></label>
+                <input type="text" name="phone" id="phone" required/>
+            </div>
+
+            <div class="form-group">
+
+                <p>Information <span>*</span></p>
+                <label class="icon-case" for="info"><i class="fa fa-info"></i></label>
+                <input type="text" name="info" id="info" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Comment <span>*</span></p>
+                <label class="icon-case" for="comment"><i class="fa fa-comment-o"></i></label>
+                <input type="text" name="comment" id="comment" required/>
+
+            </div>
+
+            <div class="form-group">
+
+                <p>Message <span>*</span></p>
+                <label class="icon-case" for="msg"><i class="fa fa-comments-o"></i></label>
+                <textarea name="message" id="msg" required></textarea>
+
+            </div>
+        </div>
+
+    <button type="submit" class="button-contact">Send</button>
+
+</form>
+
+</body>
+</html>
