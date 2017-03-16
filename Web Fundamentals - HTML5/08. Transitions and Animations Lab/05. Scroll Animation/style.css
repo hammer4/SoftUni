@@ -1,0 +1,156 @@
+/*These styles contain basic styles for fomatting along with our animation css*/
+
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background: #efefef;
+}
+
+strong, b {
+    font-weight: 600
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+}
+
+i.fa {
+    color: #333;
+}
+
+* {
+    box-sizing: border-box;
+}
+/*clearfixes*/
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: block;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.main-container {
+    background: #fff;
+    max-width: 1000px;
+    margin: 25px auto 25px auto;
+    position: relative;
+}
+
+.container {
+    position: relative;
+    padding: 25px;
+}
+
+/*animation element*/
+
+.animation-element {
+    opacity: 0;
+}
+
+/*animation element sliding left*/
+
+.animation-element.slide-left {
+    opacity: 0;
+    transition: all 900ms linear;
+    transform: translate(-100px, 0px);
+}
+
+
+.animation-element.slide-left.in-view {
+    opacity: 1;
+    transform: translate(0px, 0px);
+}
+
+.animation-element.slide-left.testimonial:hover {
+    position: relative;
+    transform: scale(1.1, 1.1);
+    z-index: 5;
+}
+
+/*animation slide left styled for testimonials*/
+
+.animation-element.slide-left.testimonial {
+    float: left;
+    width: 47%;
+    margin: 0 1.5% 3% 1.5%;
+    background: #F5F5F5;
+    padding: 15px;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+    border: solid 1px #EAEAEA;
+}
+
+
+.animation-element.slide-left.testimonial:nth-of-type(odd) {
+    width: 48.5%;
+    margin: 0 1.5% 3.0% 0;
+}
+
+.animation-element.slide-left.testimonial:nth-of-type(even) {
+    width: 48.5%;
+    margin: 0 0 3.0% 1.5%;
+}
+
+.animation-element.slide-left.testimonial .header {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.animation-element.slide-left.testimonial .left {
+    float: left;
+    margin-right: 15px;
+}
+
+.animation-element.slide-left.testimonial .right {
+    float: left;
+}
+
+.animation-element.slide-left.testimonial img {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba(51, 51, 51, 0.5);
+}
+
+
+.animation-element.slide-left.testimonial .content {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+/*media queries for small devices*/
+@media screen and (max-width: 640px) {
+    /*testimonials*/
+    .animation-element.slide-left.testimonial,
+    .animation-element.slide-left.testimonial:nth-of-type(odd),
+    .animation-element.slide-left.testimonial:nth-of-type(even) {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+
+    .animation-element.slide-left.testimonial .right,
+    .animation-element.slide-left.testimonial .left,
+    .animation-element.slide-left.testimonial .content,
+    .animation-element.slide-left.testimonial .rating {
+        text-align: center;
+        float: none;
+    }
+
+    .animation-element.slide-left.testimonial img {
+        width: 85px;
+        height: 85px;
+        margin-bottom: 5px;
+    }
+
+}

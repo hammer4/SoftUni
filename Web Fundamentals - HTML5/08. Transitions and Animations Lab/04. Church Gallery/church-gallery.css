@@ -1,0 +1,67 @@
+body {
+    background: #ffffff;
+    font-family: Avenir, Arial, sans-serif;
+}
+
+h1{ text-align: center; color: #000 }
+
+#church-container {
+    background: #ffffff;
+    overflow: hidden;
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+#church-container input[type="radio"] { display: none; }
+
+#church-container label img {
+    width: 20%;
+    float: left;
+    clear: left;
+    border: 10px solid #111;
+}
+
+#church-container label:hover {
+    cursor: pointer;
+}
+
+#churches {
+    width: 90%;
+    position: relative;
+    margin-left: 240px;
+}
+
+#churches figure {
+    margin: 0;
+    position: absolute;
+    opacity: 0;
+    transform: scale(0.8);
+    /*TODO add transition property, transition duration and transition function*/
+}
+
+#churches figure img {
+    height: 600px;
+    border-radius: 20px;
+}
+
+
+#churches figure figcaption {
+    position: relative;
+    background: rgba(0,0,0,.6);
+    color: #fff;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-top: 1.6rem;
+    line-height: 1.4;
+    text-align: left;
+}
+
+#florence:checked~#churches #florence-fig,
+#altenberger:checked~#churches #altenberger-fig,
+#saint-michel:checked~#churches #saint-michel-fig,
+#moscow:checked~#churches #moscow-fig {
+    opacity: 1;
+    transform: scale(1);
+}

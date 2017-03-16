@@ -1,0 +1,104 @@
+* { margin: 0; padding: 0; border: 0 }
+
+body {
+    font: 18px 'Lucida Sans Unicode';
+    color: #fff;
+    background: #f6f6f6;
+    background: linear-gradient(to bottom,  #f5f6f6 0%,#c4c4c4 100%) fixed
+}
+
+main {
+    width: 800px;
+    margin: 100px auto 0 auto;
+}
+
+h1 {
+    font-size: 50px;
+    color: #707070;
+    text-align: center
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 50px 20px 0 20px;
+    border: 5px solid #fff;
+    border-radius: 105px;
+    overflow: hidden;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.2);
+    position: relative
+}
+
+.box img {
+    border-radius: 100px
+}
+
+.box p {
+    width: 200px;
+    height: 105px;
+    background: #000;
+    text-align: center;
+    border-radius: 100px;
+    padding: 95px 0 0 0
+}
+
+.effect-1 p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.effect-2 img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.effect-3 img {
+	cursor: pointer;
+}
+
+.effect-3 p {
+    position: absolute;
+    opacity: 0.8;
+    top: 0;
+    left: 0;
+    margin-left: -200px;
+}
+
+/** Transition effects **/
+
+.effect-1 p {
+    transition: opacity 0.5s;
+}
+
+.effect-1 p:hover {
+    transition: opacity 0.5s;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.effect-2 img {
+    transition: margin-left 1.2s;
+}
+
+.effect-2:hover img {
+    margin-left: 200px;
+}
+
+.effect-2 p:hover {
+    cursor: pointer;
+}
+
+.effect-3 p {
+    transition: margin-left 0.7s 0.5s;
+}
+
+.effect-3:hover p {
+    margin-left: 0;
+    cursor: pointer;
+}
