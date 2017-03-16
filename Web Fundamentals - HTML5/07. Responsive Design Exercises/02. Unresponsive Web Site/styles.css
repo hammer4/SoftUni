@@ -1,0 +1,225 @@
+﻿body, ul, header, footer, section, article, ul, li, a, span, nav, h1, h2, h3, aside, div {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    background-image: url('img/site-background.jpg');
+    background-attachment: fixed;
+}
+
+body {
+    font-family: Tahoma;
+}
+
+body #wrapper {
+    font-size: 16px;
+    margin: 0 auto;
+    position: relative;
+    width: 960px;
+    /*FlexBox*/
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+body #wrapper > header {
+    order: 1;
+    flex-grow: 4;
+    vertical-align: bottom;
+    margin-bottom: 35px;
+    padding: 15px;
+    padding-bottom: 25px;
+    width: 100%;
+    background: rgba(176, 224, 244, 0.8);
+    /*FlexBox*/
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+body #wrapper > header h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: left;
+    vertical-align: bottom;
+    width: 100%;
+}
+
+body #wrapper > header h1 a {
+    color: #000000;
+    display: inline-block;
+    text-decoration: none;
+    vertical-align: text-bottom;
+    /*FlexBox*/
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+body #wrapper > header h1 a span {
+    margin-left: 30px;
+}
+
+body #wrapper > header h1 a img {
+    height: 50px;
+}
+
+body #wrapper > header nav {
+    margin-top: 20px;
+    width: 100%;
+}
+
+body #wrapper > header nav ul {
+    list-style-type: none;
+    width: 100%;
+    /*FlexBox*/
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+
+body #wrapper > header nav ul li {
+    width: 150px;
+    text-align: center;
+    background: #224465;
+    display: inline-block;
+    font-size: 1.1em;
+    margin-left: 10px;
+    position: relative;
+    padding: 5px;
+    border: 1px solid rgb(176, 224, 244);
+}
+
+body #wrapper > header nav ul li:hover {
+    background: rgba(176, 224, 244, 1);
+    border: 1px solid #224465;
+}
+
+body #wrapper > header nav ul li:hover > a {
+    color: #224465;
+}
+
+body #wrapper > header nav ul li a {
+    color: rgba(176, 224, 244, 1);
+    display: inline-block;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+
+body #wrapper > aside {
+    width: 29%;
+    order: 5;
+    /*FlexBox*/
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+body #wrapper > aside div {
+    background: rgba(176, 224, 244, 0.8);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4ca0db', endColorstr='90%', GradientType=1);
+    margin-bottom: 15px;
+    padding: 15px;
+    width: 100%;
+}
+
+body #wrapper > aside div.news ul li {
+    border-bottom: 1px solid black;
+    margin: 5px 0;
+}
+
+body #wrapper > aside div.news ul li a {
+    color: black;
+    padding: 5px 0 5px 0;
+}
+
+body #wrapper > aside div.news ul li:last-of-type {
+    border: none;
+}
+
+body #wrapper > aside div.news ul li:hover a {
+    text-decoration: underline;
+}
+
+body #wrapper > aside div ul {
+    list-style-type: none;
+}
+
+body #wrapper > aside div ul li a {
+    color: #000000;
+    display: inline-block;
+    text-decoration: none;
+}
+
+body #wrapper > aside div ul li a img {
+    vertical-align: middle;
+}
+
+body #wrapper > aside div ul li a span {
+    vertical-align: middle;
+}
+
+body #wrapper > aside div ul li:hover a span {
+    text-decoration: underline;
+}
+
+body #wrapper > section {
+    width: 70%;
+    order: 2;
+}
+
+body #wrapper > section article {
+    background: rgba(176, 224, 244, 0.8);
+    margin-bottom: 13px;
+    padding: 15px;
+}
+
+body #wrapper > section article header {
+    margin: 0 auto;
+    width: 100%;
+}
+
+body #wrapper > section article header h1 {
+    font-size: 1.7em;
+}
+
+body #wrapper > section article > div p {
+    text-align: justify;
+    text-indent: 2em;
+}
+
+body #wrapper > section article footer {
+    margin: 0 auto;
+    width: 100%;
+}
+
+body #wrapper > footer {
+    background: rgba(176, 224, 244, 0.8);
+    float: left;
+    height: 70px;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    order: 10;
+}
+
+body #wrapper > footer h2 {
+    font-size: 1.3em;
+    height: 100%;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+body #wrapper > footer h2 a {
+    color: black;
+}

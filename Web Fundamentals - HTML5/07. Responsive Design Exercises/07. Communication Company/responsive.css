@@ -1,0 +1,144 @@
+.main-nav ul li:last-of-type {
+    float: left;
+    display: inline;
+    padding-left: 0;
+}
+
+.main-nav ul li:last-of-type::before {
+    border: 0;
+}
+
+@media screen and (max-width: 1200px){
+    .wrapper {
+        width: 97%;
+    }
+
+    .content-wrap {
+        flex-direction: column;
+    }
+
+    .main-foot .wrapper {
+        flex-wrap: wrap;
+    }
+
+    .main-foot .wrapper > * {
+        flex-basis: 48%;
+    }
+}
+
+@media screen and (max-width: 700px){
+    footer {
+        text-align: center;
+    }
+
+    .main-foot .wrapper > * {
+        flex-basis: 100%;
+    }
+
+    .main-foot .bottom .bottom-wrap,
+    .main-foot .bottom .copyright {
+        float: none;
+    }
+
+    .sponsors h3,
+    .content.woodsmoke h3 {
+        font-size: 26px;
+    }
+
+    .content.woodsmoke {
+        text-align: center;
+    }
+
+    .button-list li {
+        display: block;
+        width: 99%;
+        margin: 0 auto 20px;
+    }
+
+    .button.button-grey {
+        width: 100%;
+        font-size: 12px;
+        border-width: 1px;
+    }
+
+    .large-text-link {
+        font-size: 18px;
+    }
+
+    .sponsorship {
+        padding-bottom: 70px;
+    }
+
+    .hero-head {
+        background: #181621;
+        text-align: center;
+        min-height: 500px;
+    }
+
+    .hero-head .goal {
+        float: none;
+        max-width: 100%;
+        font-size: 17px;
+    }
+
+    .hero-head h1 {
+        float: none;
+        font-size: 30px;
+        line-height: 40px;
+        margin: 0 0 20px;
+    }
+
+    .main-nav-trigger {
+        float: right;
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    .main-nav {
+        display: none;
+        float: none;
+    }
+
+    .main-nav ul {
+        float: none;
+        margin: 0;
+    }
+
+    .main-nav::before {
+        clear: both;
+        content: '';
+        display: block;
+    }
+
+    .main-nav ul li {
+        display: block;
+        width: 100%;
+        float: none;
+    }
+
+    .main-nav-trigger:hover ~ .main-nav {
+        display: block;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .bordered {
+        text-align: center;
+    }
+
+    .content-wrap.two-col .col {
+        margin: 0;
+    }
+
+    .content-wrap h3 {
+        font-size: 28px;
+    }
+
+    .button {
+        width: 100%;
+        font-size: 13px;
+        border-width: 1px;
+    }
+}

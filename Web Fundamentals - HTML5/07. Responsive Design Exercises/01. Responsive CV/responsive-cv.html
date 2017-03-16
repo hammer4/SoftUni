@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Responsive CV</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <link rel="stylesheet" href="responsive.css">
+
+</head>
+
+<body>
+<div id="wrapper" itemscope itemtype="http://schema.org/Person">
+    <header class="clearfix">
+        <div id="info">
+            <h1><span itemprop="name">Bay Ivan</span></h1>
+            <h3><span itemprop="jobTitle">Freelance Front-End &amp; Web Developer</span></h3>
+            <small itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="addressLocality">Sofia</span>,
+                <span itemprop="addressCountry">Bulgaria</span>
+            </small>
+            <small><span itemprop="email">bayivan@gmail.com</span></small>
+            <small><a href="http://bayivan.com" itemprop="url">Portfolio</a> &bull; <a href="http://twitter.com/bayivan"
+                                                                                       itemprop="url">Twitter:
+                @bayivan</a></small>
+        </div>
+
+        <div id="photo">
+            <img src="img/Bay-Ivan.png" alt="Bay Ivan - photo" itemprop="image"/>
+        </div>
+    </header>
+
+    <section id="profile">
+        <h2>About Me</h2>
+        <p itemprop="description">I'm a 76 year old Web developer from Sofia. I drink rakiya and beer every day. I was
+            the first person in Bulgaria who started learning HTML in 1990.</p>
+
+        <p>I am working as freelancer. I can brew beer and rakiya, code in HTML and CSS and create WordPress sites.</p>
+    </section>
+
+    <h2 itemprop="name">Skils</h2>
+    <section id="skills" class="clearfix" itemscope itemtype="http://schema.org/ItemList">
+        <section id="skills-left">
+            <h4 itemprop="about">Development</h4>
+            <ul>
+                <li itemprop="itemListElement">HTML</li>
+                <li itemprop="itemListElement">CSS</li>
+                <li itemprop="itemListElement">JavaScript</li>
+                <li itemprop="itemListElement">jQuery</li>
+                <li itemprop="itemListElement">Bootstrap</li>
+                <li itemprop="itemListElement">WordPress</li>
+                <li itemprop="itemListElement">CMS Systems</li>
+            </ul>
+        </section>
+
+        <section id="skills-right">
+            <h4 itemprop="about">Software</h4>
+            <ul>
+                <li itemprop="itemListElement">Paint.NET</li>
+                <li itemprop="itemListElement">Adobe Photoshop</li>
+                <li itemprop="itemListElement">Notepad++</li>
+                <li itemprop="itemListElement">WordPress</li>
+                <li itemprop="itemListElement">Joomla</li>
+            </ul>
+        </section>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><span itemprop="alumniOf">Technical University of Sofia</span>, graduate of 1949.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <p>Software Developer - Bulgarian Academy of Sciences ~ 1950-2000</p>
+        <p>Freelance Developer for <span itemprop="worksFor">bayivan.com</span> ~ 2000-Present</p>
+    </section>
+
+    <section id="articles">
+        <h2>Languages</h2>
+        <p>English</p>
+        <p>Russian</p>
+        <p>Bulgarian</p>
+    </section>
+
+</div>
+</body>
+</html>

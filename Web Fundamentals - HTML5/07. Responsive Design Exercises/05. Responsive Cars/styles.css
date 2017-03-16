@@ -1,0 +1,274 @@
+html, body { padding:0; margin:0;}
+body {background: #999999; color: #474747;font: 12px/25px Arial, Helvetica, sans-serif;}
+
+a{
+	color: #474747;
+	text-decoration: none;
+}
+a:hover {
+	color: #DA251D;
+	text-decoration: none;
+}
+
+a.button{
+	cursor: pointer;
+	color: #ffffff;line-height: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	background: #3F3F3F;
+}
+a.button {display: inline-block;
+	text-decoration: none;
+	padding: 6px 12px 6px 12px;
+}
+
+.clear{
+	content: "\0020";
+	display: block;
+	height: 0; clear: both;
+	visibility: hidden;
+}
+header {
+	background:#3F3F3F;
+}
+header .wrap-header{
+	height: 130px;
+}
+
+header #logo {
+	position:absolute;
+	top:20px;
+	padding:5px;
+	width: 10%;
+}
+
+nav .wrap-nav{
+	position:absolute;
+	top:50px;
+	right:0px;
+	height: 37px;
+	background:#333;
+}
+.menu{
+
+}
+
+.menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.menu  ul li {position: relative;
+	float: left;
+	padding: 6px 5px 0px 5px;
+}
+.menu  ul li:hover {
+	background:#DA251D;
+}
+.menu  ul li a {font-size: 14px;
+	line-height:14px;
+	color: #CCC;
+	display: block;
+	padding: 6px 10px;
+	margin-bottom: 5px;
+	z-index: 6;position: relative;
+	text-transform:uppercase;
+}
+.menu  ul li:hover a {
+	color:#ffffff;
+}
+
+.minimenu{
+	display:none;
+}
+.minimenu{
+	position: relative;
+	margin: 0px;
+	background:#333333;
+}
+.minimenu div{
+	overflow: hidden;
+	position: relative;font: 18px/37px 'PT Sans Narrow';
+	color: #fff;text-align:center;text-transform:uppercase;
+	font-weight:bold;
+}
+.minimenu select{
+	position: absolute;
+	top: 0px;left: 0px;
+	width: 100%;height: 100%;
+	opacity: 0;filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+	cursor: pointer;
+}
+.featured{
+	margin:30px auto;
+}
+.featured .wrap-featured{
+	background:#333;
+}
+.featured .wrap-featured .slider{
+	padding: 10px;
+}
+
+#content .wrap-content{
+	background-color:#FFF;
+	border:1px solid #CCC;
+	margin-top: 30px;
+}
+
+.block01 {
+	text-align:center;
+	padding-bottom:30px;
+}
+.block01 img{
+	border:5px solid #CCCCCC;
+}
+.block01 h2{
+	font-size:20px;
+	line-height:30px;
+}
+
+.block02 {
+	margin:10px;
+	border-bottom:1px dashed #cccccc;
+	border-top:1px dashed #cccccc;
+}
+.block02 p {
+	padding:30px;
+	font-size:24px;
+	text-align:center;
+	line-height:30px;
+}
+.block02 a {
+	color:#DA251D;
+}
+
+.block03 {
+	margin:30px 0;
+}
+.block03 h2{
+	font-size:18px;
+}
+.block03 img{
+	float:left;
+	margin-right:10px;
+}
+footer {
+	background-color:#333;
+	margin-top:30px;
+
+}
+footer .wrap-footer{
+	padding:10px 0px;
+	color:#ffffff;
+
+}
+
+footer .heading{
+	padding:5px;
+	border-bottom:3px solid #FFFFFF;
+}
+footer .heading h2{
+	font-size:22px;
+	font-weight:normal;
+	display:inline;
+	padding:0 5px;
+}
+footer .content{
+	padding:5px
+}
+footer .content a{
+	color:#DA251D;
+	text-decoration:none;
+}
+footer .content .gallery img{
+	float:left;
+	padding:5px;
+	border:1px solid #CCC;
+	margin:5px;
+}
+
+.copyright{
+	text-align:center;
+	margin-top:20px;
+}
+.copyright a{
+	color:#ffffff;
+	text-decoration:underline;
+}
+
+
+html {
+   -webkit-text-size-adjust: none;
+}
+.video embed,
+.video object,
+.video iframe {
+   width: 100%;
+   height: auto;
+}
+img{
+	max-width:100%;
+
+}
+.zerogrid{
+	width: 960px;
+	position: relative;
+	margin: 0 auto;
+	padding: 0px;
+}
+.zerogrid:after {
+	content: "\0020";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.zerogrid .row{}
+.zerogrid .row:before,.row:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+.zerogrid .row:after{
+	clear: both;
+}
+
+.zerogrid .wrap-col{
+	margin:10px;
+}
+
+.zerogrid .col-1-2, .zerogrid .col-1-3, .zerogrid .col-2-3, .zerogrid .col-1-4, .zerogrid .col-2-4, .zerogrid .col-3-4, .zerogrid .col-1-5, .zerogrid .col-2-5, .zerogrid .col-3-5, .zerogrid .col-4-5, .zerogrid .col-1-6, .zerogrid .col-2-6, .zerogrid .col-3-6, .zerogrid .col-4-6, .zerogrid .col-5-6{
+	float:left;
+	display: inline-block;
+}
+
+
+
+.zerogrid .col-full{
+	width:1200px;
+}
+
+.zerogrid .col-1-2{
+	width:400px;
+}
+
+.zerogrid .col-1-3{
+	width:333px;
+}
+.zerogrid .col-2-3{
+	width:666px;
+}
+
+.zerogrid .col-1-4{
+	width:200px;
+	margin-left: 25px;
+}
+.minimenu div:hover{
+	background: #ffffff;
+	color: #000000;
+}
