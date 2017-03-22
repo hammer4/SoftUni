@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0E1013;
+}
+
+.container {
+    width: 200px;
+    height: 100px;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+
+.ball {
+    width: 20px;
+    height: 20px;
+    margin: 20px auto;
+    border-radius: 50px;
+    position: relative;
+    animation-name: red;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+}
+
+.ball:first-of-type {
+    background: #ff005d;
+}
+
+.ball:nth-of-type(2) {
+    background: #35ff99;
+    animation-delay: 300ms;
+}
+
+.ball:nth-of-type(3) {
+    background: #008597;
+    animation-delay: 250ms;
+}
+
+.ball:nth-of-type(4) {
+    background: #ffcc00;
+    animation-delay: 900ms;
+}
+
+.ball:nth-last-of-type(3) {
+    background: #2d3443;
+    animation-delay: 700ms;
+}
+
+.ball:nth-last-of-type(2) {
+    background: #ff7c35;
+    animation-delay: 650ms;
+}
+
+.ball:last-of-type {
+    background: #4d407c;
+    animation-delay: 50ms;
+}
+
+/*TODO @keyframes*/
+
+@keyframes red {
+    0% {
+        left: -90px;
+    }
+
+    50% {
+        left: 90px;
+    }
+
+    100% {
+        left: -90px;
+    }
+}

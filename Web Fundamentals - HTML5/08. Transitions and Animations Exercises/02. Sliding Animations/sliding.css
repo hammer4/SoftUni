@@ -1,0 +1,60 @@
+div{
+    display: inline-block;
+    margin: 50px;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    transition: all 900ms;
+    top: 100px;
+    overflow: hidden;
+}
+.card:hover {
+    z-index: 20;
+}
+
+.front-side {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    color: white;
+    background: #234465;
+    z-index: 5;
+    -webkit-transition: 300ms ease-in;
+}
+
+.back-side {
+    width: 200px;
+    height: 200px;
+    background: #ffa000;
+    position: relative;
+    overflow: hidden;
+    color: white;
+}
+
+/*Animation*/
+
+#slide-up .card:hover .front-side {
+    margin-top: 0;
+    top: -150px;
+}
+
+#slide-down .card:hover .front-side {
+    top: 250px;
+}
+
+#slide-left .card:hover .front-side {
+    margin-left: 0;
+    left: -150px;
+}
+
+#slide-right .card:hover .front-side {
+    left: 150px;
+}
