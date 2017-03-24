@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Kreon:400,700|Open+Sans:400,700');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+header {
+    color: white;
+    background: url("img/header-background.jpg");
+    background-size: cover;
+    padding: 30px 15px 50px;
+}
+
+header > span {
+    font-family: Kreon;
+    font-size: 32px;
+    text-transform: capitalize;
+}
+
+header nav {
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 25px;
+}
+
+nav ul li a {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav ul {
+    margin-bottom: 5px;
+    padding-left: 15px;
+}
+
+nav ul li a:hover {
+    background-color: #F4474F;
+    border-radius: 10px;
+}
+
+header h2 {
+    margin: 300px 0 0;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 32px;
+}
+
+header h1 {
+    margin: 0;
+    font-family: Kreon;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+header h1 span {
+    display: block;
+}
+
+#goals article {
+    display: inline-block;
+    padding: 30px 8% 10px 3%;
+    width: 39%;
+    vertical-align: top;
+}
+
+#goals .img-container {
+    float: left;
+    margin: 30px 20px 0 0;
+    height: 135px;
+}
+
+#goals {
+    color: white;
+}
+
+#goals article:first-of-type {
+    background-color: #F4474F;
+}
+
+#goals article:last-of-type {
+    background-color: #31C7D8;
+}
+
+#goals h3 {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+#services {
+    color: #333333;
+    padding: 30px;
+}
+
+#services h1 {
+    font-family: Kreon;
+    font-size: 52px;
+    margin-top: 10px;
+}
+
+#services h3 {
+    color: #939393;
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+
+#services h3 span {
+    display: block;
+}
+
+#services article {
+    width: 26%;
+    padding: 0 3%;
+    display: inline-block;
+    border-right: 1px solid #D3D3D3;
+}
+
+#services article:last-of-type {
+    border-right: none;
+}
+
+#services h4 {
+    font-family: Kreon;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+#services p {
+    color: #939393;
+}
+
+#request {
+    background-color: #F4474F;
+    padding: 40px 150px;
+}
+
+#request h2 {
+    float: left;
+    color: white;
+    font-family: Kreon;
+    font-size: 36px;
+}
+
+#request button {
+    float: right;
+    color: #F4474F;
+    background-color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: none;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    letter-spacing: 3px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 0 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#request button:hover {
+    color: #433E58;
+}
+
+#request::after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 15px 0;
+}

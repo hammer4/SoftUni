@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EAF0F1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+
+#wrapper {
+    text-align: center;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80%;
+}
+
+.card {
+    flex-basis: 30%;
+    margin: 0 10px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 0 30px 40px;
+    opacity: 0.7;
+    box-shadow: 3px 6px 3px #ccc;
+}
+
+.card:hover {
+    opacity: 1;
+}
+
+.img-container {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-width: 60px;
+}
+
+h2 {
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+p {
+    padding: 30px 0 40px;
+    font-size: 14px;
+    color: #6A6A79;
+}
+
+.price {
+    color: #FF4D00;
+    font-size: 32px;
+    padding-top: 0;
+}
+
+.card:first-of-type .price {
+    color: #6A6A79;
+}
+
+button {
+    width: 75%;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    border: none;
+    background-color: #FF4D00;
+    color: white;
+    height: 50px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.card:first-of-type button {
+    background-color: #93DDE8;
+}

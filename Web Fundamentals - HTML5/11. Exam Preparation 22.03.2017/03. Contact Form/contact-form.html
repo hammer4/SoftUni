@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="contact-form.css">
+</head>
+<body>
+<form>
+    <h1>Should you have any questions, please do not hesitate to contact us:</h1>
+    <div id="left">
+        <label for="name">
+            Name<span>*</span>
+            <input name="name" id="name" type="text">
+        </label>
+        <label for="email">
+            Email<span>*</span>
+            <input name="email" id="email" type="email">
+        </label>
+        <label for="company">
+            Company<span>*</span>
+            <input name="company" id="company" type="text">
+        </label>
+    </div>
+    <div id="right">
+        <label for="phone">
+            Phone<span>*</span>
+            <input name="phone" id="phone" type="tel">
+        </label>
+        <label for="subject">
+            Subject<span>*</span>
+            <input name="subject" id="subject" type="text">
+        </label>
+        <label for="message">
+            Message<span>*</span>
+            <textarea name="message" id="message"></textarea>
+        </label>
+    </div>
+    <button type="submit">Send</button>
+</form>
+</body>
+</html>

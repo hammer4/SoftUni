@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,900');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EAF0F1;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+form {
+    margin: 50px auto;
+    width: 700px;
+    border-radius: 10px;
+    background-color: white;
+    overflow: hidden;
+    box-shadow: 3px 6px 3px #ccc;
+}
+
+input, textarea {
+    box-sizing: border-box;
+    margin-top: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #eeeeee;
+    position: relative;
+    left: 35px;
+    height: 35px;
+    width: 280px;
+    padding: 0 10px;
+    font-size: 20px;
+    outline: none;
+    color: #cccccc;
+}
+
+label::before {
+    content: '';
+    background-color: #eeeeee;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 35px;
+    height: 35px;
+    display: block;
+    position: absolute;
+    top: 27px;
+    left: 0;
+    font-family: FontAwesome;
+    line-height: 35px;
+    text-align: center;
+}
+
+label, input, textarea {
+    display: block;
+}
+
+h1 {
+    background-color: #FF4F00;
+    color: white;
+    margin: 0;
+    font-size: 18px;
+    padding: 25px;
+}
+
+label {
+    color: #78797A;
+    font-weight: 400;
+    margin-top: 20px;
+    position: relative;
+}
+
+label span {
+    color: red;
+}
+
+#left {
+    padding-left: 25px;
+    padding-right: 5px;
+}
+
+#right {
+    padding-left: 5px;
+    padding-right: 25px;
+}
+
+#left, #right {
+    width: 317px;
+    display: inline-block;
+    padding-top: 20px;
+    vertical-align: top;
+}
+
+label[for=name]::before {
+    content: '\f183';
+}
+
+label[for=email]::before {
+    content: '\f003';
+}
+
+label[for=company]::before {
+    content: '\f015';
+}
+
+label[for=phone]::before {
+    content: '\f095';
+}
+
+label[for=subject]::before {
+    content: '\f0e5';
+}
+
+label[for=message]::before {
+    content: '\f0e6';
+}
+
+textarea {
+    height: 120px;
+}
+
+button {
+    width: 100%;
+    margin-top: 70px;
+    border: none;
+    height: 50px;
+    color: white;
+    background-color: #FF4F00;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #565656;
+}
