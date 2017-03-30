@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Slick Slider - Example</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="jquery-3.1.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+</head>
+
+<body>
+
+<div class="slider">
+    <div>
+        <img src="img/FiveRosesPub_Web1.jpg" alt="Image One">
+    </div>
+    <div>
+        <img src="img/FoodTours_Web.jpg" alt="Image Two">
+    </div>
+    <div>
+        <img src="img/TheEnergyAnnex_Web.jpg" alt="Image Three">
+    </div>
+    <div>
+        <img src="img/TheFold_Web1.jpg" alt="Image Four">
+    </div>
+</div>
+
+<ol class="slider-nav-thumbnails flex-control-paging">
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+    <li>4</li>
+</ol>
+
+
+<script>
+    $('.slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        fade: false,
+        asNavFor: '.slider-nav-thumbnails'
+    });
+
+    $('.slider-nav-thumbnails').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        asNavFor: '.slider',
+        dots: true,
+        focusOnSelect: true
+    })
+</script>
+
+</body>
+</html>

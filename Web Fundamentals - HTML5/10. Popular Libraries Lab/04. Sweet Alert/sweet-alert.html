@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Sweet Alert - Example</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/sweetalert.css">
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="dist/sweetalert.min.js"></script>
+
+    <style>
+        .container {
+            margin: 100px auto;
+        }
+    </style>
+
+</head>
+
+<body>
+<div class="container">
+    <form>
+
+        <div class="form-group row">
+            <label for="username" class="col-sm-2 col-form-label">Enter Username:</label>
+            <div class="col-sm-5">
+                <input type="text" class="form-control" id="username" placeholder="Username">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="inputPassword3" class="col-sm-2 col-form-label">Enter Password</label>
+            <div class="col-sm-5">
+                <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="confirmPassword3" class="col-sm-2 col-form-label">Confirm Password</label>
+            <div class="col-sm-5">
+                <input type="password" class="form-control" id="confirmPassword3" placeholder="Password">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="offset-sm-2 col-sm-10">
+                <button type="button" class="btn btn-danger"> Delete Account</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    $('.btn').click(() => {
+        swal({
+                title: "Are you sure?",
+                type: "warning",
+                text: "You will not be able to recover your account!",
+                showCancelButton: true,
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Yes, delete it!",
+                closeOnConfirm: false
+        },
+        function(){ swal("Deleted!", "Your account has been deleted.", "success");}
+    );
+    });
+</script>
+
+</body>
+</html>

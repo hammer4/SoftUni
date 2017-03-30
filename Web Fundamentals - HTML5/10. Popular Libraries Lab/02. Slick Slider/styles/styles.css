@@ -1,0 +1,77 @@
+.slider img {
+    width: 100%;
+}
+
+.slick-prev, .slick-next {
+    position: absolute;
+    display: block;
+    height: 20px;
+    width: 20px;
+    line-height: 0;
+    font-size: 0;
+    cursor: pointer;
+    background: transparent;
+    color: transparent;
+    top: 50%;
+    margin-top: -10px;
+    padding: 0;
+    border: none;
+    outline: none;
+    right: 20px;
+    opacity: 0.6;
+}
+
+.slick-prev::before, .slick-next::before {
+    font-family: FontAwesome,serif;
+    content: "\f0a9";
+    font-size: 40px;
+    line-height: 1;
+    opacity: 0.75;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000;
+}
+
+.slick-prev::before {
+    font-family: FontAwesome,serif;
+    content: "\f0a8";
+}
+
+.slick-prev {
+    left:10px;
+    z-index: 10;
+}
+
+.slick-prev:hover,.slick-next:hover {
+    opacity: 1;
+}
+
+.flex-control-paging {
+    padding: 0;
+}
+
+.flex-control-paging li {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 11px !important;
+    height: 11px;
+    background: #666;
+    background: rgba(0, 0, 0, .5);
+    cursor: pointer;
+    position: relative;
+    top:-20px;
+    left: 50%;
+    text-indent: -9999px;
+    border-radius: 20px;
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, .3);
+}
+
+.slick-dots li button::before {
+    width: 50px;
+    height: 50px;
+}
+
+.slick-slide.slick-current.slick-active {
+    background: black;
+    opacity: 1;
+}
