@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="../css/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/index-css.css">
+    <link rel="stylesheet" href="../css/shopping-cart.css">
+    <link rel="stylesheet" href="../css/index-css.css">
+    <script src="../scripts/lib/jquery-3.1.1.min.js"></script>
+    <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+</head>
+<body>
+<div class="container">
+    <header>
+        <section class="row upper-nav">
+            <div class="col-xs-6 col-md-2"><span>Welcome to SoftUnikum Gift Shop</span></div>
+            <div class="col-xs-6 col-md-2 pull-right">
+                    <span>
+                        <a class="fancybox" href="#social"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a class="fancybox" href="#social"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a class="fancybox" href="#social"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                        <a class="fancybox" href="#social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a class="fancybox" href="#social"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
+                    </span>
+            </div>
+            <div class="col-md-2 placeholder"></div>
+            <div class="col-md-6">
+                <ul>
+                    <li><a class="fancybox" href="#login">Login/Register</a></li>
+                    <li><a class="fancybox" href="#location">Store Location</a></li>
+                    <li><a class="fancybox" href="#faq">FAQ</a></li>
+                    <li><a class="fancybox" href="#newsletter">Newsletter</a></li>
+                    <li><a href="#">
+                        <select name="language">
+                            <option value="1">English</option>
+                            <option value="2">Russian</option>
+                            <option value="3">Bulgarian</option>
+                        </select>
+                    </a></li>
+                    <li><a href="#">
+                        <select name="currency">
+                            <option value="1">USD</option>
+                            <option value="2">RUB</option>
+                            <option value="3">BGN</option>
+                        </select>
+                    </a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="row search-bar-nav">
+            <div class="col-xs-7 col-sm-7 col-md-5">
+                <h1 class="logo"><img src="../img/logo.png" width="70" height="35" alt="Logo"/>SoftUnikum</h1>
+            </div>
+            <div class="col-xs-5 col-sm-5 col-md-3 shopping-cart pull-right">
+                <div class="shopping-cart-wrapper">
+                    <p class="products">
+                        <span class="number-of-products">2</span>
+                        <span>My cart</span><br/>2 items - $100.00
+                    </p>
+                    <div class="shopping-cart-details">
+                        <h1>You have <span>2</span> items</h1>
+                        <p>Check or edit your item below!</p>
+                        <div class="shopping-cart-item">
+                            <a href="#"><img src="../img/homepage/6926CSS-ninja.jpg" alt="product"/></a>
+                            <a href="#"><p class="shopping-cart-product-details">CSS Puns Ninja</p></a> <br>
+                            <p class="shopping-cart-price">$25.95 <span class="shopping-cart-count-products">(x2)</span>
+                            </p>
+                        </div>
+                        <hr/>
+                        <div class="shopping-cart-item">
+                            <a href="#"><img src="../img/homepage/12018Matias_EP_DE_03.jpg" alt="product"/></a>
+                            <a href="#"><p class="shopping-cart-product-details">Matias Ergo Pro Keyboard</p></a> <br>
+                            <p class="shopping-cart-price-2">$299.95 <span
+                                    class="shopping-cart-count-products">(x2)</span></p>
+                        </div>
+                        <hr/>
+                        <h2 class="shopping-cart-total-price">Grand total: <span>$651.80</span></h2>
+                        <div class="shopping-cart-buttons">
+                            <button class="shopping-cart-btn-go"><a href="../pages/shopping-cart.html">Go Shopping Cart</a>
+                            </button>
+                            <button class="shopping-cart-btn-checkout"><a href="#">Check Out</a></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-7 col-sm-6 col-md-4 search-bar">
+                <select name="search-bar">
+                    <option value="1">All Categories</option>
+                    <option value="2">Gadgets</option>
+                    <option value="3">T-Shirts</option>
+                    <option value="4">Hats</option>
+                    <option value="5">Key Rings</option>
+                </select>
+                <input type="text" placeholder="Search entire store here..."/>
+                <button><i class="fa fa-search" aria-hidden="true"></i></button>
+            </div>
+        </section>
+        <nav class="flex-box-container navbar">
+            <a href="#" id="responsive-icon"><i class="fa fa-bars" aria-hidden="true"></i></a>
+            <div class="flex-item-main-nav nav-ul">
+                <ul>
+                    <li class="flex-item-nav-li"><a href="gadgets.html" title="SoftUnikum Gadgets">Gadgets</a>
+                    </li>
+                    <li class="flex-item-nav-li"><a href="t-shirts.html" title="SoftUnikum T-Shirts">T-Shirts</a>
+                    </li>
+                    <li class="flex-item-nav-li"><a href="hats.html" title="SoftUnikum Hats">Hats</a></li>
+                    <li class="flex-item-nav-li"><a href="key-rings.html" title="SoftUnikum Key Rings">Key
+                        Rings</a></li>
+                    <li class="flex-item-nav-li"><a href="random-stuff.html" title="SoftUnikum Random Stuff">Random
+                        Stuff</a></li>
+                </ul>
+            </div>
+            <div class="flex-item-hotline nav-hotline">
+                <span class="hot-line">Hotline: (+359) 666</span>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <ul id="steps" class="col-md-12 col-sm-12 col-xs-12">
+            <li class="col-md-3 current col-sm-3 col-xs-12">
+                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                <span>Step 1</span>
+                <h5>Shopping Cart</h5>
+            </li>
+            <li class="col-md-3 col-sm-3 col-xs-12">
+                <i class="fa fa-credit-card" aria-hidden="true"></i>
+                <span>Step 2</span>
+                <h5>Payment Methods</h5>
+            </li>
+            <li class="col-md-3 col-sm-3 col-xs-12">
+                <i class="fa fa-truck" aria-hidden="true"></i>
+                <span>Step 3</span>
+                <h5>Delivery Methods</h5>
+            </li>
+            <li class="col-md-3 col-sm-3 col-xs-12">
+                <i class="fa fa-check" aria-hidden="true"></i>
+                <span>Step 4</span>
+                <h5>Confirmation</h5>
+            </li>
+        </ul>
+        <table class="col-md-12 col-sm-12 col-xs-12">
+            <thead>
+            <tr>
+                <th class="col-md-5 col-sm-5 col-xs-12">
+                    Items
+                </th>
+                <th class="col-md-2 col-sm-2">
+                    Price
+                </th>
+                <th class="col-md-2 col-sm-2">
+                    Quantity
+                </th>
+                <th class="col-md-2 col-sm-2">
+                    Total Price
+                </th>
+                <th class="col-md-1 col-sm-1">
+                    &nbsp;
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td data-label="Item">
+                    <div class="img-container">
+                        <img src="../img/6926CSS-ninja.jpg">
+                    </div>
+                    <p>CSS Puns Ninja</p>
+                </td>
+                <td data-label="Price">$25.95</td>
+                <td data-label="Quantity">
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-default btn-number" data-type="minus" data-field="quant[1]">
+                                <span class="glyphicon glyphicon-minus"></span>
+                            </button>
+                        </span>
+                        <input type="text" name="quant[1]" class="form-control input-number" value="2">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-default btn-number" data-type="plus" data-field="quant[1]">
+                                <span class="glyphicon glyphicon-plus"></span>
+                            </button>
+                        </span>
+                    </div>
+                </td>
+                <td data-label="Total Price">$51.90</td>
+                <td>
+                    <button class="remove-item">
+                        <i class="fa fa-times" aria-hidden="true"></i>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td data-label="Item">
+                    <div class="img-container">
+                        <img src="../img/12018Matias_EP_DE_03.jpg">
+                    </div>
+                    <p>Matias Ergo Pro Keyboard</p>
+                </td>
+                <td data-label="Price">$299.95</td>
+                <td data-label="Quantity">
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-default btn-number" data-type="minus" data-field="quant[2]">
+                                <span class="glyphicon glyphicon-minus"></span>
+                            </button>
+                        </span>
+                        <input type="text" name="quant[2]" class="form-control input-number" value="1">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-default btn-number" data-type="plus" data-field="quant[2]">
+                                <span class="glyphicon glyphicon-plus"></span>
+                            </button>
+                        </span>
+                    </div>
+                </td>
+                <td data-label="Total Price">$299.95</td>
+                <td>
+                    <button class="remove-item">
+                        <i class="fa fa-times" aria-hidden="true"></i>
+                    </button>
+                </td>
+            </tr>
+            </tbody>
+            <tfoot>
+            <tr>
+                <td colspan="3">
+                    <p>
+                        Promotion Code
+                    </p>
+                    <div id="promo-code">
+                        <input type="text" name="promo-code" placeholder="Your code here">
+                        <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                    </div>
+                </td>
+                <td colspan="2">
+                    Grand total: $351.85
+                </td>
+            </tr>
+            </tfoot>
+        </table>
+        <div id="buttons" class="col-md-12 col-sm-12 col-xs-12">
+            <a href="../index.html">Continue Shopping</a>
+            <a href="payment-methods.html">Go Payment Methods</a>
+        </div>
+    </main>
+    <footer>
+        <section class="row newsletter-bar">
+            <div class="col-md-6">
+                <span class="food-span-left">Subscribe to our newsletter</span>
+                <span class="foot-span-right">Get as much <span class="discount-price">spam</span> as possible!</span>
+            </div>
+            <div class="col-md-6">
+                <form class="subscribe-email">
+                    <input type="email" placeholder="Your email here..."/>
+                    <button class="foot-subscribe-btn">Subscribe</button>
+                </form>
+            </div>
+        </section>
+        <section class="row foot-bottom">
+            <section class="col-md-3">
+                <h1>Contact SoftUnikum!</h1>
+                <p>Address: Sofia, Izgrev residential area, 15-17 Tintyava str, fl. 1</p>
+                <p>Phone: (+359) 666</p>
+                <p>Support: no-reply@softunikum.com</p>
+                <p>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
+                </p>
+            </section>
+            <section class="col-md-3 footer-categories">
+                <h1>Categories</h1>
+                <ul>
+                    <li class="flex-item-nav-li"><a href="gadgets.html" title="SoftUnikum Gadgets">Gadgets</a>
+                    </li>
+                    <li class="flex-item-nav-li"><a href="t-shirts.html" title="SoftUnikum T-Shirts">T-Shirts</a>
+                    </li>
+                    <li class="flex-item-nav-li"><a href="hats.html" title="SoftUnikum Hats">Hats</a></li>
+                    <li class="flex-item-nav-li"><a href="key-rings.html" title="SoftUnikum Key Rings">Key
+                        Rings</a></li>
+                    <li class="flex-item-nav-li"><a href="random-stuff.html" title="SoftUnikum Random Stuff">Random
+                        Stuff</a></li>
+                </ul>
+            </section>
+            <section class="col-md-3 footer-customer-service">
+                <h1>Customer Service</h1>
+                <ul>
+                    <li><a class="fancybox" href="#non-existent">Non-Existent</a></li>
+                    <li><a class="fancybox" href="#non-existent">Dream about it</a></li>
+                    <li><a class="fancybox" href="#non-existent">Leads to nowhere</a></li>
+                    <li><a class="fancybox" href="#non-existent">We put that just for fun</a></li>
+                    <li><a class="fancybox" href="#non-existent">Clickable and useless</a></li>
+                </ul>
+            </section>
+            <section class="col-md-3 footer-information">
+                <h1>Information</h1>
+                <ul>
+                    <li><a class="fancybox" href="#non-existent">Non-Existent</a></li>
+                    <li><a class="fancybox" href="#non-existent">Dream about it</a></li>
+                    <li><a class="fancybox" href="#non-existent">Leads to nowhere</a></li>
+                    <li><a class="fancybox" href="#non-existent">We put that just for fun</a></li>
+                    <li><a class="fancybox" href="#non-existent">Clickable and useless</a></li>
+                </ul>
+            </section>
+        </section>
+    </footer>
+    <div id="login" class="popup">
+        <div class="popup-title">
+            <h2>Sorry!</h2>
+        </div>
+        <div class="popup-content">
+            <p>
+                We regret to inform you that you are persona non grata in our online store!
+            </p>
+            <p>
+                Therefore you are banned from logging in and registering a new account.
+            </p>
+        </div>
+    </div>
+    <div id="location" class="popup">
+        <div class="popup-title">
+            <h2>Location</h2>
+        </div>
+        <div class="popup-content">
+            <p>
+                In a dark corner of the Software University.
+            </p>
+            <p>
+                Stop trying to find us or we will find you instead!
+            </p>
+        </div>
+    </div>
+    <div id="faq" class="popup">
+        <div class="popup-title">
+            <h2>FAQ</h2>
+        </div>
+        <div class="popup-content">
+            <p class="faq-question">
+                Are you insane?
+            </p>
+            <p>Who knows... We never got tested.</p>
+        </div>
+    </div>
+    <div id="newsletter" class="popup">
+        <div class="popup-title">
+            <h2>Newsletter</h2>
+        </div>
+        <div class="popup-content">
+            <p>
+                Are you so desperate for spam?
+            </p>
+            <p>
+                Get a hobby!
+            </p>
+        </div>
+    </div>
+    <div id="social" class="popup">
+        <div class="popup-title">
+            <h2>Realy?</h2>
+        </div>
+        <div class="popup-content">
+            <p>
+                Seems like you have too much time to waste!
+            </p>
+            <p>
+                What about finding some real-life friends and doing something useful with your life?
+            </p>
+        </div>
+    </div>
+    <div id="non-existent" class="popup">
+        <div class="popup-title">
+            <h2>Come on, dude...</h2>
+        </div>
+        <div class="popup-content">
+            <img src="../img/nakov.jpg" alt="Nakov" title="Are be pich">
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    //plugin bootstrap minus and plus
+    //http://jsfiddle.net/laelitenetwork/puJ6G/
+    $( document ).ready(function() {
+        $('.btn-number').click(function(e){
+            e.preventDefault();
+
+            var fieldName = $(this).attr('data-field');
+            var type      = $(this).attr('data-type');
+            var input = $("input[name='"+fieldName+"']");
+            var currentVal = parseInt(input.val());
+            if (!isNaN(currentVal)) {
+                if(type == 'minus') {
+                    var minValue = parseInt(input.attr('min'));
+                    if(!minValue) minValue = 1;
+                    if(currentVal > minValue) {
+                        input.val(currentVal - 1).change();
+                    }
+                    if(parseInt(input.val()) == minValue) {
+                        $(this).attr('disabled', true);
+                    }
+
+                } else if(type == 'plus') {
+                    var maxValue = parseInt(input.attr('max'));
+                    if(!maxValue) maxValue = 9999999999999;
+                    if(currentVal < maxValue) {
+                        input.val(currentVal + 1).change();
+                    }
+                    if(parseInt(input.val()) == maxValue) {
+                        $(this).attr('disabled', true);
+                    }
+
+                }
+            } else {
+                input.val(0);
+            }
+        });
+        $('.input-number').focusin(function(){
+            $(this).data('oldValue', $(this).val());
+        });
+        $('.input-number').change(function() {
+
+            var minValue =  parseInt($(this).attr('min'));
+            var maxValue =  parseInt($(this).attr('max'));
+            if(!minValue) minValue = 0;
+            if(!maxValue) maxValue = 20;
+            var valueCurrent = parseInt($(this).val());
+
+            var name = $(this).attr('name');
+            if(valueCurrent >= minValue) {
+                $(".btn-number[data-type='minus'][data-field='"+name+"']").removeAttr('disabled')
+            } else {
+                $(this).val($(this).data('oldValue'));
+            }
+            if(valueCurrent <= maxValue) {
+                $(".btn-number[data-type='plus'][data-field='"+name+"']").removeAttr('disabled')
+            } else {
+                $(this).val($(this).data('oldValue'));
+            }
+
+
+        });
+        $(".input-number").keydown(function (e) {
+            // Allow: backspace, delete, tab, escape, enter and .
+            if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 190]) !== -1 ||
+                    // Allow: Ctrl+A
+                    (e.keyCode == 65 && e.ctrlKey === true) ||
+                    // Allow: home, end, left, right
+                    (e.keyCode >= 35 && e.keyCode <= 39)) {
+                // let it happen, don't do anything
+                return;
+            }
+            // Ensure that it is a number and stop the keypress
+            if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+                e.preventDefault();
+            }
+        });
+    });
+</script>
+<script>
+    $('tbody input').change(updateTotalPrice);
+
+    function updateTotalPrice() {
+        if($(this).val() <= 20) {
+            let quantity = $(this).val();
+            let price = $(this).closest('td').prev('td').text().slice(1);
+            let totalPrice = quantity * price;
+            $(this).closest('td').next('td').text('$' + totalPrice.toFixed(2));
+        } else {
+            $(this).closest('td').next('td').text('$0.00');
+        }
+
+        updateGrandTotal();
+    }
+
+    function updateGrandTotal() {
+        let grandTotal = 0;
+        let pricesArray = $('tbody td:nth-of-type(4)');
+        pricesArray.each(function () {
+            grandTotal += Number($(this).text().slice(1));
+        });
+
+        $('tfoot td:last-of-type').text("Grand total: $" + grandTotal.toFixed(2));
+    }
+
+    $('.remove-item').click(removeRow);
+
+    function removeRow() {
+        $(this).parent().parent().fadeOut(500 , function () {
+            $(this).remove();
+            updateGrandTotal();
+        });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+
+
+#steps{
+    list-style-type: none;
+}
+
+/*START payment-methods*/
+
+#payment-method{
+    border: 2px solid #e6e6e6;
+    padding: 4%; /*responsive*/
+}
+
+#payment-form input{
+    width: 100%;
+}
+
+#payment-method h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#payment-method li{
+    display: inline-block;
+    margin: auto 2%;
+}
+
+#payment-method li:hover{
+    cursor: pointer;
+}
+
+#discover-card, #dinners-club-card, #master-card, #paypal-card, #visa-card{
+    width: 50px;
+    height: 35px;
+    background: url("../img/payment-methods/payment-sprite.png") -5px -5px;
+}
+
+#dinners-club-card{
+    background: url("../img/payment-methods/payment-sprite.png") -5px -50px;
+}
+
+#master-card{
+    background: url("../img/payment-methods/payment-sprite.png") -5px -95px;
+}
+
+#paypal-card{
+    background: url("../img/payment-methods/payment-sprite.png") -5px -140px;
+}
+
+#visa-card{
+    background: url("../img/payment-methods/payment-sprite.png") -5px -185px;
+}
+
+/*END payment-method*/
+
+/*START payment-form*/
+#payment-form input, #payment-form select{
+    border: 1px solid #e2e2e2;
+    border-radius: 2px;
+}
+
+
+.go-to-delivery{
+    background-color: #0188cc;
+}
+
+.expired-date select{
+    width: calc(50% - 2px);
+}
+
+@media screen and (max-width: 400px){
+    #payment-method li{
+        margin: auto 1%;
+    }
+}

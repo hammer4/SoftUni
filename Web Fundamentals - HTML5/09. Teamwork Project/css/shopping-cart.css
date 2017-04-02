@@ -1,0 +1,313 @@
+main::before,
+main::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+main > ul li {
+    display: inline-block;
+}
+
+#steps li i {
+    float: left;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 25px;
+    border: 2px solid #cccccc;
+    border-radius: 50%;
+    color: #cccccc;
+    margin-right: 15px;
+}
+
+#steps h5 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+#steps span {
+    display: block;
+    margin-top: 10px;
+    color: #aaaaaa;
+}
+
+#steps li.current i {
+    border-color: #0088cc;
+    color: #0088cc;
+}
+
+#steps {
+    padding: 40px 0;
+}
+
+td img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+td .img-container {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    width: 110px;
+    float: left;
+    margin-right: 30px;
+}
+
+td, th {
+    padding: 20px;
+    border: 1px solid #cccccc;
+    text-align: center;
+}
+
+
+td p {
+    float: left;
+    margin-top: 30px;
+}
+
+table {
+    font-size: 1.2em;
+    color: #555555;
+    font-weight: 400;
+}
+
+thead th {
+    background-color: #f9f9f9;
+    color: black;
+}
+
+thead th:first-of-type {
+    text-align: left;
+}
+
+.input-group {
+    width: 120px;
+    margin: 0 auto;
+}
+
+.remove-item {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.form-control {
+    border-left: none;
+    border-right: none;
+}
+
+button.btn-number[data-type=plus] {
+    border-left: none;
+}
+
+input.input-number {
+    text-align: center;
+}
+
+.glyphicon {
+    color: #bbbbbb;
+}
+
+td button.btn-number {
+    outline: none;
+}
+
+tfoot p, tfoot td {
+    margin: 0;
+    font-weight: bold;
+}
+
+tfoot input {
+    box-sizing: border-box;
+    float: left;
+    margin-left: 30px;
+    height: 40px;
+    font-size: 0.9em;
+    margin-top: 5px;
+    padding: 0 30px 0 10px;
+    font-weight: lighter;
+}
+
+#promo-code {
+    position: relative;
+    display: inline-block;
+    float: left;
+}
+
+#promo-code i {
+    position: absolute;
+    bottom: 11px;
+    right: 10px;
+    font-size: 0.8em;
+    width: 1.2em;
+    height: 1.2em;
+    line-height: 1.2em;
+    background-color: #cccccc;
+    color: white;
+    border-radius: 50%;
+}
+
+tfoot td:first-of-type {
+    border-right: none;
+}
+
+tfoot td:last-of-type {
+    border-left: none;
+}
+
+#buttons {
+    padding: 40px 0;
+    text-align: center;
+}
+
+#buttons a {
+    padding: 8px 25px;
+    color: white;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 1.15em;
+    margin-right: 10px;
+}
+
+#buttons a:last-of-type {
+    background-color: #0088cc;
+}
+
+#buttons a:first-of-type {
+    background-color: #BBBBBB;
+}
+
+
+
+@media screen and (max-width: 991px){
+    #steps h5 {
+        font-size: 12px;
+    }
+
+    tbody td p, tbody td div {
+        float: none;
+    }
+}
+
+
+@media screen and (max-width: 767px){
+    main > ul li i,
+    main section ul li i{
+        margin-left: calc(50% - 110px);
+    }
+
+    #steps li i {
+        float: none;
+    }
+
+    #steps span,
+    #steps h5 {
+        display: inline-block;
+    }
+
+    .current {
+        background-color: #0088cc;
+        color: white;
+        border-radius: 10px;
+    }
+
+    #steps li.current i{
+        color: white;
+        border-color: white;
+    }
+
+    #steps li.current span {
+        color: white;
+    }
+
+    #steps li {
+        margin-bottom: 10px;
+        padding: 5px 0;
+    }
+
+
+    thead {
+        position: absolute;
+        top: -9999px;
+        left: -99999px;
+    }
+
+    thead th:not(:first-of-type) {
+        display: none;
+    }
+
+    table {
+        border: 0;
+    }
+
+    tbody tr {
+        margin-bottom: 10px;
+        display: block;
+        border-bottom: 1px solid #dddddd;
+        background: #eeeeee;
+        width: 100%;
+    }
+
+    tbody td::before {
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+    }
+
+    tbody td, tfoot td {
+        display: block;
+        text-align: right;
+        font-size: 13px;
+        border-bottom: 1px solid #ccc;
+    }
+
+    tbody td:last-child {
+        border-bottom: 0;
+    }
+
+    td .img-container {
+        float: right;
+        margin: 0;
+        margin-left: 20px;
+    }
+
+    td::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    .input-group {
+        float: right;
+    }
+
+    tbody td:last-of-type {
+        text-align: center;
+    }
+
+    .remove-item {
+        font-size: 2em;
+    }
+
+    tfoot td:first-of-type {
+        text-align: center;
+        border-right: 1px solid #cccccc;
+    }
+
+    tfoot td p {
+        float: none;
+    }
+
+    #promo-code {
+        float: none;
+    }
+
+    tfoot td:last-of-type {
+        text-align: center;
+        font-size: 1.2em;
+        border-left: 1px solid #cccccc;
+    }
+}

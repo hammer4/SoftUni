@@ -1,0 +1,29 @@
+.checkout-success-message {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.checkout-success-message .success-sign i {
+    font-size: 2.5em;
+    padding: 15px;
+    color: #0088cc;
+    border: 3px solid #0088cc;
+    border-radius: 50%;
+}
+
+button.return-to-shop {
+    background-color: #0088cc;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+    margin-top: 20px;
+}
+
+button.return-to-shop a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+button.return-to-shop:hover {
+    background-color: #008dd2;;
+}
