@@ -1,0 +1,51 @@
+@media all and (max-width: 639px){
+    .nav-primary {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-item > a {
+        margin-right: 0;
+    }
+
+    .nav-item {
+        margin-bottom: 1em;
+    }
+
+    .solo {
+        text-align: center;
+    }
+
+    .second-row {
+        flex-direction: column;
+    }
+
+    .mixr-left, .urbeats-right {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 1em 0 3em;
+        align-items: center;
+        background-size: cover;
+    }
+
+    .sr-cta {
+        margin-top: 3em;
+    }
+
+    .sr-title {
+        margin-top: 0;
+    }
+
+    .studio {
+        padding-top: 2rem;
+        text-align: center;
+    }
+
+    .product-img {
+        max-width: 48%;
+    }
+
+    .grid-gallery {
+        text-align: center;
+    }
+}

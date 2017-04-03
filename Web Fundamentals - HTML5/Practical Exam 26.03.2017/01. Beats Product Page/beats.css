@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900");
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Lato, sans-serif;
+    background-color: #DDDDDD;
+    color: #333333;
+}
+
+#beats {
+    margin: 100px auto;
+    width: 95%;
+    text-align: center;
+}
+
+.card {
+    width: 30%;
+    display: inline-block;
+    margin: 0 1%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #aaaaaa;
+    padding: 15px 0 40px;
+}
+
+img {
+    max-width: 30%;
+}
+
+.beat-title {
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+.beat-description {
+    width: 95%;
+    margin: 15px auto 60px;
+}
+
+button {
+    border: 3px solid #333333;
+    padding: 15px 25px;
+    background-color: white;
+    color: #333333;
+    border-radius: 25px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+button span {
+    color: black;
+    font-size: 12px;
+}
+

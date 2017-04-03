@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,900');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to right, #143540 , #60676D);
+    color: #9B9B9B;
+}
+
+form {
+    width: 700px;
+    height: 400px;
+    background-color: #FAFAFA;
+    border-radius: 15px;
+    margin: 50px auto;
+    padding: 40px 40px 20px 60px;
+    position: relative;
+}
+
+#img-container {
+    position: absolute;
+    top: -4px;
+}
+
+img {
+    height: 500px;
+}
+
+#content {
+    float: right;
+    width: 60%;
+    text-align: right;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    color: #787878;
+    font-size: 2em;
+}
+
+#left, #right {
+    width: 49%;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#left {
+    padding-right: 10px;
+}
+
+#right {
+    padding-left: 10px;
+}
+
+.input-container {
+    margin: 10px 0;
+    position: relative;
+}
+
+input {
+    box-sizing: border-box;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid #143540;
+    background-color: transparent;
+    width: 95%;
+    padding-left: 45px;
+    text-transform: uppercase;
+    font-size: 12px;
+    outline: none;
+}
+
+i {
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    font-size: 25px;
+    color: #143540;
+    transform: scale(1.2);
+}
+
+
+button {
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+    background-color: #535E66;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 18px;
+    cursor: pointer;
+}
