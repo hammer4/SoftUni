@@ -1,0 +1,15 @@
+{
+  "name": "intoduction-to-nodejs-exercises",
+  "version": "0.0.4",
+  "description": "exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercises",
+    "nodejs"
+  ],
+  "author": "Kiril Georgiev",
+  "license": "UNLICENSED"
+}
