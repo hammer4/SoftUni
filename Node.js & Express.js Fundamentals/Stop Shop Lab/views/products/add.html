@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ShopStop</title>
+  <link rel="icon" href="/content/images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="/content/styles/site.css">
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <ul>
+        <li><a href="/">Home Page</a></li>
+        <li><a href="/product/add">Add Product</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <form class="form center-form" method="post">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" class="input-field" />
+      </div>
+
+      <div class="form-group">
+        <label for="description">Description</label>
+        <textarea id="description" name="description" type="text" 
+          class="input-field"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="price">Price</label>
+        <input id="price" name="price" type="number" step="0.01" 
+          class="input-field" />
+      </div>
+
+      <div class="form-group">
+        <label for="image">Image</label>
+        <input id="image" name="image" type="text" class="input-field" />
+      </div>
+
+      <div class="form-group">
+        <input class="btn form-btn" type="submit" class="btn" value="Add">
+      </div>
+    </form>
+
+  </main>
+  <footer>
+    <p>&copy; ShopStop</p>
+  </footer>
+</body>
+</html>
