@@ -1,0 +1,19 @@
+{
+  "name": "web-server-exercises",
+  "version": "0.0.4",
+  "description": "web-server-exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "Kiril Georgiev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0"
+  }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Web Server</title>
+  <link rel="icon" href="/content/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="/content/site.css">
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <ul>
+        <li><a href="/">Home Page</a></li>
+        <li><a href="/images/add">Add Image</a></li>
+        <li><a href="/images/all">All Images</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1 class="head-title">Add Image</h1>
+    <form class="form center-form" method="post">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" class="input-field" required/>
+      </div>
+
+      <div class="form-group">
+        <label for="image">URL</label>
+        <input id="url" name="url" type="text" class="input-field" required/>
+      </div>
+
+      <div class="form-group">
+        <input class="btn form-btn" type="submit" class="btn" value="Add">
+      </div>
+    </form>
+
+  </main>
+  <footer>
+    <p>&copy; 2017</p>
+  </footer>
+</body>
+</html>
