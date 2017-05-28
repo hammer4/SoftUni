@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-utilities-exercises",
+  "version": "0.0.4",
+  "description": "nodejs-utilities-exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "utilities"
+  ],
+  "author": "Kiril Georgiev",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "7.10.0",
+    "npm": "4.2.0"
+  },
+  "dependencies": {
+    "formidable": "1.1.1",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+    "shortid": "2.2.8"
+  }
+}

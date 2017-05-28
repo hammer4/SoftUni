@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+}
+
+.image {
+    display: inline-block;
+    width: 250px;
+    margin: 15px;
+}
+
+.image img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.image h2 {
+    margin: 5px 0;
+    text-align: center;
+}
+
+.image a {
+    text-align: center;
+    display: block;
+}
+
+.img-full > * {
+    display:  block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.head-title {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
