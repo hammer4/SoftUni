@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-exercises",
+  "version": "0.0.4",
+  "description": "mongo and mongoose exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Kiril Georgiev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mongoose": "^4.10.4"
+  }
+}
