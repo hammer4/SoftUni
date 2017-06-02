@@ -1,0 +1,15 @@
+extends ../layout.pug
+
+block content
+
+  h2=`All ${category.name}`
+  .cards
+  each product in category.products
+    .product-card
+      img.product-img(src=`${product.image}`)
+      h2=product.name
+      p=product.description
+      
+      a.btn.btn-small.btn-success(href=`/product/buy/${product._id}`)= 'Buy'
+      a.btn.btn-small.btn-warning(href=`/product/edit/${product._id}`)= 'Edit'
+      a.btn.btn-small.btn-danger(href=`/product/delete/${product._id}`)= 'Delete'

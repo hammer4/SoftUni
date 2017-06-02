@@ -1,0 +1,20 @@
+extends ../layout.pug
+
+block content
+  form.form.center-form(method='post')
+    h2 Buy Product
+    .form-group
+      label
+      .product-card
+        img.product-img(src=`${product.image}`)
+    .form-group
+      label(for='name') Name
+      input#name.input-field(name='name', type='text', value=product.name disabled )
+    .form-group
+      label(for='description') Description
+      textarea#description.input-field(name='description', type='text' disabled )= product.description
+    .form-group
+      label(for='price') Price
+      input#price.input-field(name='price', type='number', value=product.price disabled )
+    .form-group
+      input.form-btn.btn-success.btn(type='submit', value='Buy')

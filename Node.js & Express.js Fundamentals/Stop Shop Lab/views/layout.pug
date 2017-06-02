@@ -1,0 +1,34 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge')
+    title ShopStop
+    link(rel='icon', type='image/x-icon', href='/content/images/favicon.ico')
+    link(rel='stylesheet', type='text/css', href='/content/styles/site.css')
+  body
+    header
+      nav.nav
+        ul
+          li
+            a(href='/') Home Page
+          li
+            a(href='/product/add') Add Product
+          li
+            a(href='/category/add') Add Category
+          li.delimeter
+          li.align-right  
+            a(href='/user/register') Register
+          li.align-right  
+            a(href='/user/login') Login
+
+    if error
+      h2.error-msg= error
+    else if success
+      h2.success-msg= success
+      
+    main
+      block content
+    footer
+       p &copy;ShopStop

@@ -1,0 +1,19 @@
+extends ../layout.pug
+
+block content
+  h1.head-title Welcome to ShopStop!
+  form#search-form
+    input(type='text', name='query', placeholder='Search...')
+    input(type='submit', value='Search')
+  .cards
+    each product in products
+      .product-card
+        img.product-img(src=`${product.image}`)
+        h2=product.name
+        p=product.description
+
+        a.btn.btn-small.btn-success(href=`/product/buy/${product._id}`)= 'Buy'
+        a.btn.btn-small.btn-warning(href=`/product/edit/${product._id}`)= 'Edit'
+        a.btn.btn-small.btn-danger(href=`/product/delete/${product._id}`)= 'Delete'
+        a.btn.btn-small.btn-primary(href=`/category/${product.category.name}/products`)=`More ${product.category.name}`
+
