@@ -1,0 +1,14 @@
+extends ../layout.pug
+
+block content 
+  form.form.center-form(method='post')
+    h2 Login
+    .form-group
+      label(for='username') Username
+      input#username.input-field(name='username', type='text')
+    .form-group
+      label(for='password') Password
+      input#password.input-field(name='password', type='password')
+   
+    .form-group
+      input.form-btn.btn(type='submit', value='Login')

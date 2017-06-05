@@ -16,4 +16,5 @@ module.exports = (config) => {
 
     require('../models/Product');
     require('../models/Category');
+    require('../models/User').seedAdminUser();
 }
