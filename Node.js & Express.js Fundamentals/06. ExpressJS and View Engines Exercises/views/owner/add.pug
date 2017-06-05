@@ -1,0 +1,16 @@
+extends ../layout
+
+block content
+  h2.head-title Add Owner
+  form#add-category-form.center-form(method='post', enctype='multipart/form-data')
+    .form-group
+      label(for='name') Name
+      input#name.input-field(name='name', type='text' required="required")
+    .form-group
+      label(for='age') Age
+      input#price.input-field(name='age', type='number', step="1" min="0" required="required")
+    .form-group
+      label(for='image') Image
+      input#image.input-field(name='image', type='file', accept='.jpg,.jpeg,.png')
+    .form-group
+      input#add-category-btn.btn(type='submit', value='Add')

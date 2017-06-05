@@ -1,0 +1,13 @@
+extends ../layout
+
+block content
+  h2= `${owner.name}'s cars`
+  .cars
+    each car in owner.cars
+      .car
+        img(src=`${car.image}` alt=`${car.brand} ${car.model}`)
+        p= car.brand + ' ' + car.model
+        p= 'Price: $' + car.price
+
+        a.btn.btn-small.btn-warning(href=`/car/edit/${car._id}`)= 'Edit'
+        a.btn.btn-small.btn-danger(href=`/car/delete/${car._id}`)= 'Delete'

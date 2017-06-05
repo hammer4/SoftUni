@@ -1,0 +1,27 @@
+extends ../layout
+
+block content
+  h1.head-title Edit Car
+  form(method="post", enctype="multipart/form-data")
+    .form-group
+      label(for='brand') Brand
+      input#name.input-field(name='brand', type='text', value=car.brand)
+    .form-group
+      label(for='model') Model
+      input#name.input-field(name='model', type='text', value=car.model)
+    .form-group
+      label(for='price') Price
+      input#price.input-field(name='price', type='number', step="1" min="0" value=car.price)
+    .form-group
+      label(for='image') Image
+      input#image.input-field(name='image', type='file', accept='.jpg,.jpeg,.png')
+    .form-group
+      label(for='owner') Owner
+      select.input-field(name='owner')
+        each owner in owners
+          if owner._id.equals(car.owner)
+            option(value=`${owner._id}` selected)=owner.name
+          else
+            option(value=`${owner._id}`)=owner.name
+    .form-group
+      input.form-btn.btn(type='submit', value='Edit')

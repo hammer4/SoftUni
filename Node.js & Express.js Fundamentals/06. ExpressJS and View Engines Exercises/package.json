@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-and-view-engines-exercises",
+  "version": "0.0.4",
+  "description": "express and view engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "pug",
+    "stylus"
+  ],
+  "author": "Kiril Georgiev",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "mongoose": "^4.10.4",
+    "multer": "1.3.0",
+    "pug": "2.0.0-rc.2",
+    "stylus": "0.54.5"
+  }
+}

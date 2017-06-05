@@ -1,0 +1,11 @@
+extends ../layout
+
+block content
+  h1.head-title Welcome to Cars!
+  .owners
+    each owner in owners
+      .owner-card
+        img.owner-img(src=`${owner.image}`)
+        h2= owner.name
+        p= "Age: " + owner.age
+        a(href=`/${owner.name.split(' ').join('-')}/cars`) View Cars

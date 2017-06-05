@@ -1,0 +1,24 @@
+extends ../layout
+
+block content
+  h1.head-title Add new Car
+  form(method="post", enctype="multipart/form-data")
+    .form-group
+      label(for='brand') Brand
+      input#name.input-field(name='brand', type='text')
+    .form-group
+      label(for='model') Model
+      input#name.input-field(name='model', type='text')
+    .form-group
+      label(for='price') Price
+      input#price.input-field(name='price', type='number', step="1" min="0")
+    .form-group
+      label(for='image') Image
+      input#image.input-field(name='image', type='file', accept='.jpg,.jpeg,.png')
+    .form-group
+      label(for='owner') Owner
+      select.input-field(name='owner')
+        each owner in owners
+          option(value=`${owner._id}`)=owner.name
+    .form-group
+      input.form-btn.btn(type='submit', value='Add')
