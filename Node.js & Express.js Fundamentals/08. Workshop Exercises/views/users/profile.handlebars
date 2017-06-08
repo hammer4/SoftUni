@@ -1,0 +1,32 @@
+<table>
+  <tr>
+    <th>
+      Car
+    </th>
+    <th>
+      Date
+    </th>
+    <th>
+      Days
+    </th>
+    <th>
+      Total Price
+    </th>
+  </tr>
+  {{#each rentings}}
+    <tr>
+      <td>
+        {{this.car.make}} {{this.car.model}} ({{this.car.year}})
+      </td>
+      <td>
+        {{this.rentedOn}}
+      </td>
+      <td>
+        {{this.days}}
+      </td>
+      <td>
+        {{this.totalPrice}}
+      </td>
+    </tr>
+  {{/each}}
+<table>
