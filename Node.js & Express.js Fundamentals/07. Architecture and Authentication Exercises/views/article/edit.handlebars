@@ -1,0 +1,13 @@
+<h2>Edit article</h2>
+
+<form method="POST">
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" name="title" required value="{{article.title}}"/>
+    </div>
+    <div class="form-group">
+        <label for="content">Content:</label>
+        <textarea name="content" rows="10" required >{{article.content}}</textarea>
+    </div>
+    <input type="submit" value="Edit" />
+</form>

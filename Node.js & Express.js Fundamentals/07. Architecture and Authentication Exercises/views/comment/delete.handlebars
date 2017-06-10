@@ -1,0 +1,9 @@
+<h2>Edit comment</h2>
+
+<p>by: {{comment.creator.username}}</p>
+<p>on article: {{comment.article.title}}</p>
+
+<form method="POST">    
+    <textarea rows="10" disabled name="content">{{comment.content}}</textarea>
+    <input type="submit" value="Delete" />
+</form>

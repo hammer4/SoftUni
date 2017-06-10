@@ -1,0 +1,35 @@
+<h2>{{article.title}}</h2>
+
+<p>posted by: {{article.creator.username}} on: {{article.date}}</p>
+<p>{{article.content}}</p>
+
+{{#custIf currentUser._id '===' article.creator._id}}
+    <a href="/article/edit/{{../article._id}}">Edit</a>
+{{/custIf}}
+
+{{#if isAdmin}}
+    <a href="/article/edit/{{article._id}}">Edit</a>
+    <a href="/article/delete/{{article._id}}">Delete</a>
+{{/if}}
+
+<form method="post" action="/article/comment/{{article._id}}">
+    <textarea rows="10" name="content" placeholder="Write your comment..." required></textarea>
+    <input type="submit" value="Comment" />
+</form>
+
+<h1>Comments</h1>
+
+{{#each comments}}
+  <p>{{this.creator.username}}</p>
+  <p>{{this.date}}</p>
+  <p>{{this.content}}</p>
+
+  {{#custIf ../currentUser._id '===' this.creator._id}}
+    <a href="/comment/edit/{{../this._id}}">Edit</a>
+  {{/custIf}}
+
+    {{#if ../isAdmin}}
+        <a href="/comment/edit/{{this._id}}">Edit</a>
+        <a href="/comment/delete/{{this._id}}">Delete</a>
+    {{/if}}
+{{/each}}

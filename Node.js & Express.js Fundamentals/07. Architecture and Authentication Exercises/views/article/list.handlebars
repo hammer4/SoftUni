@@ -1,0 +1,29 @@
+<h2>List Articles</h2>
+<form action="/article/list" method="GET">
+  <input type="text" name="search" />
+  <input type="submit" value="Search" />
+</form>
+
+{{#each articles}}
+  <article class="article">
+      <h2>{{this.title}}</h2>
+      <p>posted by: {{this.creator.username}} on: {{this.date}}</p>
+      <p>{{this.content}}</p>
+      {{#if ../currentUser}}
+        <a href="/article/details/{{this._id}}">View Details</a>
+      {{/if}}
+  </article>
+
+{{else}}
+  <h2>No articles available!</h2>  
+{{/each}}
+
+<div class="font-3x">
+  {{#if hasPrevPage}}
+    <a href="/article/list?page={{prevPage}}&search={{search}}">&lt;&lt;</a>
+    &nbsp; &nbsp; &nbsp;
+  {{/if}}
+  {{#if hasNextPage}}
+    <a href="/article/list?page={{nextPage}}&search={{search}}">&gt;&gt;</a>
+  {{/if}}
+</div>

@@ -1,0 +1,16 @@
+h1 {
+  color: red
+}
+.container {
+  padding-left: 25%
+}
+.menu {
+  list-style-type: none;
+  padding-left: 0;
+}
+.menu li {
+  display: inline-block
+}
+.menu li:after {
+  content: "\00a0";
+}
