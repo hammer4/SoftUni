@@ -1,0 +1,25 @@
+<h2>Create new Thread</h2>
+
+<form method="post">
+  <label for="title">Thread title:</label>
+  <input type="text" name="title" required value="{{thread.title}}"/>
+  <label for="description">Description</label>
+  <textarea name="description" rows="10" required>{{thread.description}}</textarea>
+  <label for="category">Category:</label>
+  <select name="category">
+    {{#if thread}}
+      {{#each categories}}
+        {{#custIf ../thread.category "==" this._id}}
+          <option value="{{../this._id}}" selected>{{../this.name}}</option>
+        {{else}}
+          <option value="{{../this._id}}">{{../this.name}}</option>
+        {{/custIf}}
+      {{/each}}
+    {{else}}
+      {{#each categories}}
+        <option value="{{this._id}}">{{this.name}}</option>
+      {{/each}}
+    {{/if}}
+  </select>
+  <input type="submit" value="Add thread" />
+</form>

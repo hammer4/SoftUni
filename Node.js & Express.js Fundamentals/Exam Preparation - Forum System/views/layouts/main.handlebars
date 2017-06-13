@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Forum System</title>
+  <link href="/css/site.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <ul class="menu">
+      <li><a href="/">Home</a></li>
+      <li><a href="/categories">Categories</a></li>
+      <li><a href="/list">List Threads</a></li>
+      <li></li>
+      {{#if currentUser}}
+        {{#if isActive}}
+          <li><a href="/add">New Thread</a></li>
+        {{/if}}
+        <li>{{currentUser.username}}</li>
+        <li>
+          <form id="logout-form" action="/users/logout" method="POST"></form>
+          <a href="javascript:document.getElementById('logout-form').submit()">Logout</a>
+        </li>
+        {{#if isAdmin}}
+          <li><a href="/category/add">Add category</a></li>
+          <li><a href="/category/delete">Delete category</a></li>
+          <li><a href="/admins/add">Add Admin</a></li>
+          <li><a href="/admins/all">All admins</a></li>
+        {{/if}}
+      {{else}}
+        <li><a href="/users/register">Register</a></li>
+        <li><a href="/users/login">Login</a></li>
+      {{/if}}
+    </ul>
+    {{#if globalError}}
+      <h3>{{globalError}}</h3>
+    {{/if}}
+    {{{body}}}
+  </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<h2>Add admin</h2>
+
+<form method="post">
+  <label for="user">Select an user</label>
+  <select name="user">
+    {{#each users}}
+      <option value="{{this._id}}">{{this.username}}</option>
+    {{/each}}
+  </select>
+  <input type="submit" value="Make Admin" ?>
+</form>

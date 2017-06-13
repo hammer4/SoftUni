@@ -1,0 +1,10 @@
+<h2>Delete Thread</h2>
+
+<form method="post">
+  <label for="title">Thread title:</label>
+  <input type="text" name="title" disabled value="{{thread.title}}"/>
+  <label for="description">Description</label>
+  <textarea name="description" rows="10" disabled>{{thread.description}}</textarea>
+
+  <input type="submit" value="Delete thread" />
+</form>

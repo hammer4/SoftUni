@@ -1,0 +1,11 @@
+<h2>Delete category</h2>
+
+<form method="post">
+  <label for="category">Select a category</label>
+  <select name="category">
+    {{#each categories}}
+      <option value="{{this._id}}">{{this.name}}</option>
+    {{/each}}
+  </select>
+  <input type="submit" value="Delete" />
+</form>

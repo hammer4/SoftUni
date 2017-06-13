@@ -1,0 +1,13 @@
+<h1>All threads from {{category.name}}</h1>
+
+{{#each threads}}
+  <article>
+    <h3><a href="/post/{{this._id}}/{{this.title}}">{{this.title}}</a></h3>
+    <p>posted on: {{this.date}}</p>
+    <p>author: <a href="/profile/{{this.author.username}}">{{this.author.username}}</a></p>
+    <p> Last answer: {{this.lastAnswerDate}}</p>
+    <p><span>Views: {{this.views}} </span><span>Likes: {{this.likes}} </span></p>
+  </article>
+{{else}}
+  <p>No threads to show.</p>
+{{/each}}

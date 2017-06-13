@@ -1,0 +1,31 @@
+<h1>{{user.username}}</h1>
+<p>{{user.firstName}} {{user.lastName}}</p>
+
+{{#if isAdmin}}
+  {{#if user.isBlocked}}
+    <form id="unblock" method="post" action="/unblock/{{user._id}}"></form>
+    <a href="javascript:document.getElementById('unblock').submit()">Unblock</a>
+  {{else}}
+    <form id="block" method="post" action="/block/{{user._id}}"></form>
+    <a href="javascript:document.getElementById('block').submit()">Block</a>
+  {{/if}}
+{{/if}}
+
+<h2>Threads posted:</h2>
+<ul>
+  {{#each threads}}
+    <li><a href="/post/{{this._id}}/{{this.title}}">{{this.title}}</a></li>
+  {{else}}
+    <li>No threads to show</li>
+  {{/each}}
+</ul>
+
+<h2>Answers posted:</h2>
+{{#each answers}}
+  <p>{{this.content}}</p>
+  <p>on thread: <a href="/post/{{this.thread._id}}/{{this.thread.title}}">{{this.thread.title}}</a></p>
+  <p>{{this.date}}</p>
+{{else}}
+  <p>No answers to show</p>
+{{/each}}
+    

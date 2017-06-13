@@ -1,0 +1,44 @@
+<div class="post-details">
+  <h2 class="post-title">{{thread.title}}</h2>
+  <h3 class="post-data">posted on: {{thread.date}} by: {{thread.author.username}}</h3>
+  <p class="post-content">{{thread.description}}</p>
+
+  <span>Views: {{thread.views}}</span>
+  {{#if currentUser}}
+    {{#if hasLiked}}
+      <form id="dislike" method="post" action="/dislike/{{thread._id}}"></form>
+      <a href="javascript:document.getElementById('dislike').submit()">Dislike</a>
+    {{else}}
+      <form id="like" method="post" action="/like/{{thread._id}}"></form>
+      <a href="javascript:document.getElementById('like').submit()">Like</a>
+    {{/if}}
+  {{/if}}
+  <span>Likes: {{thread.likes}}</span>
+  {{#if isAdmin}}
+    <a href="/post/edit/{{thread._id}}">Edit</a>
+    <a href="/post/delete/{{thread._id}}">Delete</a>
+  {{/if}}
+
+  {{#if currentUser}}
+    {{#if isActive}}
+      <form method="post">
+        <textarea name="content" rows="10" placeholder="Add your answer..."></textarea>
+        <input type="submit" value="Add answer" />
+      </form>
+    {{/if}}
+  {{/if}}
+
+  <h3 class="answers">Answers:</h3>
+  {{#each answers}}
+    <div class="answer">
+      <p>{{this.content}}</p>
+      <p>by: {{this.author.username}}, on: {{this.date}}</p>
+    </div>
+    {{#if ../isAdmin}}
+      <a href="/answer/edit/{{this._id}}">Edit</a>
+      <a href="/answer/delete/{{this._id}}">Delete</a>
+    {{/if}}
+  {{else}}
+    <h4>No answers for this thread.</h4>
+  {{/each}}
+</div>
