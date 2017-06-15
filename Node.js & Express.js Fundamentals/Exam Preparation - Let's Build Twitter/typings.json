@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20170217205433",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220"
+  }
+}

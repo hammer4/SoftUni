@@ -1,0 +1,23 @@
+<h1>{{user.username}}'s tweets</h1>
+
+{{#each tweets}}
+<div>
+  <p>{{this.author.username}}</p>
+  <p>{{this.date}}</p>
+  <h3>{{this.message}}</h3>
+  <p><span>Likes: {{this.likes}} Views: {{this.views}}</span></p>
+    {{#if ../currentUser}}
+      {{#hasLiked ../currentUser this._id}}
+        <form method="POST" action="/dislike/{{../this._id}}" id="dislike{{../this._id}}"></form>
+        <a href="javascript:document.getElementById('dislike{{../this._id}}').submit()">Dislike</a>
+      {{else}}
+        <form method="POST" action="/like/{{../this._id}}" id="like{{../this._id}}"></form>
+        <a href="javascript:document.getElementById('like{{../this._id}}').submit()">Like</a>
+      {{/hasLiked}}
+    {{/if}}
+    {{#if ../isAdmin}}
+      <a href="/edit/{{this._id}}">Edit</a>
+      <a href="/delete/{{this._id}}">Delete</a>
+    {{/if}}
+</div>
+{{/each}}
