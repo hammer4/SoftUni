@@ -1,0 +1,8 @@
+<h1>Delete image</h1>
+
+<form method="post">
+  <img src="{{image.url}}" />
+  <label for="description">Description:</label>
+  <textarea disabled maxlength="500" name="description" rows="10">{{image.description}}</textarea>
+  <input type="submit" value="Delete">
+</form>

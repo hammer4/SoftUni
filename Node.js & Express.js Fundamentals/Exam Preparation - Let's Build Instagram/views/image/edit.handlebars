@@ -1,0 +1,9 @@
+<h1>Edit tweet</h1>
+
+<form method="post">
+  <label for="description">Description:</label>
+  <textarea required maxlength="500" name="description" rows="10">{{image.description}}</textarea>
+  <label for="url">URL:</label>
+  <input type="url" name="url" required value="{{image.url}}" />
+  <input type="submit" value="Edit">
+</form>
