@@ -1,0 +1,25 @@
+<h1>Welcome to messenger!</h1>
+
+{{#if currentUser}}
+  <form action="/" method="GET">
+    <input type="text" name="search" />
+    <input type="submit" value="Search" />
+  </form>
+
+  <h2>Registered users:</h2>
+  <ul>
+  {{#each users}}
+    <li><a href="/thread/{{this.username}}">{{this.username}}</a></li>
+  {{/each}}
+  </ul>
+  <h2>Current threads:</h2>
+  <ul>
+  {{#each threads}}
+    {{#each this.participants}}
+      {{#custIf this._id '!==' ../../currentUser._id}}
+        <li><a href="/thread/{{../this.username}}">{{../this.username}}</a></li>
+      {{/custIf}}
+    {{/each}}
+  {{/each}}
+  </ul>
+{{/if}}

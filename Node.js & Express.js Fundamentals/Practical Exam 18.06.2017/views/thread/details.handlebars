@@ -1,0 +1,53 @@
+<h2>Your chat with {{recipient.username}}</h2>
+{{#hasBlocked currentUser recipient}}
+  <form method="post" action="/unblock/{{../recipient.username}}" id="unblock{{../recipient.username}}"></form>
+  <a href="javascript:document.getElementById('unblock{{../recipient.username}}').submit()">Unblock</a>
+{{else}}
+  <form method="post" action="/block/{{../recipient.username}}" id="block{{../recipient.username}}"></form>
+  <a href="javascript:document.getElementById('block{{../recipient.username}}').submit()">Block</a>
+{{/hasBlocked}}
+{{#each messages}}
+  {{#custIf this.author '===' ../recipient._id}}
+    {{#if ../this.isLink}}
+      {{#if ../this.isImage}}
+        <p class="other">{{../../recipient.username}}: <img src="{{../this.message}}" /></p>
+      {{else}}
+        <p class="other">{{../../recipient.username}}: <a href="{{../this.message}}" target="blank">{{../this.message}}</a></p>
+      {{/if}}
+    {{else}}
+      <p class="other">{{../../recipient.username}}: {{../this.message}}</p>
+    {{/if}}
+    {{#hasLiked ../../currentUser ../this._id}}
+      <form method="post" action="/dislike/{{../../recipient.username}}/{{../this._id}}" id="dislike{{../this._id}}"></form>
+      <a href="javascript:document.getElementById('dislike{{../this._id}}').submit()">Dislike</a>
+    {{else}}
+      <form method="post" action="/like/{{../../recipient.username}}/{{../this._id}}" id="like{{../this._id}}"></form>
+      <a href="javascript:document.getElementById('like{{../this._id}}').submit()">Like</a>
+    {{/hasLiked}}
+  {{else}}
+    {{#if ../this.isLink}}
+      {{#if ../this.isImage}}
+        <p class="same">{{../../currentUser.username}}: <img src="{{../this.message}}" /></p>
+      {{else}}
+        <p class="same">{{../../currentUser.username}}: <a href="{{../this.message}}" target="blank">{{../this.message}}</a></p>
+      {{/if}}
+    {{else}}
+      <p class="same">{{../../currentUser.username}}: {{../this.message}}</p>
+    {{/if}}
+    {{#hasLiked ../../recipient ../this._id}}
+      <p>Liked by {{../../recipient.username}}</p>
+    {{/hasLiked}}
+  {{/custIf}}
+{{/each}}
+
+{{#hasBlocked recipient currentUser}}
+  <form method="post">
+    <textarea rows="10" maxlength="1000" disabled name="message">You have been blocked by {{../recipient.username}}</textarea>
+    <input type="submit" value="Send"/>
+  </form>
+{{else}}
+  <form method="post">
+    <textarea rows="10" maxlength="1000" required name="message"></textarea>
+    <input type="submit" value="Send"/>
+  </form>
+{{/hasBlocked}}
