@@ -1,0 +1,64 @@
+{
+  "name": "movie-data-base",
+  "description": "Information about movies",
+  "version": "1.0.0",
+  "repository": {},
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "body-parser": "^1.14.1",
+    "colors": "^1.1.2",
+    "compression": "^1.6.0",
+    "express": "^4.13.3",
+    "express-session": "1.15.3",
+    "history": "^1.13.0",
+    "mongoose": "^4.2.5",
+    "morgan": "^1.6.1",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "react-router": "^1.0.0",
+    "request": "^2.65.0",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.3.7",
+    "swig": "^1.4.2",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.15"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.19",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "babel-register": "^6.3.13",
+    "babelify": "^7.2.0",
+    "bower": "^1.6.5",
+    "browserify": "^12.0.1",
+    "bufferutil": "3.0.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-if": "^2.0.0",
+    "gulp-less": "^3.0.3",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.7",
+    "utf-8-validate": "3.0.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "2.6.0"
+  },
+  "license": "MIT"
+}
