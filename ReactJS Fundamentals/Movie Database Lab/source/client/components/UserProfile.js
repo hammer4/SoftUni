@@ -1,40 +1,26 @@
 import React from 'react'
 
+import UserStore from '../stores/UserStore'
+
 export default class UserProfile extends React.Component {
   constructor (props) {
     super(props)
 
-    this.state = {
-      username: '',
-      roles: [],
-      information: '',
-      votes: '',
-      reviews: '',
-      message: ''
-    }
+    this.state = UserStore.getState()
+
+    this.onChange = this.onChange.bind(this)
+  }
+
+  onChange (state) {
+    this.setState(state)
   }
 
   componentDidMount () {
-    let request = {
-      url: `/api/user/${this.props.params.userId}`,
-      method: 'get'
-    }
+    UserStore.listen(this.onChange)
+  }
 
-    $.ajax(request)
-      .done(user => {
-        this.setState({
-          username: user.username,
-          roles: user.roles,
-          information: user.information,
-          votes: user.votes,
-          reviews: user.reviews
-        })
-      })
-      .fail(err => {
-        this.setState({
-          message: err.responseJSON.message
-        })
-      })
+  componentWillUnmount () {
+    UserStore.unlisten(this.onChange)
   }
 
   render () {
