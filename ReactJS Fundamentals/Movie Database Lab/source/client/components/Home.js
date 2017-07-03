@@ -1,46 +1,51 @@
-import React from 'react'
-import MovieCard from './sub-components/MovieCard'
-import HomeActions from '../actions/HomeActions'
-import HomeStore from '../stores/HomeStore'
+import React from 'react';
+
+import MovieActions from '../actions/MovieActions';
+import MovieStore from '../stores/MovieStore';
+
+import MovieCard from './sub-components/MovieCard';
 
 export default class Home extends React.Component {
-  constructor (props) {
-    super(props)
-    this.state = HomeStore.getState()
+    constructor(props) {
+        super(props);
 
-    this.onChange = this.onChange.bind(this)
-  }
+        this.state = MovieStore.getState();
 
-  onChange (state) {
-    this.setState(state)
-  }
+        this.onChange = this.onChange.bind(this);
+    }
 
-  componentDidMount () {
-    HomeStore.listen(this.onChange)
+    onChange(state) {
+        this.setState(state);
+    }
 
-    HomeActions.getTopTenMovies()
-  }
+    componentDidMount() {
+        MovieStore.listen(this.onChange);
 
-  componentWillUnmount () {
-    HomeStore.unlisten(this.onChange)
-  }
+        MovieActions.getTopTenMovies();
+    }
 
-  render () {
-    let movies = this.state.topTenMovies.map((movie, index) => {
-      return (
-        <MovieCard key={movie._id} movie={movie} index={index} />
-      )
-    })
+    componentWillUnmount() {
+        MovieStore.unlisten(this.onChange);
+    }
 
-    return (
-      <div className='container'>
-        <h3 className='text-center'>Welcome to
-          <strong> Movie Database</strong>
-        </h3>
-        <div className='list-group'>
-          {movies}
-        </div>
-      </div>
-    )
-  }
+    render() {
+        let movies = this.state.topTenMovies.map((movie, index) => {
+            return (
+                <MovieCard key={ movie._id }
+                           movie={ movie }
+                           index={ index } />
+            );
+        });
+
+        return (
+            <div className='container'>
+                <h3 className='text-center'>Welcome to
+                    <strong> Movie Database</strong>
+                </h3>
+                <div className="list-group">
+                    { movies }
+                </div>
+            </div>
+        );
+    }
 }

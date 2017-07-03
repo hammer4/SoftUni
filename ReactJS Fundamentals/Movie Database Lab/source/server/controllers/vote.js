@@ -70,6 +70,9 @@ module.exports = {
         get: (req, res) => {
             let userId;
             if (req.query.user === 'loggedInUser') {
+                if (!req.user) {
+                    return res.status(200).send({noLoggedInUser: true})
+                }
                 userId = req.user._id;
             } else {
                 userId = req.query.userId;

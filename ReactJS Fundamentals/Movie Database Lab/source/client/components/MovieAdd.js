@@ -1,28 +1,27 @@
-import React from 'react'
-import MovieAddActions from '../actions/MovieAddActions'
-import MovieAddStore from '../stores/MovieAddStore'
+import React from 'react';
 
-import Helpers from '../utilities/Helpers'
+import MovieAddActions from '../actions/MovieAddActions';
+import MovieAddStore from '../stores/MovieAddStore';
 
 export default class AddMovie extends React.Component {
     constructor(props) {
-        super(props)
+        super(props);
 
-        this.state = MovieAddStore.getState()
+        this.state = MovieAddStore.getState();
 
-        this.onChange = this.onChange.bind(this)
+        this.onChange = this.onChange.bind(this);
     }
 
     onChange(state) {
-        this.setState(state)
+        this.setState(state);
     }
 
-    componentDidMount () {
-        MovieAddStore.listen(this.onChange)
+    componentDidMount() {
+        MovieAddStore.listen(this.onChange);
     }
 
-    componentWillUnmount () {
-        MovieAddStore.unlisten(this.onChange)
+    componentWillUnmount() {
+        MovieAddStore.unlisten(this.onChange);
     }
 
     handleSubmit(e) {
@@ -31,20 +30,19 @@ export default class AddMovie extends React.Component {
         let name = this.state.name.trim();
         let genres = this.state.genres;
         if (!name) {
-            MovieAddActions.nameValidationFail()
+           MovieAddActions.nameValidationFail();
         }
         if (genres.length === 0) {
-            MovieAddActions.genresValidationFail()
+            MovieAddActions.genresValidationFail();
         }
 
         if (name) {
             let data = {
                 name: this.state.name,
                 description: this.state.description,
-                genres: this.state.genres
+                genres: this.state.genres,
             };
-
-            MovieAddActions.addMovie(data)
+            MovieAddActions.addMovie(data);
         }
     }
 

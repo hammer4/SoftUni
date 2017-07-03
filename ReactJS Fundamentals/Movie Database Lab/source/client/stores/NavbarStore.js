@@ -1,16 +1,16 @@
-import alt from '../alt'
-import NavbarActions from '../actions/NavbarActions'
+import alt from '../alt';
+import NavbarActions from '../actions/NavbarActions';
 
 class NavbarStore {
-  constructor () {
-    this.bindActions(NavbarActions)
+    constructor() {
+        this.bindActions(NavbarActions);
 
-    this.ajaxAnimationClass = ''
-  }
+        this.ajaxAnimationClass = '';
+    }
 
-  onUpdateAjaxAnimation (animationClass) {
-    this.ajaxAnimationClass = animationClass
-  }
+    onUpdateAjaxAnimation(animationClass) {
+        this.ajaxAnimationClass = animationClass;
+    }
 }
 
-export default alt.createStore(NavbarStore)
+export default alt.createStore(NavbarStore);

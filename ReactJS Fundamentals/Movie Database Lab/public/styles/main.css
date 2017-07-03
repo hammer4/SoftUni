@@ -7426,6 +7426,10 @@ footer .thumb-md:hover {
 .block-wrapper {
   display: block;
 }
+.profile-img img {
+  width: 100%;
+  height: 100%;
+}
 /*
  * Character profile page styles.
  */
@@ -8138,7 +8142,10 @@ label {
   -webkit-animation-delay: -500ms;
           animation-delay: -500ms;
 }
-.profile-img img {
-  width: 100%;
-  height: 100%;
+.help-block {
+  display: none;
+}
+.has-error .help-block,
+.has-success .help-block {
+  display: inherit;
 }

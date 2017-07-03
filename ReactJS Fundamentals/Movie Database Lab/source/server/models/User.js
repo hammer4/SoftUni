@@ -20,24 +20,16 @@ let userSchema = mongoose.Schema({
         required: true
     },
     firstName: {
-        type: mongoose.Schema.Types.String,
-        required: getRequiredPropMsg('First name')
+        type: mongoose.Schema.Types.String
     },
     lastName: {
-        type: mongoose.Schema.Types.String,
-        required: getRequiredPropMsg('Last name')
+        type: mongoose.Schema.Types.String
     },
     age: {
-        type: mongoose.Schema.Types.Number,
-        min: [0, 'Age must be between 0 and 120'],
-        max: [120, 'Age must be between 0 and 120']
+        type: mongoose.Schema.Types.Number
     },
     gender: {
-        type: mongoose.Schema.Types.String,
-        enum: {
-            values: ['Male', 'Female'],
-            message: 'Gender should be either "Male" or "Female"'
-        }
+        type: mongoose.Schema.Types.String
     },
     roles: [{ type: mongoose.Schema.Types.String }],
     votes: { type: mongoose.Schema.Types.Number, default: 0 }

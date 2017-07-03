@@ -1,11 +1,11 @@
-import alt from '../alt'
+import alt from '../alt';
 
 class NavbarActions {
-  constructor () {
-    this.generateActions(
-      'updateAjaxAnimation'
-    )
-  }
+    constructor() {
+        this.generateActions(
+            'updateAjaxAnimation'
+        );
+    }
 }
 
-export default alt.createActions(NavbarActions)
+export default alt.createActions(NavbarActions);
