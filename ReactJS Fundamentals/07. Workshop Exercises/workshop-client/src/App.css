@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.menu a {
+  display: inline-block;
+  padding: 5px;
+}
+
+.menu div {
+  display: inline-block;
+}
+
+.pet {
+  display: inline-block;
+  width: 18%;
+  margin: 1%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.pet img {
+  width: 120px;
+  display: block;
+  margin: 0 auto;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
