@@ -1,0 +1,18 @@
+@import '~toastr/build/toastr.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.hotel img {
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hotel {
+  padding: 20px;
+}
+
