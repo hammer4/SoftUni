@@ -1,0 +1,21 @@
+@import '~toastr/build/toastr.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.car img {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.car {
+  padding: 20px;
+}
+
+.car-details img {
+  max-width: 80%;
+}
