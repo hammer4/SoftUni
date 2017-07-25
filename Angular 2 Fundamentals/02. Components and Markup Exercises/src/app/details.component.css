@@ -1,0 +1,12 @@
+img {
+  width: 300px;
+  display: block;      
+}
+
+p {
+  text-align: justify;
+}
+
+div.image {
+  float: left;
+}

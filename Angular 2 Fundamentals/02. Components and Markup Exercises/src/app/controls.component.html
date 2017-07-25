@@ -1,0 +1,19 @@
+<div>
+  <label>Text color</label>
+  <select (change)='changeTextColor($event)'>
+    <option value='black'>Black</option>
+    <option value='red'>Red</option>
+    <option value='green'>Green</option>
+    <option value='blue'>Blue</option>
+  </select>
+  <label>Background color</label>
+  <select (change)='changeBackgroundColor($event)'>
+    <option value='white'>White</option>
+    <option value='grey'>Grey</option>
+    <option value='salmon'>Salmon</option>
+    <option value='orchid'>Orchid</option>
+  </select>
+  <button (click)='decreaseFontSize()'>-</button>
+  <span>{{currentSize}} px</span>
+  <button (click)='increaseFontSize()'>+</button>
+</div>

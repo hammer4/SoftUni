@@ -1,0 +1,9 @@
+<controls (fontSize)='changeSize($event)' (textColor)='changeTextColor($event)' (backgroundColor)='changeBackgroundColor($event)'></controls>
+<div class='image'>
+  <img *ngIf='showImage' src='{{article.image}}' />
+  <button (click)='showHideImage()'>Show/Hide Image</button>
+</div>
+<h1>{{article.title}}</h1>
+<h3>by: {{article.author}}</h3>
+<p [style.font-size.px]='size' [style.color]='textColor' [style.background-color]='backgroundColor'>{{cutText(article.description)}}</p>
+<button *ngIf='article.description.length > currentLength' (click)='showMore()'>Show more</button>

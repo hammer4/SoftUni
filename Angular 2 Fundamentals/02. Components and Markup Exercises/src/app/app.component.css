@@ -1,0 +1,18 @@
+ul {
+  width: 20%;
+  list-style: none;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+
+ul li {
+  margin: 20px;
+  background-color: orange;
+}
+
+detail {
+  width: 78%;
+  display: inline-block;
+}
+
