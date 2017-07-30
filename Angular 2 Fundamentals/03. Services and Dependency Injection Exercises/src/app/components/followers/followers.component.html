@@ -1,0 +1,13 @@
+<div class='followers'>
+  <h2>Followers</h2>
+  <button *ngIf='followers' (click)='hideFollowers()'>Hide followers</button>
+  <button *ngIf='!followers' (click)='showFollowers()'>Show followers</button>
+
+  <ul>
+    <li *ngFor='let follower of followers'>
+      <img src={{follower.avatar_url}} />
+      <span>Username: {{follower.login}}</span>
+      <span><a href={{follower.html_url}}>Github</a></span>
+    </li>
+  </ul>
+</div>

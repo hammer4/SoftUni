@@ -1,0 +1,17 @@
+<div class='repos'>
+  <h2>Repositories</h2>
+  <button *ngIf='repos' (click)='hideRepos()'>Hide repos</button>
+  <button *ngIf='!repos' (click)='showRepos()'>Show repos</button>
+
+  <ul>
+    <li *ngFor='let repo of repos'>
+      <p>Name: {{repo.name}}</p>
+      <p>Language: {{repo.language}}</p>
+      <p><a href={{repo.html_url}}>GitHub</a></p>
+      <p *ngIf='repo.description'>{{repo.description}}</p>
+      <p>Stars: {{repo.stargazers_count}}</p>
+      <p>Forks: {{repo.forks_count}}</p>
+      <contributors [repoName]='repo.name'></contributors>
+    </li>
+  </ul>
+</div>

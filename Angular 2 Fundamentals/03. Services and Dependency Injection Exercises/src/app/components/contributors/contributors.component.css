@@ -1,0 +1,16 @@
+img {
+  width: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+}
+
+p {
+  margin: 0;
+}

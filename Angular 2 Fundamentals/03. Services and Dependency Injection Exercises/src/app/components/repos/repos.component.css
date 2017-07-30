@@ -1,0 +1,17 @@
+p {
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  border-bottom: 1px dashed blue;
+}
+
+.repos {
+  border-bottom: 2px solid black;
+}

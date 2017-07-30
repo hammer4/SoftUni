@@ -1,0 +1,12 @@
+<div class="contributors">
+  <button *ngIf='contributors' (click)='hideContributors()'>Hide contributors</button>
+  <button *ngIf='!contributors' (click)='showContributors()'>Show contributors</button>
+
+  <ul>
+    <li *ngFor='let contributor of contributors'>
+      <img src={{contributor.avatar_url}} />
+      <p>Username: {{contributor.login}}</p>
+      <p>Contributions: {{contributor.contributions}}</p>
+    </li>
+  </ul>
+</div>

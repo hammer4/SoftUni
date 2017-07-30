@@ -1,0 +1,10 @@
+<div *ngIf='profileData' class='profile'>
+  <img src={{profileData.avatar_url}} />
+  <p>Name: {{profileData.name}}</p>
+  <p>Company: {{profileData.company}}</p>
+  <p>Location: {{profileData.location}}</p>
+  <p>Bio: {{profileData.bio}}</p>
+  <p><a href={{profileData.html_url}}>GitHub</a></p>
+  <p>Followers: {{profileData.followers}}</p>
+  <p>Repositories: {{profileData.public_repos}}</p>
+</div>
