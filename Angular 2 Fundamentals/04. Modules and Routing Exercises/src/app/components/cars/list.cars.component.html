@@ -1,0 +1,19 @@
+<div id='cars'>
+  <h2>All cars</h2>
+  <div class="select">
+    <label for='sort'>Sort by:</label>
+    <select id="sort" (change)='sort($event)'>
+      <option value="date">Date</option>
+      <option value="owner">Owner</option>
+      <option value="make">Make</option>
+    </select>
+  </div>
+
+  <div *ngFor='let car of cars' class='car'>
+    <img src={{car.image}} />
+    <h2>{{car.make}} {{car.model}}</h2>
+    <p>Owner: <a routerLink='/owners/{{car.owner}}'>{{car.ownerName}}</a></p>
+    <p>Added on: {{car.date}}</p>
+    <p><a routerLink='/cars/{{car.id}}'>Details</a></p>
+  </div>
+</div>

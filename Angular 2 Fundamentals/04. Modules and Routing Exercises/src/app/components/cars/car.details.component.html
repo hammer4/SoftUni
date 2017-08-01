@@ -1,0 +1,11 @@
+<div *ngIf='car'>
+  <h2>Car details</h2>
+  <img src={{car.image}} />
+  <h3>{{car.make}} {{car.model}}</h3>
+  <p>Engine: {{car.engine}}</p>
+  <p>{{car.description}}</p>
+  <p>Price: ${{car.price}}</p>
+  <p>Owner: <a routerLink='/owners/{{car.owner}}'>{{car.ownerName}}</a></p>
+  <h3>Comments</h3>
+  <p *ngFor='let comment of car.comments'>{{comment.content}}</p>
+</div>

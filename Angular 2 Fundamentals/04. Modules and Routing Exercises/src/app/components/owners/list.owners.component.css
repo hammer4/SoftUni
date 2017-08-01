@@ -1,0 +1,12 @@
+.owner {
+  width: 31%;
+  margin: 1%;
+  display: inline-block;
+  background-color: lightgray;
+}
+
+img {
+  max-width: 200px;
+  float: left;
+  max-height: 135px;
+}
