@@ -1,0 +1,22 @@
+<div>
+  <h2>Create Owner</h2>
+  <form (ngSubmit)='onSubmit()' #ownerForm='ngForm'>
+    <div>
+      <label for='name'>Name</label>
+      <input type="text" id='name' name='name' [(ngModel)]='owner.name' #name='ngModel' required>
+      <div [hidden]="name.valid || name.pristine">
+        Name is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='image'>Image</label>
+      <input type="url" id='image' name='image' [(ngModel)]='owner.image' #image='ngModel' required>
+      <div [hidden]="image.valid || image.pristine">
+        Image is required!
+      </div>
+    </div>
+
+    <button type="submit" [disabled]="!ownerForm.form.valid">Submit</button>
+  </form>
+</div>

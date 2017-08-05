@@ -1,0 +1,17 @@
+<div id='cars'>
+  <h2>All owners</h2>
+  <div class="select">
+    <label for='sort'>Sort by:</label>
+    <select id="sort" (change)='sort($event)'>
+      <option value="ascending">Ascending</option>
+      <option value="descending">Descending</option>
+    </select>
+  </div>
+
+  <div *ngFor='let owner of owners' class='owner'>
+    <img src={{owner.image}} />
+    <h2>{{owner.name}}</h2>
+    <p>Cars: {{owner.carsLength}}</p>
+    <p><a routerLink='/owners/{{owner.id}}'>Details</a></p>
+  </div>
+</div>

@@ -1,0 +1,9 @@
+<div class='home'>
+  <h1>Home</h1>
+  <div *ngFor='let car of cars' class='car'>
+    <img src={{car.image}} borderRadius />
+    <h2>{{car.make}} {{car.model}}</h2>
+    <p>Added on: {{car.date}}</p>
+    <p><a routerLink='/cars/{{car.id}}'>Details</a></p>
+  </div>
+</div>

@@ -1,0 +1,58 @@
+<div>
+  <h2>Create Car</h2>
+  <form (ngSubmit)='onSubmit()' #carForm='ngForm'>
+    <div>
+      <label for='image'>Image</label>
+      <input type="url" id='image' name='image' [(ngModel)]='car.image' #image='ngModel' required>
+      <div [hidden]="image.valid || image.pristine">
+        Image is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='make'>Make</label>
+      <input type="text" id='make' name='make' [(ngModel)]='car.make' #make='ngModel' required>
+      <div [hidden]="make.valid || make.pristine">
+        Make is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='model'>Model</label>
+      <input type="text" id='model' name='model' [(ngModel)]='car.model' #model='ngModel' required>
+      <div [hidden]="model.valid || model.pristine">
+        Model is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='description'>Description</label>
+      <textarea id='description' name='description' [(ngModel)]='car.description' #description='ngModel'></textarea>
+    </div>
+
+    <div>
+      <label for='owner'>Owner</label>
+      <select id='owner' name='owner' [(ngModel)]='car.owner' #owner='ngModel' required>
+        <option *ngFor='let owner of owners' [value]="owner.id">{{owner.name}}</option>
+      </select>
+    </div>
+
+    <div>
+      <label for='price'>Price</label>
+      <input type="number" id='price' name='price' [(ngModel)]='car.price' #price='ngModel' required>
+      <div [hidden]="price.valid || price.pristine">
+        Price is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='engine'>Engine</label>
+      <input type="text" id='engine' name='engine' [(ngModel)]='car.engine' #engine='ngModel' required>
+      <div [hidden]="engine.valid || engine.pristine">
+        Image is required!
+      </div>
+    </div>
+
+    <button type="submit" [disabled]="!carForm.form.valid">Submit</button>
+  </form>
+</div>

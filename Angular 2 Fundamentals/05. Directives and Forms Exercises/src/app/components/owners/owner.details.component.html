@@ -1,0 +1,14 @@
+<div *ngIf='owner'>
+  <h2>Owner details</h2>
+  <img src={{owner.image}} />
+  <h3>Name: {{owner.name}}</h3>
+  <a routerLink='/owners/edit/{{id}}'>Edit</a>
+  <h2>Cars owned:</h2>
+
+  <div *ngFor='let car of owner.cars' class='car'>
+    <img src={{car.image}} />
+    <h2>{{car.make}} {{car.model}}</h2>
+    <p>Added on: {{car.date}}</p>
+    <p><a routerLink='/cars/{{car.id}}'>Details</a></p>
+  </div>
+</div>

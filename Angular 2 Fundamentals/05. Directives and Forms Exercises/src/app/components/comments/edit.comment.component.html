@@ -1,0 +1,10 @@
+<div *ngIf='content'>
+  <h2>Edit comment</h2>
+  <form (ngSubmit)='onSubmit()' #commentForm='ngForm'>
+    <div>
+      <textarea id='content' name='content' [(ngModel)]='content' required></textarea>
+    </div>
+    
+    <button type="submit" [disabled]="!commentForm.form.valid">Submit</button>
+  </form>
+</div>
