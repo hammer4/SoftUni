@@ -1,0 +1,16 @@
+<div>
+  <span>
+    <a routerLink="/">Home</a>
+    <a routerLink="/cars/all">All Cars</a>
+  </span>
+  <span *ngIf="authenticated">
+    <a routerLink="/cars/add">Add Car</a>
+    <a routerLink="/users/profile">{{username}}</a>
+    
+    <a href="javascript:void(0)" (click)="logout()">Logout</a>
+  </span>
+  <span *ngIf="!authenticated">
+    <a routerLink="/users/register">Register</a>
+    <a routerLink="/users/login">Login</a>
+  </span>
+</div>

@@ -1,0 +1,20 @@
+<h1>List Cars</h1>
+
+<div class="car-container">
+  <div>
+    <input type="text" [(ngModel)]="searchText" name="searchText"/>
+    <button (click)="search()">Search</button>
+  </div>
+  <div *ngIf="cars.length === 0">
+    No more cars available
+  </div>
+  <div *ngFor="let car of cars">
+    {{car.make}} {{car.model}}
+    <img [src]="car.image" />
+    <a routerLink="/cars/details/{{car.id}}">See More</a>
+  </div>
+  <div>
+    <button [disabled]="page === 1" (click)="prevPage()">Prev</button>
+    <button [disabled]="cars.length === 0 || cars.length < 10" (click)="nextPage()">Next</button>
+  </div>
+</div>

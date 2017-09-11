@@ -1,0 +1,1 @@
+export const ROUTES_CHANGE = 'route/CHANGE';
