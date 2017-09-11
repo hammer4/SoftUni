@@ -1,0 +1,23 @@
+.courses {
+  list-style-type: none;
+  padding: 0;
+}
+
+*.courses li {
+  padding: 4px;
+}
+
+.list-text,
+.mdl-card__title-text {
+  font-size: 16px;
+}
+
+.mdl-card {
+  min-height: 60px;
+  width: 500px;
+  max-width: 100%;
+}
+
+.edit-button {
+  margin-top:-5px;
+}

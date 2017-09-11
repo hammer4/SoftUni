@@ -1,0 +1,26 @@
+<article class="template animated slideInRight">
+  <h4>All courses</h4>
+
+  <button class="dashboard-button mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" [routerLink]="['Course', {id: 'new'}]">Add</button>
+
+  <filter-text (changed)="filterChanged($event)"></filter-text>
+
+  <ul class="courses">
+    <li *ngFor="let course of filteredCourses | async">
+
+      <div class="mdl-card mdl-shadow--2dp">
+        <div class="mdl-card__title">
+          <h2 class="mdl-card__title-text">{{course.id}}.
+{{course.name}}</h2>
+        </div>
+        <div class="mdl-card__menu">
+         <button class="edit-button mdl-button mdl-js-button mdl-button--fab mdl-button--mini-fab mdl-button--colored" [routerLink]="['Course', {id: course.id}]">
+            <i class="material-icons">edit</i>
+          </button>
+
+        </div>
+      </div>
+
+    </li>
+  </ul>
+</article>
