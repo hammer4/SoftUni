@@ -1,0 +1,14 @@
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.article-image {
+  max-height: 350px;
+}
+
+.article-details {
+  font-size: 1.5em;
+}

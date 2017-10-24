@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.article-container img {
+  width: 250px;
+}
+.article-container div {
+  margin-bottom: 50px;
+}
+.image-details img{
+  width: 250px;
+}

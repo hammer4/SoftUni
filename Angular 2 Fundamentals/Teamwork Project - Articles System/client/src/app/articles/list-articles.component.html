@@ -1,0 +1,20 @@
+<h1>List Articles</h1>
+
+<div class="article-container">
+  <div>
+    <input type="text" [(ngModel)]="searchText" name="searchText"/>
+    <button (click)="search()">Search</button>
+  </div>
+  <div *ngIf="articles.length === 0">
+    No more articles available
+  </div>
+  <div *ngFor="let article of articles">
+    Article Name: {{article.name}} Author: {{article.author}}
+    <img [src]="article.image" />
+    <a routerLink="/articles/details/{{article.id}}">See More</a>
+  </div>
+  <div>
+    <button [disabled]="page === 1" (click)="prevPage()">Prev</button>
+    <button [disabled]="articles.length === 0 || articles.length < 5" (click)="nextPage()">Next</button>
+  </div>
+</div>

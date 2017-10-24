@@ -1,0 +1,94 @@
+<div class="col-md-6 col-md-offset-3">
+  <div class="panel panel-primary">
+    <div class="panel-heading">Registration</div>
+    <div class="panel-body">
+      <form
+          #registerForm="ngForm"
+          (submit)="register()"
+          class="form-horizontal"
+      >
+        <fieldset>
+          <div class="form-group">
+            <label for="name" class="col-md-4 control-label">Name: </label>
+            <div class="col-md-8">
+              <input
+                  type="text"
+                  class="form-control"
+                  id="name"
+                  name="name"
+                  [(ngModel)]="user.name"
+                  #name="ngModel"
+                  placeholder="Name"
+                  required="required"
+              >
+            
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="email" class="col-md-4 control-label">Email: </label>
+            <div class="col-md-8">
+              <input
+                  type="text"
+                  class="form-control"
+                  id="email"
+                  name="email"
+                  [(ngModel)]="user.email"
+                  #email="ngModel"
+                  placeholder="Email"
+                  required="required"
+              >
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="password" class="col-md-4 control-label">Password: </label>
+            <div class="col-md-8">
+              <input
+                  type="password"
+                  class="form-control"
+                  id="password"
+                  name="password"
+                  [(ngModel)]="user.password"
+                  #password="ngModel"
+                  placeholder="Password"
+                  required="required"
+              >
+            
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="confirmPassword" class="col-md-4 control-label">Confirm Password</label>
+            <div class="col-md-8">
+              <input
+                  type="password"
+                  class="form-control"
+                  id="confirmPassword"
+                  name="confirmPassword"
+                  [(ngModel)]="user.confirmPassword"
+                  #confirmPassword="ngModel"
+                  placeholder="Confirm Password"
+                  required="required"
+              >
+              <div
+                  [hidden]="password.value === confirmPassword.value || confirmPassword.pristine"
+                  class="bg-danger"
+              >
+                Passwords mismatch!
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-md-4 col-md-offset-4">
+              <button
+                  type="submit"
+                  class="btn btn-primary"
+                  [disabled]="!registerForm.form.valid || password.value !== confirmPassword.value"
+              >
+                Register
+              </button>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+    </div>
+  </div>
+</div>

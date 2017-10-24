@@ -1,0 +1,18 @@
+<div class="col-md-6 col-md-offset-3 text-size">
+  <div
+      *ngIf="message"
+      class="bg-info padding-left-20"
+  >
+    {{message}}
+  </div>
+  <div *ngIf="errors.length > 0" >
+    
+    <div *ngFor="let error of errors"
+         class="bg-danger padding-left-20"
+    >
+      {{error.name}}: {{error.message}}
+    </div>
+  
+  </div>
+</div>
+<hr>

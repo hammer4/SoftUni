@@ -1,0 +1,6 @@
+<h1>My Profile</h1>
+
+<div>
+  <div *ngFor="let article of articles">
+    Article name: {{article.name}} Author name{{article.model}} <button (click)="delete(article.id)">Delete</button>
+</div>
