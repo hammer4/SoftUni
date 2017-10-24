@@ -1,0 +1,9 @@
+<h1>My animals</h1>
+<div *ngIf='animals'>
+  <div *ngFor='let animal of animals'>
+    <img src={{animal.image}} />
+    <p>{{animal.name}}</p>
+    <a routerLink='/animals/{{animal.id}}'>Details</a>
+    <button (click)='deleteAnimal(animal.id)'>Delete</button>
+  </div>
+</div>

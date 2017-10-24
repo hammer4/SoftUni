@@ -1,0 +1,22 @@
+<div>
+  <div>
+    <p>Users: {{usersCount}}</p>
+    <p>Animals: {{animalsCount}}</p>
+  </div>
+  <div class='animals' *ngIf='animals'>
+    <div>
+      <input type="text" [(ngModel)]="searchText" name="searchText"/>
+      <button (click)="search()">Search</button>
+    </div>
+    
+    <div *ngFor="let animal of animals">
+      <h5>{{animal.name}} - {{animal.age}} years</h5> 
+      <img [src]="animal.image" />
+      <a routerLink="/animals/{{animal.id}}">Details</a>
+    </div>
+    
+    <div>
+      <button [disabled]="page === 1" (click)="prevPage()">Prev</button>
+      <button [disabled]="animals.length === 0 || animals.length < 10" (click)="nextPage()">Next</button>
+    </div>
+</div>

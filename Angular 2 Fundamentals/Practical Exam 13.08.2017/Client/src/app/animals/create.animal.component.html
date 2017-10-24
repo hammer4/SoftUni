@@ -1,0 +1,58 @@
+<div>
+  <h2>Create Animal</h2>
+  <form (ngSubmit)='onSubmit()' #animalForm='ngForm'>
+    <div>
+      <label for='image'>Image</label>
+      <input type="url" id='image' name='image' [(ngModel)]='animal.image' #image='ngModel' required>
+      <div [hidden]="image.valid || image.pristine">
+        Image is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='name'>Name</label>
+      <input type="text" id='name' name='name' [(ngModel)]='animal.name' #name='ngModel' required>
+      <div [hidden]="name.valid || name.pristine">
+        Name is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='age'>Age</label>
+      <input type="number" id='age' name='age' [(ngModel)]='animal.age' #age='ngModel' required>
+      <div [hidden]="age.valid || age.pristine">
+        Age is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='color'>Color</label>
+      <input type="text" id='color' name='color' [(ngModel)]='animal.color' #color='ngModel' required>
+      <div [hidden]="color.valid || color.pristine">
+        Color is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='price'>Price</label>
+      <input type="number" id='price' name='price' [(ngModel)]='animal.price' #price='ngModel' required>
+      <div [hidden]="price.valid || price.pristine">
+        Price is required!
+      </div>
+    </div>
+
+    <div>
+      <label for='type'>Type</label>
+      <select id='type' name='type' [(ngModel)]='animal.type' #type='ngModel' required>
+        <option *ngFor='let type of types' [value]="type">{{type}}</option>
+      </select>
+    </div>
+
+    <div>
+      <label for='breed'>Breed</label>
+      <input type="text" id='breed' name='breed' [(ngModel)]='animal.breed' #breed='ngModel'>
+    </div>
+
+    <button type="submit" [disabled]="!animalForm.form.valid">Submit</button>
+  </form>
+</div>

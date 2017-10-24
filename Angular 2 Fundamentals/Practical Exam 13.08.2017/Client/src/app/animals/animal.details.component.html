@@ -1,0 +1,35 @@
+<div *ngIf='animal'>
+  <h2>{{animal.name}} - {{animal.type}}</h2>
+  <img src={{animal.image}} />
+  <p>Price: {{animal.price}}</p>
+  <p>Age: {{animal.age}}</p>
+  <p>Color: {{animal.color}}</p>
+  <p *ngIf='animal.breed'>{{animal.breed}}</p>
+  <h3>Reactions</h3>
+  <div *ngIf='animal.reactions'>
+    <p>Likes: {{animal.reactions.like}} | Love: {{animal.reactions.love}} | Haha: {{animal.reactions.haha}} | Wow: {{animal.reactions.wow}} | Angry: {{animal.reactions.angry}} | Sad: {{animal.reactions.sad}}</p>
+  </div>
+  <form (ngSubmit)='reactionSubmit()' #reactionForm='ngForm'>
+    <select id='reaction' name='reaction' [(ngModel)]='reaction' required>
+        <option *ngFor='let reaction of reactions' [value]="reaction">{{reaction}}</option>
+    </select>
+
+    <button type="submit" [disabled]="!reactionForm.form.valid">Submit</button>
+  </form>
+
+  <h3>Leave comment:</h3>
+  <form (ngSubmit)='commentSubmit()' #commentForm='ngForm'>
+    <div>
+      <textarea id='message' name='message' [(ngModel)]='message' required></textarea>
+    </div>
+    
+    <button type="submit" [disabled]="!commentForm.form.valid">Submit</button>
+  </form>
+
+  <h3>Comments</h3>
+  <div *ngIf='comments'>
+    <div *ngFor='let comment of comments'>
+      <p>{{comment.message}} - {{comment.user}} - {{comment.createdOn | date:'medium'}}</p>
+    </div>
+  </div>
+</div>

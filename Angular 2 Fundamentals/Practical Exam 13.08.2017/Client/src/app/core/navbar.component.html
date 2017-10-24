@@ -1,0 +1,11 @@
+<div *ngIf='!user.userLoggedIn'>
+  <a routerLink='/users/register'>Register</a>
+  <a routerLink='/users/login'>Login</a>
+</div>
+
+<div *ngIf='user.userLoggedIn'>
+ <a routerLink='/'>Home</a>
+ <a routerLink='/animals/create'>Add Animal</a>
+ <a routerLink='/profile'>{{user.name}}</a>
+ <a routerLink='/users/logout'>Logout</a>
+</div>
