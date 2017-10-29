@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Person", "01. Person\01. Person.csproj", "{F9C3A69D-225E-40A6-AE23-3CD689F923C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Book Shop", "02. Book Shop\02. Book Shop.csproj", "{2870BA91-6B44-435E-9B75-13A876101B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Mankind", "03. Mankind\03. Mankind.csproj", "{C5631969-81A8-4096-BB3E-6C8857188B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C3A69D-225E-40A6-AE23-3CD689F923C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C3A69D-225E-40A6-AE23-3CD689F923C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C3A69D-225E-40A6-AE23-3CD689F923C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C3A69D-225E-40A6-AE23-3CD689F923C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2870BA91-6B44-435E-9B75-13A876101B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2870BA91-6B44-435E-9B75-13A876101B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2870BA91-6B44-435E-9B75-13A876101B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2870BA91-6B44-435E-9B75-13A876101B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5631969-81A8-4096-BB3E-6C8857188B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5631969-81A8-4096-BB3E-6C8857188B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5631969-81A8-4096-BB3E-6C8857188B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5631969-81A8-4096-BB3E-6C8857188B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
