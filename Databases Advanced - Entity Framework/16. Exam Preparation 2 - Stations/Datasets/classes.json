@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Name": "First class",
+    "Abbreviation": "FC"
+  },
+  {
+    "Name": "Second class",
+    "Abbreviation": "SC"
+  },
+  {
+    "Name": "Third class",
+    "Abbreviation": "TC"
+  },
+  {
+    "Name": "Transport class",
+    "Abbreviation": "TC"
+  },
+  {
+    "Name": "Business class",
+    "Abbreviation": "BC"
+  },
+  {
+    "Name": "Private class",
+    "Abbreviation": "PRC"
+  },
+  {
+    "Name": "Super Amazing Hot Cheap Comfortable class",
+    "Abbreviation": "AC"
+  },
+  {
+    "Name": "First class",
+    "Abbreviation": "FT"
+  },
+  {
+    "Name": null,
+    "Abbreviation": "FT"
+  },
+  {
+    "Name": "Transport class",
+    "Abbreviation": "TP"
+  }
+]

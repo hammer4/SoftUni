@@ -1,0 +1,51 @@
+Record Sofia successfully imported.
+Record Sofia Sever successfully imported.
+Record Davila successfully imported.
+Record Bulacan successfully imported.
+Record Monte de Trigo successfully imported.
+Invalid data format.
+Record Mos successfully imported.
+Record Bystre successfully imported.
+Record Qinghe successfully imported.
+Record Ninh Giang successfully imported.
+Record Vales successfully imported.
+Record Chysky successfully imported.
+Record Jaquimeyes successfully imported.
+Invalid data format.
+Record San Isidro successfully imported.
+Record Pueblo Nuevo Vinas successfully imported.
+Record Volzhsk successfully imported.
+Record Tunoshna successfully imported.
+Record Kabare successfully imported.
+Record Lapuz successfully imported.
+Record Huaian successfully imported.
+Record Chateaubelair successfully imported.
+Record Ajjah successfully imported.
+Record Belgrad successfully imported.
+Record Athene successfully imported.
+Record Vastra Frolunda successfully imported.
+Record San Juan de Colon successfully imported.
+Record Kelungkung successfully imported.
+Record Matriz de Camaragibe successfully imported.
+Record Cacapava successfully imported.
+Record Xishanzui successfully imported.
+Record Masu successfully imported.
+Record Chandmani successfully imported.
+Record Sagay successfully imported.
+Invalid data format.
+Invalid data format.
+Record Ovidiopol successfully imported.
+Record Rzhev successfully imported.
+Invalid data format.
+Record Varna successfully imported.
+Invalid data format.
+Invalid data format.
+Record Heqian successfully imported.
+Record Hirvensalmi successfully imported.
+Record Cikabuyutan Barat successfully imported.
+Record Ninh Hoa successfully imported.
+Invalid data format.
+Record Yinjiaxi successfully imported.
+Record Balading successfully imported.
+Record Instanbul successfully imported.
+Record Bourgas successfully imported.

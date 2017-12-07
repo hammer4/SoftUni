@@ -1,0 +1,10 @@
+Record First class successfully imported.
+Record Second class successfully imported.
+Record Third class successfully imported.
+Invalid data format.
+Record Business class successfully imported.
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Record Transport class successfully imported.

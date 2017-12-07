@@ -1,0 +1,815 @@
+[
+  {
+    "TrainNumber": "KB20012",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 50
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 44
+      }
+    ]
+  },
+  {
+    "TrainNumber": "PM4956",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 70
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 81
+      }
+    ]
+  },
+  {
+    "TrainNumber": "IN035370",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 46
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 45
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 70
+      }
+    ]
+  },
+  {
+    "TrainNumber": "BL436170",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 45
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 70
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 67
+      }
+    ]
+  },
+  {
+    "TrainNumber": "OU888852",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": null,
+        "Abbreviation": null,
+        "Quantity": 13
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": -88
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "FC",
+        "Quantity": 51
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 58
+      }
+    ]
+  },
+  {
+    "TrainNumber": "TO371820",
+    "Type": null,
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 63
+      }
+    ]
+  },
+  {
+    "TrainNumber": "UN2004411",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 58
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 11
+      }
+    ]
+  },
+  {
+    "TrainNumber": "JN070789",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 41
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 36
+      }
+    ]
+  },
+  {
+    "TrainNumber": "YG7183",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 36
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 20
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      }
+    ]
+  },
+  {
+    "TrainNumber": null,
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 63
+      }
+    ]
+  },
+  {
+    "TrainNumber": "CZ3766",
+    "Type": null,
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 20
+      }
+    ]
+  },
+  {
+    "TrainNumber": "PU17333",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 58
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 45
+      }
+    ]
+  },
+  {
+    "TrainNumber": "EA01424",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 58
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      }
+    ]
+  },
+  {
+    "TrainNumber": "KU93940",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 58
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 45
+      }
+    ]
+  },
+  {
+    "TrainNumber": "PS42970",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 45
+      }
+    ]
+  },
+  {
+    "TrainNumber": "KV372634",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 45
+      }
+    ]
+  },
+
+  {
+    "TrainNumber": "SX875424",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Abbreviation": "SC",
+        "Quantity": 69
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 84
+      }
+    ]
+  },
+  {
+    "TrainNumber": "BQ877549",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 40
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 79
+      }
+    ]
+  },
+  {
+    "TrainNumber": "LZ0098",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 26
+      },
+      {
+        "Name": null,
+        "Quantity": 76
+      },
+      {
+        "Name": null,
+        "Abbreviation": null,
+        "Quantity": 56
+      }
+    ]
+  },
+  {
+    "TrainNumber": "HV212390",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 89
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 79
+      }
+    ]
+  },
+  {
+    "TrainNumber": "CB730105",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 33
+      },
+      {
+        "Name": "Third class",
+        "Quantity": 11
+      }
+    ]
+  },
+  {
+    "TrainNumber": "MN9096",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 84
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 89
+      }
+    ]
+  },
+  {
+    "TrainNumber": "CL7141",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 77
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 79
+      }
+    ]
+  },
+  {
+    "TrainNumber": "LS0711",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 41
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": -15
+      }
+    ]
+  },
+  {
+    "TrainNumber": "QT6209",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 77
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 79
+      }
+    ]
+  },
+  {
+    "TrainNumber": "NF0073",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 77
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 79
+      }
+    ]
+  },
+
+  {
+    "TrainNumber": null,
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 41
+      }
+    ]
+  },
+  {
+    "TrainNumber": "ASDVIMAYONA",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 62
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 47
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 43
+      }
+    ]
+  },
+  {
+    "TrainNumber": "IX00216",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 62
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 47
+      }
+    ]
+  },
+  {
+    "TrainNumber": null,
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 41
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": null
+      }
+    ]
+  },
+  {
+    "TrainNumber": "WK75971",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 43
+      }
+    ]
+  },
+  {
+    "TrainNumber": "QV395307",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 60
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 68
+      }
+    ]
+  },
+  {
+    "TrainNumber": null,
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 60
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 68
+      }
+    ]
+  },
+  {
+    "TrainNumber": "AW8577",
+    "Type": "LongDistance"
+  },
+  {
+    "TrainNumber": "WR378746",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 70
+      },
+      {
+        "Name": "Super Amazing Hot Cheap Comfortable class",
+        "Abbreviation": "BC",
+        "Quantity": 81
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 16
+      }
+    ]
+  },
+  {
+    "TrainNumber": "VT08003",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 46
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 45
+      }
+    ]
+  },
+  {
+    "TrainNumber": null,
+    "Type": "Freight",
+    "Seats": []
+  },
+  {
+    "TrainNumber": "XM8366",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 45
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 70
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 67
+      }
+    ]
+  },
+  {
+    "TrainNumber": "RU549131312"
+  },
+  {
+    "TrainNumber": "QN2714",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 88
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 51
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 11
+      }
+    ]
+  },
+  {
+    "TrainNumber": "YP746803",
+    "Type": null
+  },
+  {
+    "TrainNumber": "TF866620",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": null
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 63
+      }
+    ]
+  },
+  {
+    "TrainNumber": "WG3353",
+    "Type": null,
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": null
+      }
+    ]
+  },
+  {
+    "TrainNumber": "FR46973",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 41
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 36
+      }
+    ]
+  },
+  {
+    "TrainNumber": "RS449390",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 68
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 56
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SCA",
+        "Quantity": 72
+      }
+    ]
+  },
+  {
+    "TrainNumber": "KQ171903",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 20
+      },
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      }
+    ]
+  },
+  {
+    "TrainNumber": "RW46969",
+    "Type": "HighSpeed",
+    "Seats": [
+    ]
+  },
+  {
+    "TrainNumber": "QV395307",
+    "Type": "Freight",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 72
+      }
+    ]
+  },
+  {
+    "TrainNumber": "AI8374",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "First class",
+        "Abbreviation": "FC",
+        "Quantity": 23
+      },
+      {
+        "Name": "Third class",
+        "Abbreviation": "TC",
+        "Quantity": 45
+      }
+    ]
+  },
+  {
+    "TrainNumber": "WQ598105",
+    "Type": "HighSpeed",
+    "Seats": [
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 40
+      },
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 79
+      }
+    ]
+  },
+  {
+    "TrainNumber": "KZ46189",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 69
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 23
+      }
+    ]
+  },
+  {
+    "TrainNumber": "JX072057",
+    "Type": "LongDistance",
+    "Seats": [
+      {
+        "Name": "Second class",
+        "Abbreviation": "SC",
+        "Quantity": 84
+      },
+      {
+        "Name": "Business class",
+        "Abbreviation": "BC",
+        "Quantity": 89
+      }
+    ]
+  }
+]

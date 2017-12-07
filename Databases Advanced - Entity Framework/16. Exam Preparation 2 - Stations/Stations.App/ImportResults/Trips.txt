@@ -1,0 +1,55 @@
+Trip from Sofia to Sofia Sever imported.
+Trip from Chateaubelair to Bystre imported.
+Invalid data format.
+Trip from Rzhev to Matriz de Camaragibe imported.
+Trip from Ovidiopol to Vastra Frolunda imported.
+Trip from Monte de Trigo to Ajjah imported.
+Invalid data format.
+Trip from Matriz de Camaragibe to San Isidro imported.
+Trip from Balading to Ajjah imported.
+Trip from Sofia Sever to Chandmani imported.
+Trip from Bourgas to Bystre imported.
+Trip from Matriz de Camaragibe to Kabare imported.
+Trip from Cikabuyutan Barat to Athene imported.
+Trip from Volzhsk to Heqian imported.
+Trip from Rzhev to Vastra Frolunda imported.
+Trip from Cacapava to Tunoshna imported.
+Trip from Monte de Trigo to Ninh Giang imported.
+Trip from Pueblo Nuevo Vinas to Instanbul imported.
+Trip from Hirvensalmi to Huaian imported.
+Trip from Masu to Qinghe imported.
+Invalid data format.
+Trip from Sofia to Jaquimeyes imported.
+Trip from Varna to Chandmani imported.
+Trip from Masu to Pueblo Nuevo Vinas imported.
+Trip from Masu to Instanbul imported.
+Trip from San Juan de Colon to San Isidro imported.
+Trip from Matriz de Camaragibe to Chysky imported.
+Trip from Belgrad to Lapuz imported.
+Invalid data format.
+Invalid data format.
+Trip from Ajjah to San Isidro imported.
+Trip from Cacapava to Sofia imported.
+Invalid data format.
+Trip from Cacapava to Kelungkung imported.
+Trip from Hirvensalmi to Kabare imported.
+Trip from Huaian to Chysky imported.
+Trip from Vastra Frolunda to Varna imported.
+Trip from Chysky to San Juan de Colon imported.
+Trip from Varna to Ninh Giang imported.
+Trip from Rzhev to Chateaubelair imported.
+Trip from Sofia to Varna imported.
+Trip from Sofia to Matriz de Camaragibe imported.
+Invalid data format.
+Trip from Sofia to Sagay imported.
+Trip from Bulacan to Ovidiopol imported.
+Trip from Sofia to Chysky imported.
+Trip from Varna to Monte de Trigo imported.
+Trip from Chandmani to Davila imported.
+Invalid data format.
+Trip from Mos to Vastra Frolunda imported.
+Trip from Chandmani to Masu imported.
+Trip from Heqian to Jaquimeyes imported.
+Trip from Ninh Hoa to Jaquimeyes imported.
+Trip from Sofia to Varna imported.
+Trip from Belgrad to Lapuz imported.

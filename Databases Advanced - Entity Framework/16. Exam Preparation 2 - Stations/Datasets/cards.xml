@@ -1,0 +1,511 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<Cards>
+  <Card>
+    <Name>John Levit</Name>
+    <Age>25</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Ana Keanig</Name>
+    <Age>19</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Stephen Bennett</Name>
+    <Age>115</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Johnny Daniels</Name>
+    <Age>24</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Sara Frazier</Name>
+    <Age>19</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Carl Cook</Name>
+    <Age>63</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Anna Young</Name>
+    <Age>90</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Joan Henderson</Name>
+    <Age>36</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Wanda Romero</Name>
+    <Age>29</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Joan Kennedy</Name>
+    <Age>11</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Margaret Harper</Name>
+    <Age>21</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Diane Cruz</Name>
+    <Age>103</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Henry Moreno</Name>
+    <Age>83</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Jack Day</Name>
+    <Age>3</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Rebecca Ramirez</Name>
+    <Age>14</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Larry Palmer</Name>
+    <Age>102</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Marie Morales</Name>
+    <Age>6</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Justin Hill</Name>
+    <Age>68</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Christine Watkins</Name>
+    <Age>104</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Sara Webb</Name>
+    <Age>49</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Michelle Sanders</Name>
+    <Age>114</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Bonnie Smith</Name>
+    <Age>97</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Melissa Oliver</Name>
+    <Age>84</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Charles Harvey</Name>
+    <Age>13</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Frances Harper</Name>
+    <Age>76</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Sara Watkins</Name>
+    <Age>48</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Annie Rodriguez</Name>
+    <Age>42</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Cheryl Griffin</Name>
+    <Age>113</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Carolyn Olson</Name>
+    <Age>79</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Beverly Tucker</Name>
+    <Age>88</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Denise Watson</Name>
+    <Age>118</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Evelyn Rogers</Name>
+    <Age>40</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Nicholas Greene</Name>
+    <Age>120</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Todd Castillo</Name>
+    <Age>52</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Maria de la Santa Cruz Rosalina Agnelia Rodriguez Cuellar Rene Teresa García Ramírez de Arroyo Vargas Arroyo Ruiz Rodriguez Vargas Guzman Garcia</Name>
+    <Age>7</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Theresa Fowler</Name>
+    <Age>17</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Judy Morales</Name>
+    <Age>16</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Andrew Webb</Name>
+    <Age>22</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Michelle Powell</Name>
+    <Age>57</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Larry Hayes</Name>
+    <Age>13</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Carol Harper</Name>
+    <Age>50</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Helen Stephens</Name>
+    <Age>115</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Walter Knight</Name>
+    <Age>24</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Patrick Roberts</Name>
+    <Age>19</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Ernest Robertson</Name>
+    <Age>63</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Beverly Long</Name>
+    <Age>23</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Lori Little</Name>
+    <Age>93</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Alan Albert</Name>
+    <Age>53</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Norma Carpenter</Name>
+    <Age>74</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Ann Hicks</Name>
+    <Age>108</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Anne Carr</Name>
+    <Age>115</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Roger Nelson</Name>
+    <Age> 22</Age>
+  </Card>
+  <Card>
+    <Name>Keith Willis</Name>
+    <Age>75</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Sandra Cox</Name>
+    <Age>13</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Gary Rivera</Name>
+    <Age>53</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Linda Stone</Name>
+    <Age>41</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Carlos Lynch</Name>
+    <Age>43</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Jack Alvarez</Name>
+    <Age>73</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Juan Montgomery</Name>
+    <Age>117</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Shirley Stewart</Name>
+    <Age>96</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Paul Boyd</Name>
+    <Age>47</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Albert Roberts</Name>
+    <Age>11</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Rose Morrison</Name>
+    <Age>112</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>George Powell</Name>
+    <Age>105</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Robert Hill</Name>
+    <Age>87</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Joan Sain</Name>
+    <Age>1</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Joe Marshall</Name>
+    <Age>7</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Catherine Stanley</Name>
+    <Age>0</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Eugene Duncan</Name>
+    <Age>1</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Katherine Olson</Name>
+    <Age>107</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Carlos Carroll</Name>
+    <Age>3</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>William Fox</Name>
+    <Age>115</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Todd Garcia</Name>
+    <Age>53</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Johnny Larson</Name>
+    <Age>49</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Mary Ryan</Name>
+    <Age>108</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Matthew Gutierrez</Name>
+    <Age>47</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Daniel Montgomery</Name>
+    <Age> 31</Age>
+  </Card>
+  <Card>
+    <Name>Marilyn Harvey</Name>
+    <Age>103</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Wanda Ward</Name>
+    <Age>21</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Margaret Anderson</Name>
+    <Age>93</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Jane Meyer</Name>
+    <Age>79</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Roy George</Name>
+    <Age>23</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Robert Hansen</Name>
+    <Age>108</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Rose Oliver</Name>
+    <Age>37</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Keith Bryant</Name>
+    <Age>37</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Lawrence Arnold</Name>
+    <Age>80</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Rose Hicks</Name>
+    <Age>52</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+  <Card>
+    <Name>Jacqueline Green</Name>
+    <Age>75</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Philip Gordon</Name>
+    <Age>104</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Jeremy Carroll</Name>
+    <Age>115</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Johnny Sanchez</Name>
+    <Age>3</Age>
+    <CardType>Elder</CardType>
+  </Card>
+  <Card>
+    <Name>Wanda Olson</Name>
+    <Age>35</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Louise Wheeler</Name>
+    <Age>21</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Richard Lynch</Name>
+    <Age>60</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Richard Kennedy</Name>
+    <Age>42</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Kathleen Wells</Name>
+    <Age>54</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>David Carpenter</Name>
+    <Age>85</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Virginia Lewis</Name>
+    <Age>121</Age>
+    <CardType>Student</CardType>
+  </Card>
+  <Card>
+    <Name>Steve Wilson</Name>
+    <Age>19</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Donna White</Name>
+    <Age>34</Age>
+    <CardType>Normal</CardType>
+  </Card>
+  <Card>
+    <Name>Johnny Howell</Name>
+    <Age>-12</Age>
+    <CardType>Pupil</CardType>
+  </Card>
+  <Card>
+    <Name>Evelyn Owens</Name>
+    <Age>79</Age>
+    <CardType>Debilitated</CardType>
+  </Card>
+</Cards>

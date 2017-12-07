@@ -1,0 +1,52 @@
+Record KB20012 successfully imported.
+Record PM4956 successfully imported.
+Record IN035370 successfully imported.
+Record BL436170 successfully imported.
+Invalid data format.
+Record TO371820 successfully imported.
+Record UN2004411 successfully imported.
+Record JN070789 successfully imported.
+Record YG7183 successfully imported.
+Invalid data format.
+Record CZ3766 successfully imported.
+Record PU17333 successfully imported.
+Record EA01424 successfully imported.
+Record KU93940 successfully imported.
+Record PS42970 successfully imported.
+Record KV372634 successfully imported.
+Invalid data format.
+Record BQ877549 successfully imported.
+Invalid data format.
+Record HV212390 successfully imported.
+Invalid data format.
+Record MN9096 successfully imported.
+Record CL7141 successfully imported.
+Invalid data format.
+Record QT6209 successfully imported.
+Record NF0073 successfully imported.
+Invalid data format.
+Invalid data format.
+Record IX00216 successfully imported.
+Invalid data format.
+Record WK75971 successfully imported.
+Record QV395307 successfully imported.
+Invalid data format.
+Record AW8577 successfully imported.
+Invalid data format.
+Record VT08003 successfully imported.
+Invalid data format.
+Record XM8366 successfully imported.
+Invalid data format.
+Record QN2714 successfully imported.
+Record YP746803 successfully imported.
+Invalid data format.
+Invalid data format.
+Record FR46973 successfully imported.
+Invalid data format.
+Record KQ171903 successfully imported.
+Record RW46969 successfully imported.
+Invalid data format.
+Record AI8374 successfully imported.
+Record WQ598105 successfully imported.
+Record KZ46189 successfully imported.
+Record JX072057 successfully imported.
