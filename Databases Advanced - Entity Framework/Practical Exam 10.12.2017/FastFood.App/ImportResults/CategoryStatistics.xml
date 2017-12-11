@@ -1,0 +1,26 @@
+<Categories>
+  <Category>
+    <Name>Chicken</Name>
+    <MostPopularItem>
+      <Name>Chicken Tenders</Name>
+      <TotalMade>44</TotalMade>
+      <TimesSold>11</TimesSold>
+    </MostPopularItem>
+  </Category>
+  <Category>
+    <Name>Toys</Name>
+    <MostPopularItem>
+      <Name>Minion</Name>
+      <TotalMade>24.2</TotalMade>
+      <TimesSold>11</TimesSold>
+    </MostPopularItem>
+  </Category>
+  <Category>
+    <Name>Drinks</Name>
+    <MostPopularItem>
+      <Name>Purple Drink</Name>
+      <TotalMade>9.1</TotalMade>
+      <TimesSold>7</TimesSold>
+    </MostPopularItem>
+  </Category>
+</Categories>

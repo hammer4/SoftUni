@@ -1,0 +1,41 @@
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Invalid data format.
+Record Hamburger successfully imported.
+Invalid data format.
+Record Cheeseburger successfully imported.
+Record Quarter Pounder successfully imported.
+Record Double Cheeseburger successfully imported.
+Record Daily Double successfully imported.
+Record Ranger Burger successfully imported.
+Record BBQ Burger successfully imported.
+Record Bacon Deluxe successfully imported.
+Record Triple Cheeseburger successfully imported.
+Record Premium chicken sandwich successfully imported.
+Record Snack Wrap successfully imported.
+Record Premium Chicken Wrap successfully imported.
+Record Chicken Nuggets successfully imported.
+Record Crispy Chicken Deluxe successfully imported.
+Record Grilled Chicken Deluxe successfully imported.
+Record Tasty Basket successfully imported.
+Record Chicken Tenders successfully imported.
+Record Fries successfully imported.
+Record Crispy Fries successfully imported.
+Record Curly Fries successfully imported.
+Record Cola successfully imported.
+Record Orange Drink successfully imported.
+Record Purple Drink successfully imported.
+Record Ice Cream successfully imported.
+Record Cookie successfully imported.
+Record Cake successfully imported.
+Record Cesar Salad successfully imported.
+Record Tuna Salad successfully imported.
+Record Just Lettuce successfully imported.
+Record Minion successfully imported.
+Record Batman successfully imported.
+Record Mario successfully imported.
+Record Luigi successfully imported.
+Record Bowser successfully imported.

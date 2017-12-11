@@ -1,0 +1,85 @@
+{
+  "Name": "Avery Rush",
+  "Orders": [
+    {
+      "Customer": "Stacey",
+      "Items": [
+        {
+          "Name": "Cheeseburger",
+          "Price": 6.00,
+          "Quantity": 5
+        },
+        {
+          "Name": "Double Cheeseburger",
+          "Price": 6.50,
+          "Quantity": 3
+        },
+        {
+          "Name": "Bacon Deluxe",
+          "Price": 9.00,
+          "Quantity": 1
+        },
+        {
+          "Name": "Luigi",
+          "Price": 2.10,
+          "Quantity": 5
+        }
+      ],
+      "TotalPrice": 69.00
+    },
+    {
+      "Customer": "Pablo",
+      "Items": [
+        {
+          "Name": "Double Cheeseburger",
+          "Price": 6.50,
+          "Quantity": 3
+        },
+        {
+          "Name": "Bacon Deluxe",
+          "Price": 9.00,
+          "Quantity": 5
+        }
+      ],
+      "TotalPrice": 64.50
+    },
+    {
+      "Customer": "Bobbie",
+      "Items": [
+        {
+          "Name": "Fries",
+          "Price": 1.50,
+          "Quantity": 2
+        },
+        {
+          "Name": "Crispy Fries",
+          "Price": 2.00,
+          "Quantity": 5
+        },
+        {
+          "Name": "Tuna Salad",
+          "Price": 3.00,
+          "Quantity": 2
+        }
+      ],
+      "TotalPrice": 19.00
+    },
+    {
+      "Customer": "Joann",
+      "Items": [
+        {
+          "Name": "Bacon Deluxe",
+          "Price": 9.00,
+          "Quantity": 1
+        },
+        {
+          "Name": "Minion",
+          "Price": 2.20,
+          "Quantity": 2
+        }
+      ],
+      "TotalPrice": 13.40
+    }
+  ],
+  "TotalMade": 165.90
+}
