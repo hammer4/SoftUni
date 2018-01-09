@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Lists.exe
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Lists.pdb
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\bin\Debug\Lists.exe.config
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+C:\Users\User\Desktop\01. Linear Data Structures - Lab\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb
