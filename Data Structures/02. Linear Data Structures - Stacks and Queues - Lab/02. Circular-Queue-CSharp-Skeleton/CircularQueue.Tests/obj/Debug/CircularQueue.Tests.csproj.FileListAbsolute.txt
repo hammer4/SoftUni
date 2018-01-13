@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

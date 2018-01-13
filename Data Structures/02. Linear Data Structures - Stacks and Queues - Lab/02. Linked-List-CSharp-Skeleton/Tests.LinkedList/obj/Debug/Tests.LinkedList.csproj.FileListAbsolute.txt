@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb

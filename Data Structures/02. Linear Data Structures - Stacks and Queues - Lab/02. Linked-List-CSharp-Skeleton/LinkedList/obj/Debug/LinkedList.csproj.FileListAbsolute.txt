@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\User\Desktop\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

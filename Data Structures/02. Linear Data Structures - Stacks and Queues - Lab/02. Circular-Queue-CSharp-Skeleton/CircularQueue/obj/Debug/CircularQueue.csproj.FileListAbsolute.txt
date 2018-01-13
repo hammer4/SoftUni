@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\User\Desktop\02. Circular-Queue-CSharp-Skeleton\CircularQueue\obj\Debug\CircularQueue.pdb
