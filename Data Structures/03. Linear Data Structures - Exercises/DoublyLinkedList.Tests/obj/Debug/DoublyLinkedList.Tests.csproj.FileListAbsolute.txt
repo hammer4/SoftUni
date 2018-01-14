@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\User\Desktop\03. Linear Data Structures - Exercises\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
