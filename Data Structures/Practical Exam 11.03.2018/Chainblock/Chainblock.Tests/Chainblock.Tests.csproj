@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\NUnit3TestAdapter.3.9.0\build\net35\NUnit3TestAdapter.props" Condition="Exists('..\packages\NUnit3TestAdapter.3.9.0\build\net35\NUnit3TestAdapter.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A6138E1-A82F-42AE-A330-FFE860A25BB1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chainblock.Tests</RootNamespace>
+    <AssemblyName>Chainblock.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">15.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=3.9.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.9.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Correctness\Test01.cs" />
+    <Compile Include="Correctness\Test02.cs" />
+    <Compile Include="Correctness\Test03.cs" />
+    <Compile Include="Correctness\Test04.cs" />
+    <Compile Include="Correctness\Test05.cs" />
+    <Compile Include="Correctness\Test06.cs" />
+    <Compile Include="Correctness\Test07.cs" />
+    <Compile Include="Correctness\Test08.cs" />
+    <Compile Include="Correctness\Test09.cs" />
+    <Compile Include="Correctness\Test10.cs" />
+    <Compile Include="Correctness\Test11.cs" />
+    <Compile Include="Correctness\Test12.cs" />
+    <Compile Include="Correctness\Test13.cs" />
+    <Compile Include="Correctness\Test14.cs" />
+    <Compile Include="Correctness\Test15.cs" />
+    <Compile Include="Correctness\Test16.cs" />
+    <Compile Include="Correctness\Test17.cs" />
+    <Compile Include="Correctness\Test18.cs" />
+    <Compile Include="Correctness\Test19.cs" />
+    <Compile Include="Correctness\Test20.cs" />
+    <Compile Include="Correctness\Test21.cs" />
+    <Compile Include="Correctness\Test22.cs" />
+    <Compile Include="Correctness\Test23.cs" />
+    <Compile Include="Correctness\Test24.cs" />
+    <Compile Include="Correctness\Test25.cs" />
+    <Compile Include="Correctness\Test26.cs" />
+    <Compile Include="Correctness\Test27.cs" />
+    <Compile Include="Correctness\Test28.cs" />
+    <Compile Include="Correctness\Test29.cs" />
+    <Compile Include="Correctness\Test30.cs" />
+    <Compile Include="Correctness\Test31.cs" />
+    <Compile Include="Correctness\Test32.cs" />
+    <Compile Include="Correctness\Test33.cs" />
+    <Compile Include="Correctness\Test34.cs" />
+    <Compile Include="Correctness\Test35.cs" />
+    <Compile Include="Correctness\Test36.cs" />
+    <Compile Include="Correctness\Test37.cs" />
+    <Compile Include="Correctness\Test38.cs" />
+    <Compile Include="Correctness\Test39.cs" />
+    <Compile Include="Correctness\Test40.cs" />
+    <Compile Include="Correctness\Test41.cs" />
+    <Compile Include="Correctness\Test42.cs" />
+    <Compile Include="Correctness\Test43.cs" />
+    <Compile Include="Correctness\Test44.cs" />
+    <Compile Include="Correctness\Test45.cs" />
+    <Compile Include="Correctness\Test46.cs" />
+    <Compile Include="Correctness\Test47.cs" />
+    <Compile Include="Correctness\Test48.cs" />
+    <Compile Include="Correctness\Test49.cs" />
+    <Compile Include="Performance\Perf01.cs" />
+    <Compile Include="Performance\Perf02.cs" />
+    <Compile Include="Performance\Perf03.cs" />
+    <Compile Include="Performance\Perf04.cs" />
+    <Compile Include="Performance\Perf05.cs" />
+    <Compile Include="Performance\Perf06.cs" />
+    <Compile Include="Performance\Perf07.cs" />
+    <Compile Include="Performance\Perf08.cs" />
+    <Compile Include="Performance\Perf09.cs" />
+    <Compile Include="Performance\Perf10.cs" />
+    <Compile Include="Performance\Perf11.cs" />
+    <Compile Include="Performance\Perf12.cs" />
+    <Compile Include="Performance\Perf13.cs" />
+    <Compile Include="Performance\Perf14.cs" />
+    <Compile Include="Performance\Perf15.cs" />
+    <Compile Include="Performance\Perf16.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Chainblock\Chainblock.csproj">
+      <Project>{6d55fd77-a6b5-4fc2-99a3-a60991028286}</Project>
+      <Name>Chainblock</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NUnit3TestAdapter.3.9.0\build\net35\NUnit3TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit3TestAdapter.3.9.0\build\net35\NUnit3TestAdapter.props'))" />
+  </Target>
+</Project>
