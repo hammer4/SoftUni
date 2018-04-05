@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Knapsack", "01. Knapsack\01. Knapsack.csproj", "{61556041-3CBC-4265-9650-0FAE71B40A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Longest Common Subsequence", "02. Longest Common Subsequence\02. Longest Common Subsequence.csproj", "{026F39CF-4516-4FF9-B42A-7452FE68FAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61556041-3CBC-4265-9650-0FAE71B40A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61556041-3CBC-4265-9650-0FAE71B40A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61556041-3CBC-4265-9650-0FAE71B40A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61556041-3CBC-4265-9650-0FAE71B40A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026F39CF-4516-4FF9-B42A-7452FE68FAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026F39CF-4516-4FF9-B42A-7452FE68FAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026F39CF-4516-4FF9-B42A-7452FE68FAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026F39CF-4516-4FF9-B42A-7452FE68FAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F347FB0-D49E-41A8-B9E3-D88D322EC139}
+	EndGlobalSection
+EndGlobal
