@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Connecting Cables", "01. Connecting Cables\01. Connecting Cables.csproj", "{9297EB61-DB33-4C4D-B32F-C667A297C4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Minimum Edit Distance", "02. Minimum Edit Distance\02. Minimum Edit Distance.csproj", "{B2C03966-A55B-4974-9C1B-91296F011644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Symbol Multiplication", "03. Symbol Multiplication\03. Symbol Multiplication.csproj", "{F7076EED-7A19-49B7-B8DD-3C334321BDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9297EB61-DB33-4C4D-B32F-C667A297C4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9297EB61-DB33-4C4D-B32F-C667A297C4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9297EB61-DB33-4C4D-B32F-C667A297C4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9297EB61-DB33-4C4D-B32F-C667A297C4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C03966-A55B-4974-9C1B-91296F011644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C03966-A55B-4974-9C1B-91296F011644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C03966-A55B-4974-9C1B-91296F011644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C03966-A55B-4974-9C1B-91296F011644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7076EED-7A19-49B7-B8DD-3C334321BDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7076EED-7A19-49B7-B8DD-3C334321BDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7076EED-7A19-49B7-B8DD-3C334321BDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7076EED-7A19-49B7-B8DD-3C334321BDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F167927E-9E6A-4A70-9C93-A4AED9232786}
+	EndGlobalSection
+EndGlobal
