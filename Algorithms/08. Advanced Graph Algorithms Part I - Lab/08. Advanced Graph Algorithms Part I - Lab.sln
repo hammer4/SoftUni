@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurskal", "Kurskal\Kurskal.csproj", "{22106E58-7227-41EA-A4C9-69C3F38E7DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal.Tests", "Kruskal.Tests\Kruskal.Tests.csproj", "{715EF5B4-2AE4-4409-8AA6-73EF1B8D5C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraPriorityQueue", "DijkstraPriorityQueue\DijkstraPriorityQueue.csproj", "{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraPriorityQueue.Tests", "DijkstraPriorityQueue.Tests\DijkstraPriorityQueue.Tests.csproj", "{4BE096AD-C2A6-43AB-B12D-4803572D53D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{C1AE96D3-422B-4A66-A9DC-BC456A15B12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra.Tests", "Dijkstra.Tests\Dijkstra.Tests.csproj", "{8EE0B665-9E3B-4566-8361-D82E49530420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22106E58-7227-41EA-A4C9-69C3F38E7DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22106E58-7227-41EA-A4C9-69C3F38E7DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22106E58-7227-41EA-A4C9-69C3F38E7DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22106E58-7227-41EA-A4C9-69C3F38E7DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715EF5B4-2AE4-4409-8AA6-73EF1B8D5C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715EF5B4-2AE4-4409-8AA6-73EF1B8D5C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715EF5B4-2AE4-4409-8AA6-73EF1B8D5C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715EF5B4-2AE4-4409-8AA6-73EF1B8D5C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4A72DE-702A-472A-BA48-AC1BCF4D7B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE096AD-C2A6-43AB-B12D-4803572D53D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE096AD-C2A6-43AB-B12D-4803572D53D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE096AD-C2A6-43AB-B12D-4803572D53D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE096AD-C2A6-43AB-B12D-4803572D53D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1AE96D3-422B-4A66-A9DC-BC456A15B12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AE96D3-422B-4A66-A9DC-BC456A15B12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AE96D3-422B-4A66-A9DC-BC456A15B12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AE96D3-422B-4A66-A9DC-BC456A15B12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE0B665-9E3B-4566-8361-D82E49530420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE0B665-9E3B-4566-8361-D82E49530420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE0B665-9E3B-4566-8361-D82E49530420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE0B665-9E3B-4566-8361-D82E49530420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
