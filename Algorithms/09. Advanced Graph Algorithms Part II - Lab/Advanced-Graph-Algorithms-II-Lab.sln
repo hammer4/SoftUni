@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyConnectedComponents", "StronglyConnectedComponents\StronglyConnectedComponents.csproj", "{7ABCD255-DDE1-4CD0-A711-4F033F180112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyConnectedComponents.Tests", "StronglyConnectedComponents.Tests\StronglyConnectedComponents.Tests.csproj", "{E2FFE787-47CD-45D5-871C-8E3922C3F7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticulationPoints", "ArticulationPoints\ArticulationPoints.csproj", "{C82FE5A0-10B2-4D48-BB05-75581777878D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticulationPoints.Tests", "ArticulationPoints.Tests\ArticulationPoints.Tests.csproj", "{B3706FA7-2920-43A6-AE81-C23FA2A2B0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxFlowEdmondsKarp", "MaxFlowEdmondsKarp\MaxFlowEdmondsKarp.csproj", "{CBAC970E-B57F-4D2E-8A29-049120082E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxFlowEdmondsKarp.Tests", "MaxFlowEdmondsKarp.Tests\MaxFlowEdmondsKarp.Tests.csproj", "{AC712D51-5FE0-4B7B-AFEC-59AA5EA58F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABCD255-DDE1-4CD0-A711-4F033F180112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABCD255-DDE1-4CD0-A711-4F033F180112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABCD255-DDE1-4CD0-A711-4F033F180112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABCD255-DDE1-4CD0-A711-4F033F180112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FFE787-47CD-45D5-871C-8E3922C3F7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FFE787-47CD-45D5-871C-8E3922C3F7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FFE787-47CD-45D5-871C-8E3922C3F7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FFE787-47CD-45D5-871C-8E3922C3F7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82FE5A0-10B2-4D48-BB05-75581777878D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82FE5A0-10B2-4D48-BB05-75581777878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82FE5A0-10B2-4D48-BB05-75581777878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82FE5A0-10B2-4D48-BB05-75581777878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3706FA7-2920-43A6-AE81-C23FA2A2B0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3706FA7-2920-43A6-AE81-C23FA2A2B0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3706FA7-2920-43A6-AE81-C23FA2A2B0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3706FA7-2920-43A6-AE81-C23FA2A2B0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAC970E-B57F-4D2E-8A29-049120082E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAC970E-B57F-4D2E-8A29-049120082E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAC970E-B57F-4D2E-8A29-049120082E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAC970E-B57F-4D2E-8A29-049120082E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC712D51-5FE0-4B7B-AFEC-59AA5EA58F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC712D51-5FE0-4B7B-AFEC-59AA5EA58F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC712D51-5FE0-4B7B-AFEC-59AA5EA58F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC712D51-5FE0-4B7B-AFEC-59AA5EA58F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
