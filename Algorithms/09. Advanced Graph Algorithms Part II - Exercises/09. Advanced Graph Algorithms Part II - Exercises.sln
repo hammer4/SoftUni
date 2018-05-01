@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Find Bi-Connected Components", "02. Find Bi-Connected Components\02. Find Bi-Connected Components.csproj", "{406462DE-5D73-4247-8F70-C8B238A8B821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Maximum Tasks Assignment", "01. Maximum Tasks Assignment\01. Maximum Tasks Assignment.csproj", "{911BBB1B-9D38-4F4A-AED2-F4916A646009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406462DE-5D73-4247-8F70-C8B238A8B821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406462DE-5D73-4247-8F70-C8B238A8B821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406462DE-5D73-4247-8F70-C8B238A8B821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406462DE-5D73-4247-8F70-C8B238A8B821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911BBB1B-9D38-4F4A-AED2-F4916A646009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911BBB1B-9D38-4F4A-AED2-F4916A646009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911BBB1B-9D38-4F4A-AED2-F4916A646009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911BBB1B-9D38-4F4A-AED2-F4916A646009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070EFF86-DFA6-4539-9777-1EC981BA2F77}
+	EndGlobalSection
+EndGlobal
