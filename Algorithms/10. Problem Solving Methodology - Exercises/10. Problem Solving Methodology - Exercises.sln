@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Shortest Path in Matrix", "01. Shortest Path in Matrix\01. Shortest Path in Matrix.csproj", "{FAE6FD3B-35A9-413C-A1FF-F78F8E5DDEF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rectangle Intersection", "02. Rectangle Intersection\02. Rectangle Intersection.csproj", "{2D254820-2E78-42B1-BEE3-71AE605316C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE6FD3B-35A9-413C-A1FF-F78F8E5DDEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE6FD3B-35A9-413C-A1FF-F78F8E5DDEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE6FD3B-35A9-413C-A1FF-F78F8E5DDEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE6FD3B-35A9-413C-A1FF-F78F8E5DDEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D254820-2E78-42B1-BEE3-71AE605316C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D254820-2E78-42B1-BEE3-71AE605316C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D254820-2E78-42B1-BEE3-71AE605316C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D254820-2E78-42B1-BEE3-71AE605316C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFAA14C-5B40-48B6-BD32-26F3D933F870}
+	EndGlobalSection
+EndGlobal
